@@ -10,5 +10,5 @@ Leetcode Problem Practice
 
 
 
-[167. Two Sum II - Input array is sorted]:https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/
+[167. Two Sum II - Input array is sorted]:https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/TwoSumII_167.java
   
