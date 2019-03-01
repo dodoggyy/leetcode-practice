@@ -13,7 +13,10 @@ Leetcode Problem Practice
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfSquareNumbers_633.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
 
     *345. Reverse Vowels of a String (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfSquareNumbers_633.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseVowelsOfAString_345.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
+
+    *680. Valid Palindrome II (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPalindromeII_680.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
 
 ## Authors
 
