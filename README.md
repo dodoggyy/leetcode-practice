@@ -26,6 +26,9 @@ Leetcode Problem Practice
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPalindromeII_680.java) 
      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
 
+    * *704. Binary Search (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinarySearch_704.java) 
+     [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
     
 ## Authors
 
