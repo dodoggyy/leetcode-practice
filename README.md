@@ -22,6 +22,10 @@ Leetcode Problem Practice
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseVowelsOfAString_345.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
 
+    * *524. Longest Word in Dictionary through Deleting (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestWordinDictionarythroughDeleting_524.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
+     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+
     * *633. Sum of Square Numbers (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfSquareNumbers_633.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
