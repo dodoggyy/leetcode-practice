@@ -18,12 +18,16 @@ Leetcode Problem Practice
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/TwoSumII_167.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
 
+    * *215. Kth Largest Element in an Array (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/KthLargestElementinanArray_215.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
+     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+
     * *345. Reverse Vowels of a String (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseVowelsOfAString_345.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
 
     * *524. Longest Word in Dictionary through Deleting (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestWordinDictionarythroughDeleting_524.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LongestWordinDictionarythroughDeleting_524.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
 
     * *633. Sum of Square Numbers (Easy)
