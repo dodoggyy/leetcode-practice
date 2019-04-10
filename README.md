@@ -9,6 +9,10 @@ Leetcode Problem Practice
     * *88. Merge Sorted Array (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeSortedArray_88.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     
+     * *100. Same Tree (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SameTree_100.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
+     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
 
      * *141. Linked List Cycle (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LinkedListCycle_141.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
