@@ -30,8 +30,12 @@ Leetcode Problem Practice
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseVowelsOfAString_345.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
      
-     * *345. Top K Frequent Elements (Medium)
+     * *347. Top K Frequent Elements (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/TopKFrequentElements_347.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
+     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     
+     * *451. Sort Characters By Frequency (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SortCharactersByFrequency_451.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
 
     * *524. Longest Word in Dictionary through Deleting (Medium)
