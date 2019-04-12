@@ -6,6 +6,10 @@ Leetcode Problem Practice
 
 * **LeetCode :**
 
+    * *75. Sort Colors (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SortColors_75.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
+     
+     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
     * *88. Merge Sorted Array (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeSortedArray_88.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
