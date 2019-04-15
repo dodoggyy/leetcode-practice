@@ -33,6 +33,10 @@ Leetcode Problem Practice
         215. Kth Largest Element in an Array (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/KthLargestElementinanArray_215.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     
+        268. Missing Number (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MissingNumber_268.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
+     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
 
         345. Reverse Vowels of a String (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseVowelsOfAString_345.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
