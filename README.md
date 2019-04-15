@@ -17,6 +17,10 @@ Leetcode Problem Practice
         100. Same Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SameTree_100.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     
+        136. Single Number (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SingleNumber_136.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
+     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
 
         141. Linked List Cycle (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LinkedListCycle_141.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)

@@ -30,4 +30,17 @@ public class HammingDistance_461 {
         }
         return mBitCount;
     }
+    
+    // without bitCount API
+    // Runtime: 0 ms, faster than 100.00%
+    // Memory Usage: 31.9 MB, less than 100.00%
+    public int hammingDistance3(int x, int y) {
+        int z = x ^ y;
+        int mBitCount = 0;
+        while (z != 0) {
+           z &= (z-1); // (z AND (z-1)) means remove LSB in 1 s'
+           mBitCount++;
+        }
+        return mBitCount;
+    }
 }
