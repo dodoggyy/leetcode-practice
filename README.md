@@ -34,6 +34,10 @@ Leetcode Problem Practice
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/KthLargestElementinanArray_215.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
      
+        260. Single Number III (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SingleNumberIII_260.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
+     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     
         268. Missing Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MissingNumber_268.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
