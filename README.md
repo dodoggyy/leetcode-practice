@@ -2,6 +2,8 @@
 
 Leetcode Problem Practice
 
+Design Pattern
+
 ## 完成項目:
 
 *   **LeetCode :**
@@ -82,6 +84,14 @@ Leetcode Problem Practice
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinarySearch_704.java) 
      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
     
+    
+    
+*   **Design Pattern :**
+
+        1. Singleton Pattern
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/designpattern/SingletonPatternMultiThread.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
+     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+
 ## Authors
 
 * **Chris Lin** - *Java implementation* - [chris](https://www.linkedin.com/in/quanliang-lin-5009ba139/)
