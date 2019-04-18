@@ -79,6 +79,10 @@ Design Pattern
         461. Hamming Distance (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HammingDistance_461.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     
+        476. Number Complement (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NumberComplement_476.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
+     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
 
         524. Longest Word in Dictionary through Deleting (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LongestWordinDictionarythroughDeleting_524.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
