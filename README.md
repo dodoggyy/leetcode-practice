@@ -91,6 +91,10 @@ Design Pattern
         680. Valid Palindrome II (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPalindromeII_680.java) 
      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     
+         693. Binary Number with Alternating Bits (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryNumberwithAlternatingBits_693.java) 
+     [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
 
         704. Binary Search (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinarySearch_704.java) 
