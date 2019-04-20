@@ -56,6 +56,10 @@ Design Pattern
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MissingNumber_268.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
      
+        318. Missing Number (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MaximumProductofWordLengths_318.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
+     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     
         342. Power of Four (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofFour_342.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
