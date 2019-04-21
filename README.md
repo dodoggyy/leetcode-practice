@@ -13,116 +13,88 @@ Design Pattern
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
      
         75. Sort Colors (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SortColors_75.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SortColors_75.java)
      
         88. Merge Sorted Array (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeSortedArray_88.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeSortedArray_88.java)
      
         100. Same Tree (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SameTree_100.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SameTree_100.java)
      
         136. Single Number (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SingleNumber_136.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SingleNumber_136.java)
 
         141. Linked List Cycle (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LinkedListCycle_141.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LinkedListCycle_141.java)
 
         167. Two Sum II - Input array is sorted (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/TwoSumII_167.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/TwoSumII_167.java)
      
         190. Reverse Bits (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseBits_190.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseBits_190.java)
 
         215. Kth Largest Element in an Array (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/KthLargestElementinanArray_215.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/KthLargestElementinanArray_215.java)
      
         231. Power of Two (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofTwo_231.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofTwo_231.java)
      
         260. Single Number III (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SingleNumberIII_260.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SingleNumberIII_260.java)
      
         268. Missing Number (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MissingNumber_268.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MissingNumber_268.java)
      
         318. Missing Number (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MaximumProductofWordLengths_318.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MaximumProductofWordLengths_318.java)
      
         338. Counting Bits (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CountingBits_338.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CountingBits_338.java)
      
         342. Power of Four (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofFour_342.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofFour_342.java)
 
         345. Reverse Vowels of a String (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseVowelsOfAString_345.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseVowelsOfAString_345.java)
      
         347. Top K Frequent Elements (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/TopKFrequentElements_347.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/TopKFrequentElements_347.java)
      
         371. Sum of Two Integers (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumofTwoIntegers_371.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumofTwoIntegers_371.java)
      
         451. Sort Characters By Frequency (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SortCharactersByFrequency_451.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SortCharactersByFrequency_451.java)
      
         455. Assign Cookies (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AssignCookies_455.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AssignCookies_455.java)
      
         461. Hamming Distance (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HammingDistance_461.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HammingDistance_461.java)
      
         476. Number Complement (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NumberComplement_476.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NumberComplement_476.java)
 
         524. Longest Word in Dictionary through Deleting (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LongestWordinDictionarythroughDeleting_524.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LongestWordinDictionarythroughDeleting_524.java)
 
         633. Sum of Square Numbers (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfSquareNumbers_633.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfSquareNumbers_633.java)
 
         680. Valid Palindrome II (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPalindromeII_680.java) 
-     [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPalindromeII_680.java)
      
          693. Binary Number with Alternating Bits (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryNumberwithAlternatingBits_693.java) 
-     [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryNumberwithAlternatingBits_693.java)
 
         704. Binary Search (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinarySearch_704.java) 
-     [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
-    
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinarySearch_704.java)
     
     
 *   **Design Pattern :**
 
         1. Singleton Pattern
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/designpattern/SingletonPatternMultiThread.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/designpattern/SingletonPatternMultiThread.java)
 
 ## Authors
 
