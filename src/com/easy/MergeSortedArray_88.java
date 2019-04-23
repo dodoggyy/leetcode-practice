@@ -12,7 +12,6 @@ public class MergeSortedArray_88 {
     // Runtime: 2 ms, faster than 100.00% of Java
     // Memory Usage: 37.3 MB, less than 72.80% of Java
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int mIndexStart = 0;
         int mIndexM = 0;
         int mIndexN = 0;
         int mIndexTmp = 0;

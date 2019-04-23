@@ -13,8 +13,6 @@ public class ReverseVowelsOfAString_345 {
     public static void main(String[] args) {
         // TODO Auto-generated method stub
         String s = "hello";
-        char[] mResult = s.toCharArray();
-
         System.out.println(reverseVowels(s));
     }
 

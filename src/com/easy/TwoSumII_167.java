@@ -4,7 +4,6 @@
 package com.easy;
 
 import java.util.HashMap;
-import java.util.Map;
 
 /**
  * @author Chris Lin
