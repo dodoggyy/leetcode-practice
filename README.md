@@ -26,6 +26,9 @@ Design Pattern
 
         141. Linked List Cycle (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LinkedListCycle_141.java)
+     
+        160. Intersection of Two Linked Lists (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/IntersectionofTwoLinkedLists_160.java)
 
         167. Two Sum II - Input array is sorted (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/TwoSumII_167.java)
