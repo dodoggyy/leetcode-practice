@@ -17,6 +17,8 @@ Design Pattern
      
         75. Sort Colors (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SortColors_75.java)
+        83. Remove Duplicates from Sorted List (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/RemoveDuplicatesfromSortedList_83.java)
      
         88. Merge Sorted Array (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeSortedArray_88.java)
