@@ -55,6 +55,7 @@ public class KthLargestElementinanArray_215 {
         return nums[nums.length - k];
     }
 
+    // Quick sort with DS version
     // Runtime: 28 ms, faster than 35.46%
     // Memory Usage: 39.2 MB, less than 13.73%
     private static void quickSort(int[] nums, int mIndexStart, int mIndexEnd) {
@@ -85,6 +86,29 @@ public class KthLargestElementinanArray_215 {
         
         quickSort(nums, mIndexStart, (mTmpIndexRight - 1));
         quickSort(nums, (mTmpIndexRight + 1), mIndexEnd);
+        }
+    }
+    
+    private static int  partition(int[] nums, int mIndexLeft, int mIndexRight) {
+        int i = mIndexLeft - 1;
+        for(int j = mIndexLeft; j < mIndexRight; j++) {
+            if(nums[j] < nums[mIndexRight]) {
+                i++;
+                swap(nums, i , j);
+            }
+        }
+        swap(nums, (i+1), mIndexRight);
+        return (i+1);
+    }
+    
+    // Quick sort with Algorithm version (partition)
+    // Runtime: 84 ms, faster than 5.22%
+    // Memory Usage: 38.8 MB, less than 57.34%
+    private static void quickSort2(int[] nums, int mIndexLeft, int mIndexRight) {
+        if(mIndexLeft < mIndexRight) {
+            int q = partition(nums, mIndexLeft, mIndexRight);
+            quickSort2(nums, mIndexLeft, q-1);
+            quickSort2(nums, q+1, mIndexRight);
         }
     }
 
