@@ -32,6 +32,9 @@ Design Pattern
         100. Same Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SameTree_100.java)
      
+     	104. Maximum Depth of Binary Tree (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MaximumDepthofBinaryTree_104.java)
+     
         136. Single Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SingleNumber_136.java)
 
