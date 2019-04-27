@@ -58,6 +58,8 @@ Design Pattern
 
         215. Kth Largest Element in an Array (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/KthLargestElementinanArray_215.java)
+     	226.  Invert Binary Tree (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/InvertBinaryTree_226.java)
      
         231. Power of Two (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofTwo_231.java)
