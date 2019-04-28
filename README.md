@@ -23,6 +23,7 @@ Design Pattern
      
         75. Sort Colors (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SortColors_75.java)
+        
         83. Remove Duplicates from Sorted List (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/RemoveDuplicatesfromSortedList_83.java)
      
@@ -61,6 +62,7 @@ Design Pattern
 
         215. Kth Largest Element in an Array (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/KthLargestElementinanArray_215.java)
+     
      	226.  Invert Binary Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/InvertBinaryTree_226.java)
      
