@@ -21,6 +21,9 @@ Design Pattern
         24. Swap Nodes in Pairs (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SwapNodesinPairs_24.java)
      
+        70. Climbing Stairs (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ClimbingStairs_70.java)
+     
         75. Sort Colors (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SortColors_75.java)
         
