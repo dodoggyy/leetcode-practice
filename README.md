@@ -63,6 +63,9 @@ Design Pattern
         190. Reverse Bits (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseBits_190.java)
      
+        198. House Robber (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HouseRobber_198.java)
+     
         206. Reverse Linked List (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseLinkedList_206.java)
 
