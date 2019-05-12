@@ -28,7 +28,7 @@ Design Pattern
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SortColors_75.java)
         
         83. Remove Duplicates from Sorted List (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/RemoveDuplicatesfromSortedList_83.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RemoveDuplicatesfromSortedList_83.java)
      
         88. Merge Sorted Array (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeSortedArray_88.java)
@@ -90,7 +90,10 @@ Design Pattern
         338. Counting Bits (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CountingBits_338.java)
      
-        342. Power of Four (Easy)
+        344. Reverse String (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseString_344.java)
+     
+        344. Power of Four (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofFour_342.java)
 
         345. Reverse Vowels of a String (Easy)
