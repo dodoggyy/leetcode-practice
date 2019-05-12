@@ -19,7 +19,10 @@ Design Pattern
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeTwoSortedLists_21.java)
      
         24. Swap Nodes in Pairs (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SwapNodesinPairs_24.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SwapNodesinPairs_24.java)
+     
+        48. Rotate Image (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/RotateImage_48.java)
      
         70. Climbing Stairs (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ClimbingStairs_70.java)
@@ -90,10 +93,10 @@ Design Pattern
         338. Counting Bits (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CountingBits_338.java)
      
-        344. Reverse String (Easy)
+        342. Power of Four (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseString_344.java)
      
-        344. Power of Four (Easy)
+        344. Reverse String (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofFour_342.java)
 
         345. Reverse Vowels of a String (Easy)
