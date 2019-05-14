@@ -81,23 +81,26 @@ Design Pattern
         231. Power of Two (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofTwo_231.java)
      
+        242. Valid Anagram (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidAnagram_242.java)
+     
         260. Single Number III (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SingleNumberIII_260.java)
      
         268. Missing Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MissingNumber_268.java)
      
-        318. Missing Number (Medium)
+        318. Maximum Product of Word Lengths (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MaximumProductofWordLengths_318.java)
      
         338. Counting Bits (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CountingBits_338.java)
      
         342. Power of Four (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseString_344.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofFour_342.java)
      
         344. Reverse String (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofFour_342.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseString_344.java)
 
         345. Reverse Vowels of a String (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseVowelsOfAString_345.java)
