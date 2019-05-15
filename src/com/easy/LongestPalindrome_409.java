@@ -10,8 +10,8 @@ package com.easy;
 public class LongestPalindrome_409 {
 
     // Array count
-    // Time Complexity: O(2n) = O(n)
-    // Space Complexity:O(n)
+    // Time Complexity: O(n)
+    // Space Complexity:O(1)
     // Runtime: 1 ms, faster than 100.00%
     // Memory Usage: 33.8 MB, less than 100.00%
     public int longestPalindrome(String s) {
