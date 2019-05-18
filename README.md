@@ -146,6 +146,9 @@ Design Pattern
 
         633. Sum of Square Numbers (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfSquareNumbers_633.java)
+     
+        647. Palindromic Substrings (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/PalindromicSubstrings_647.java)
 
         680. Valid Palindrome II (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPalindromeII_680.java)

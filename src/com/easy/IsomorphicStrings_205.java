@@ -11,7 +11,7 @@ public class IsomorphicStrings_205 {
 
     // Array count
     // Time Complexity: O(n)
-    // Space Complexity:O(1)
+    // Space Complexity: O(2n) = O(n)
     // Runtime: 4 ms, faster than 87.99%
     // Memory Usage: 34.9 MB, less than 87.92%
     public boolean isIsomorphic(String s, String t) {
