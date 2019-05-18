@@ -155,6 +155,9 @@ Design Pattern
      
          693. Binary Number with Alternating Bits (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryNumberwithAlternatingBits_693.java)
+     
+        696. Count Binary Substrings (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CountBinarySubstrings_696.java)
 
         704. Binary Search (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinarySearch_704.java)
