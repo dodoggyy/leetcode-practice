@@ -8,9 +8,12 @@ Design Pattern
 
 *   **LeetCode :**
 
-        9. Palindrome Number (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PalindromeNumber_9.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
+        1. Two Sum (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/TwoSum_1.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)
+     
+        9. Palindrome Number (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PalindromeNumber_9.java)
      
         19. Remove Nth Node From End of List (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/RemoveNthNodeFromEndofList_19.java)
