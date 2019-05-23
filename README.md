@@ -4,6 +4,8 @@ Leetcode Problem Practice
 
 Design Pattern
 
+Data Structure
+
 ## 完成項目:
 
 *   **LeetCode :**
@@ -80,6 +82,9 @@ Design Pattern
 
         215. Kth Largest Element in an Array (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/KthLargestElementinanArray_215.java)
+     
+        217. Contains Duplicate (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ContainsDuplicate_217.java)
      
      	226.  Invert Binary Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/InvertBinaryTree_226.java)
@@ -170,6 +175,12 @@ Design Pattern
 
         1. Singleton Pattern
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/designpattern/SingletonPatternMultiThread.java)
+
+*   **Data Structure :**
+
+        1. Stack
+     [Array version](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/datastructure/StackViaArray.java)
+     [Linked List version](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/datastructure/StackViaLinkedList.java)
 
 ## Authors
 
