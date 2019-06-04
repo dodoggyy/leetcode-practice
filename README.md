@@ -92,6 +92,9 @@ Data Structure
         231. Power of Two (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofTwo_231.java)
      
+        232. Implement Queue using Stacks (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ImplementQueueUsingStacks_232.java)
+     
         242. Valid Anagram (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidAnagram_242.java)
      
