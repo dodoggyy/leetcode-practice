@@ -179,8 +179,12 @@ Data Structure
 *   **Data Structure :**
 
         1. Stack
-     [Array version](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/datastructure/StackViaArray.java)
-     [Linked List version](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/datastructure/StackViaLinkedList.java)
+     [Array](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/datastructure/StackViaArray.java)
+     [Linked List](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/datastructure/StackViaLinkedList.java)
+     
+        2. Queue
+     [Array](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/datastructure/QueueViaArray.java)
+     [Linked List](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/datastructure/QueueViaLinkedList.java)
 
 ## Authors
 

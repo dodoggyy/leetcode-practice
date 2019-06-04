@@ -7,11 +7,11 @@ package com.datastructure;
  * @author Chris Lin
  * @version 1.0
  */
-public abstract class StackHandler<T> {
+public abstract class QueueHandler<T> {
     abstract public int size();
     abstract public boolean isEmpty();
-    abstract public void push(T aValue);
-    abstract public T pop();
+    abstract public void enqueue(T aValue);
+    abstract public T dequeue();
     abstract public T peek();
-    abstract public void printStack();
+    abstract public void printQueue();
 }

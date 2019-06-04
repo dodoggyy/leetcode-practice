@@ -68,6 +68,7 @@ public class StackViaLinkedList<T> extends StackHandler<T> {
         }
     }
 
+    @Override
     public T peek() {
         if (mHead == null) {
             return null;
@@ -96,9 +97,12 @@ public class StackViaLinkedList<T> extends StackHandler<T> {
         System.out.printf("pop item : %d\n", mStackObject.pop());
         mStackObject.printStack();
         mStackObject.push(1);
+        System.out.printf("peek item : %d\n", mStackObject.peek());
         mStackObject.printStack();
         mStackObject.push(2);
+        System.out.printf("peek item : %d\n", mStackObject.peek());
         mStackObject.push(3);
+        System.out.printf("peek item : %d\n", mStackObject.peek());
         for (int i = 4; i < 10; i++) {
             mStackObject.push(i);
         }
@@ -107,5 +111,9 @@ public class StackViaLinkedList<T> extends StackHandler<T> {
         System.out.printf("pop item : %d\n", mStackObject.pop());
         System.out.printf("pop item : %d\n", mStackObject.pop());
         mStackObject.printStack();
+        
+        System.out.printf("peek item : %d\n", mStackObject.peek());
+        
+        
     }
 }

@@ -69,6 +69,12 @@ public class StackViaArray<T> extends StackHandler<T> {
 
         System.out.printf("Empty:%b\n", isEmpty());
     }
+    
+    @Override
+    public T peek() {
+        // TODO Auto-generated method stub
+        return mStack[mTop - 1];
+    }
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
@@ -76,9 +82,12 @@ public class StackViaArray<T> extends StackHandler<T> {
         System.out.printf("pop item : %d\n", mStackObject.pop());
         mStackObject.printStack();
         mStackObject.push(1);
+        System.out.printf("peek item : %d\n", mStackObject.peek());
         mStackObject.printStack();
         mStackObject.push(2);
+        System.out.printf("peek item : %d\n", mStackObject.peek());
         mStackObject.push(3);
+        System.out.printf("peek item : %d\n", mStackObject.peek());
         for (int i = 4; i < 10; i++) {
             mStackObject.push(i);
         }
@@ -87,6 +96,9 @@ public class StackViaArray<T> extends StackHandler<T> {
         System.out.printf("pop item : %d\n", mStackObject.pop());
         System.out.printf("pop item : %d\n", mStackObject.pop());
         mStackObject.printStack();
+        
+        System.out.printf("peek item : %d\n", mStackObject.peek());
+        
     }
 
 }
