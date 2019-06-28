@@ -53,6 +53,9 @@ Data Structure
      	110. Balanced Binary Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BalancedBinaryTree_110.java)
      
+       111. Minimum Depth of Binary Tree (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MinimumDepthOfBinaryTree_111.java)
+     
      	112. Path Sum (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PathSum_112.java)
      
