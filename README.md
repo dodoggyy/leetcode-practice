@@ -173,6 +173,9 @@ Data Structure
         680. Valid Palindrome II (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPalindromeII_680.java)
      
+        687. Longest Univalue Path (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestUnivaluePath_687.java)
+     
          693. Binary Number with Alternating Bits (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryNumberwithAlternatingBits_693.java)
      
