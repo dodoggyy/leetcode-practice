@@ -172,6 +172,9 @@ Data Structure
      
         647. Palindromic Substrings (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/PalindromicSubstrings_647.java)
+     
+        671. Second Minimum Node In a Binary Tree (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SecondMinimumNodeInABinaryTree_671.java)
 
         680. Valid Palindrome II (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPalindromeII_680.java)
