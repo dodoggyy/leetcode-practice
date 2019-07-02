@@ -170,6 +170,9 @@ Data Structure
         633. Sum of Square Numbers (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfSquareNumbers_633.java)
      
+        637. Average of Levels in Binary Tree (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AverageOfLevelsInBinaryTree_637.java)
+     
         647. Palindromic Substrings (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/PalindromicSubstrings_647.java)
      
