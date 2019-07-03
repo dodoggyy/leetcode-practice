@@ -65,8 +65,11 @@ Data Structure
         141. Linked List Cycle (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LinkedListCycle_141.java)
      
-        144. Linked List Cycle (Medium)
+        144. Binary Tree Preorder Traversal (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/BinaryTreePreorderTraversal_144.java)
+     
+        145. Binary Tree Postorder Traversal (Hard)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/hard/BinaryTreePostorderTraversal_145.java)
      
         160. Intersection of Two Linked Lists (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/IntersectionofTwoLinkedLists_160.java)
