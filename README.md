@@ -65,6 +65,9 @@ Data Structure
         141. Linked List Cycle (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LinkedListCycle_141.java)
      
+        144. Linked List Cycle (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/BinaryTreePreorderTraversal_144.java)
+     
         160. Intersection of Two Linked Lists (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/IntersectionofTwoLinkedLists_160.java)
 
@@ -173,7 +176,7 @@ Data Structure
         633. Sum of Square Numbers (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfSquareNumbers_633.java)
      
-        637. Average of Levels in Binary Tree (Easy)
+        637. Average of Levels in Binary Tree (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AverageOfLevelsInBinaryTree_637.java)
      
         647. Palindromic Substrings (Medium)
