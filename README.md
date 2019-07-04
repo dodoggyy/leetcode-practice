@@ -173,6 +173,9 @@ Data Structure
         524. Longest Word in Dictionary through Deleting (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LongestWordinDictionarythroughDeleting_524.java)
      
+        538. Convert BST to Greater Tree (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ConvertBSTtoGreaterTree_538.java)
+     
         543. Diameter of Binary Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DiameterofBinaryTree_543.java)
      
