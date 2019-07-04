@@ -101,8 +101,11 @@ Data Structure
         225. Implement Stack using Queues (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ImplementStackUsingQueues_225.java)
      
-        226.  Invert Binary Tree (Easy)
+        226. Invert Binary Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/InvertBinaryTree_226.java)
+     
+        230. Kth Smallest Element in a BST (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/KthSmallestElementInABST_230.java)
      
         231. Power of Two (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofTwo_231.java)
