@@ -116,6 +116,9 @@ Data Structure
         235. Lowest Common Ancestor of a Binary Search Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LowestCommonAncestorOfABinarySearchTree_235.java)
      
+        236. Lowest Common Ancestor of a Binary Tree (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LowestCommonAncestorOfABinaryTree_236.java)
+     
         242. Valid Anagram (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidAnagram_242.java)
      
