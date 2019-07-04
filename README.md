@@ -113,6 +113,9 @@ Data Structure
         232. Implement Queue using Stacks (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ImplementQueueUsingStacks_232.java)
      
+        235. Lowest Common Ancestor of a Binary Search Tree (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LowestCommonAncestorOfABinarySearchTree_235.java)
+     
         242. Valid Anagram (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidAnagram_242.java)
      
