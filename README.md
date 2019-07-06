@@ -29,6 +29,9 @@ Data Structure
         48. Rotate Image (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/RotateImage_48.java)
      
+        64. Minimum Path Sum (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MinimumPathSum_64.java)
+     
         70. Climbing Stairs (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ClimbingStairs_70.java)
      
