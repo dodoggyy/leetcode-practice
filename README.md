@@ -173,6 +173,9 @@ Data Structure
         409. Longest Palindrome (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestPalindrome_409.java)
      
+        413. Arithmetic Slices (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ArithmeticSlices_413.java)
+     
         437. Path Sum III
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PathSumIII_437.java)
      
