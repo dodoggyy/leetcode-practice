@@ -155,6 +155,9 @@ Data Structure
         342. Power of Four (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofFour_342.java)
      
+        343. Integer Break (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/IntegerBreak_343.java)
+     
         344. Reverse String (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseString_344.java)
 
