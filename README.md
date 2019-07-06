@@ -140,6 +140,9 @@ Data Structure
         268. Missing Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MissingNumber_268.java)
      
+        303. Range Sum Query - Immutable (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RangeSumQuery_303.java)
+     
         318. Maximum Product of Word Lengths (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MaximumProductofWordLengths_318.java)
      
