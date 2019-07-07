@@ -49,6 +49,8 @@ Data Structure
      
         88. Merge Sorted Array (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeSortedArray_88.java)
+        91. Decode Ways (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/DecodeWays_91.java)
      
         94. Binary Tree Inorder Traversal (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/BinaryTreeInorderTraversal_94.java)
