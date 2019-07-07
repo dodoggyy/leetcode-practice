@@ -88,6 +88,9 @@ Data Structure
         145. Binary Tree Postorder Traversal (Hard)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/hard/BinaryTreePostorderTraversal_145.java)
      
+        155. Min Stack (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MinStack_155.java)
+     
         160. Intersection of Two Linked Lists (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/IntersectionofTwoLinkedLists_160.java)
 
