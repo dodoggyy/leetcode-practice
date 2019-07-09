@@ -29,6 +29,9 @@ Data Structure
         24. Swap Nodes in Pairs (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SwapNodesinPairs_24.java)
      
+        26. Remove Duplicates from Sorted Array (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RemoveDuplicatesFromSortedArray_26.java)
+     
         48. Rotate Image (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/RotateImage_48.java)
      
