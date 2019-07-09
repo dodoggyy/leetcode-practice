@@ -85,6 +85,9 @@ Data Structure
         112. Path Sum (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PathSum_112.java)
      
+        118. Pascal's Triangle (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PascalsTriangle_118.java)
+     
         136. Single Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SingleNumber_136.java)
 
