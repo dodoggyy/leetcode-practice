@@ -41,6 +41,9 @@ Data Structure
         64. Minimum Path Sum (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MinimumPathSum_64.java)
      
+        67. Climbing Stairs (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AddBinary_67.java)
+     
         70. Climbing Stairs (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ClimbingStairs_70.java)
      
