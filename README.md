@@ -124,6 +124,9 @@ Data Structure
         169. Majority Element (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MajorityElement_169.java)
      
+        171. Excel Sheet Column Number (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ExcelSheetColumnNumber_171.java)
+     
         190. Reverse Bits (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseBits_190.java)
      
