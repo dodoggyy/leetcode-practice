@@ -127,6 +127,9 @@ Data Structure
         171. Excel Sheet Column Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ExcelSheetColumnNumber_171.java)
      
+        172. Factorial Trailing Zeroes (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FactorialTrailingZeroes_172.java)
+     
         190. Reverse Bits (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseBits_190.java)
      
