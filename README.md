@@ -91,6 +91,9 @@ Data Structure
         119. Pascal's Triangle II (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PascalsTriangleII_119.java)
      
+        121. Best Time to Buy and Sell Stock (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BestTimeToBuyAndSellStock_121.java)
+     
         136. Single Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SingleNumber_136.java)
 
