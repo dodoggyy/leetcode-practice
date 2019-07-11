@@ -142,6 +142,9 @@ Data Structure
         198. House Robber (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HouseRobber_198.java)
      
+        202. Happy Number (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HappyNumber_202.java)
+     
         203. Remove Linked List Elements (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RemoveLinkedListElements_203.java)
      
