@@ -130,6 +130,9 @@ Data Structure
         172. Factorial Trailing Zeroes (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FactorialTrailingZeroes_172.java)
      
+        189. Rotate Array (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RotateArray_189.java)
+     
         190. Reverse Bits (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseBits_190.java)
      
