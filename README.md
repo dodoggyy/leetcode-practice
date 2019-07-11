@@ -136,6 +136,9 @@ Data Structure
         190. Reverse Bits (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseBits_190.java)
      
+        190. Number of 1 Bits (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NumberOf1Bits_191.java)
+     
         198. House Robber (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HouseRobber_198.java)
      
