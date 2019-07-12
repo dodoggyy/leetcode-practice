@@ -316,6 +316,9 @@ Data Structure
         2. Queue
      [Array](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/datastructure/QueueViaArray.java)
      [Linked List](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/datastructure/QueueViaLinkedList.java)
+     
+        3. Hash Table
+     [Linked List](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/datastructure/MyHashTable.java)
 
 ## Authors
 
