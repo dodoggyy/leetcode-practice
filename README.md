@@ -166,6 +166,9 @@ Data Structure
         217. Contains Duplicate (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ContainsDuplicate_217.java)
      
+        219. Contains Duplicate II (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ContainsDuplicateII_219.java)
+     
         225. Implement Stack using Queues (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ImplementStackUsingQueues_225.java)
      
