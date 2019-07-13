@@ -148,6 +148,9 @@ Data Structure
         203. Remove Linked List Elements (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RemoveLinkedListElements_203.java)
      
+        204. Count Primes (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CountPrimes_204.java)
+     
         205. Isomorphic Strings (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/IsomorphicStrings_205.java)
      
