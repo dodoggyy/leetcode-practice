@@ -9,7 +9,7 @@ package com.easy;
  * 
  */
 public class PalindromeLinkedList_234 {
-    // use 2 pointers to find the middle node, then head compare with reverse slow
+    // Use 2 pointers to find the middle node, then head compare with reverse slow
     // Time Complexity: O(n)
     // Space Complexity: O(1)
     // Runtime: 1 ms, faster than 99.21%

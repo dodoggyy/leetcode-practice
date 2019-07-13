@@ -193,6 +193,9 @@ Data Structure
         236. Lowest Common Ancestor of a Binary Tree (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LowestCommonAncestorOfABinaryTree_236.java)
      
+        237. Delete Node in a Linked List (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DeleteNodeInALinkedList_237.java)
+     
         242. Valid Anagram (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidAnagram_242.java)
      
