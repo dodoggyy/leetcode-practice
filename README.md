@@ -203,6 +203,9 @@ Data Structure
         257. Binary Tree Paths (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryTreePaths_257.java)
      
+        258. Add Digits (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AddDigits_258.java)
+     
         260. Single Number III (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SingleNumberIII_260.java)
      
