@@ -55,6 +55,7 @@ Data Structure
      
         88. Merge Sorted Array (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeSortedArray_88.java)
+     
         91. Decode Ways (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/DecodeWays_91.java)
      
@@ -198,6 +199,9 @@ Data Structure
      
         242. Valid Anagram (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidAnagram_242.java)
+     
+        257. Binary Tree Paths (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryTreePaths_257.java)
      
         260. Single Number III (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SingleNumberIII_260.java)
