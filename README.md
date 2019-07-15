@@ -218,6 +218,9 @@ Data Structure
         278. First Bad Version (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FirstBadVersion_278.java)
      
+        283. Move Zeroes (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FirstBadVersion_278.java)
+     
         303. Range Sum Query - Immutable (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RangeSumQuery_303.java)
      
