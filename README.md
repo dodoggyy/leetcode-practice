@@ -254,6 +254,9 @@ Data Structure
         347. Top K Frequent Elements (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/TopKFrequentElements_347.java)
      
+        349. Intersection of Two Arrays (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/IntersectionOfTwoArrays_349.java)
+     
         371. Sum of Two Integers (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumofTwoIntegers_371.java)
      
