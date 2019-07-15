@@ -230,6 +230,9 @@ Data Structure
         318. Maximum Product of Word Lengths (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MaximumProductofWordLengths_318.java)
      
+        326. Power of Three (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/Easy/PowerOfThree_326.java)
+     
         337. House Robber III (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/HouseRobberIII_337.java)
      
