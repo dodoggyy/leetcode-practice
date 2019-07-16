@@ -257,6 +257,9 @@ Data Structure
         349. Intersection of Two Arrays (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/IntersectionOfTwoArrays_349.java)
      
+        350. Intersection of Two Arrays II (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/IntersectionOfTwoArraysII_350.java)
+     
         371. Sum of Two Integers (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumofTwoIntegers_371.java)
      
