@@ -266,6 +266,9 @@ Data Structure
         371. Sum of Two Integers (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumofTwoIntegers_371.java)
      
+        374. Guess Number Higher or Lower (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/GuessNumberHigherOrLower_374.java)
+     
         404. Sum of Left Leaves (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfLeftLeaves_404.java)
      
