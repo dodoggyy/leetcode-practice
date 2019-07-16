@@ -272,6 +272,9 @@ Data Structure
         383. Ransom Note (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RansomNote_383.java)
      
+        389. Find the Difference (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FindTheDifference_389.java)
+     
         404. Sum of Left Leaves (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfLeftLeaves_404.java)
      

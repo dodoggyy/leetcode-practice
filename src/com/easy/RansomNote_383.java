@@ -49,7 +49,7 @@ public class RansomNote_383 {
     // 2019年7月17日
     // Use Array to count
     // Time Complexity: O(n + m)
-    // Space Complexity:O(n)
+    // Space Complexity:O(1)
     // m: ransomNote's length, n: magzine's length
     // Runtime: 3 ms, faster than 76.53%
     // Memory Usage: 38 MB, less than 99.50%
