@@ -269,6 +269,9 @@ Data Structure
         374. Guess Number Higher or Lower (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/GuessNumberHigherOrLower_374.java)
      
+        383. Ransom Note (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RansomNote_383.java)
+     
         404. Sum of Left Leaves (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfLeftLeaves_404.java)
      

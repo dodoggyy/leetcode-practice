@@ -20,7 +20,6 @@ public class GuessNumberHigherOrLower_374 {
     // Memory Usage: 32.9 MB, less than 100.00%
     public int guessNumber(int n) {
         int mLeft = 1, mRight = n;
-        int mResult = 0;
 
         while (mLeft <= mRight) {
             int mMid = mLeft + (mRight - mLeft) / 2;
@@ -29,12 +28,11 @@ public class GuessNumberHigherOrLower_374 {
             } else if (guess(mMid) == 1) {
                 mLeft = mMid + 1;
             } else {
-                mResult = mMid;
-                break;
+                return mMid;
             }
 
         }
 
-        return mResult;
+        return -1;
     }
 }
