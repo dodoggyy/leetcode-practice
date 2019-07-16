@@ -260,6 +260,9 @@ Data Structure
         350. Intersection of Two Arrays II (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/IntersectionOfTwoArraysII_350.java)
      
+        367. Valid Perfect Square (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPerfectSquare_367.java)
+     
         371. Sum of Two Integers (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumofTwoIntegers_371.java)
      
