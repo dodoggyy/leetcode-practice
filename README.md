@@ -275,6 +275,9 @@ Data Structure
         389. Find the Difference (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FindTheDifference_389.java)
      
+        400. Nth Digit (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NthDigit_400.java)
+     
         404. Sum of Left Leaves (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfLeftLeaves_404.java)
      
