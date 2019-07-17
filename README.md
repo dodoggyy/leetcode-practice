@@ -272,6 +272,9 @@ Data Structure
         383. Ransom Note (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RansomNote_383.java)
      
+        387. First Unique Character in a String (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FirstUniqueCharacterInAString_387.java)
+     
         389. Find the Difference (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FindTheDifference_389.java)
      
