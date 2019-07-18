@@ -281,6 +281,9 @@ Data Structure
         400. Nth Digit (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NthDigit_400.java)
      
+        401. Binary Watch (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryWatch_401.java)
+     
         404. Sum of Left Leaves (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfLeftLeaves_404.java)
      
