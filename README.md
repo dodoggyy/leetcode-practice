@@ -287,6 +287,9 @@ Data Structure
         404. Sum of Left Leaves (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfLeftLeaves_404.java)
      
+        405. Convert a Number to Hexadecimal (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ConvertANumberToHexadecimal_405.java)
+     
         409. Longest Palindrome (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestPalindrome_409.java)
      
