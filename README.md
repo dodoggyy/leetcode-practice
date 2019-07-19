@@ -305,6 +305,9 @@ Data Structure
         429. N-ary Tree Level Order Traversal (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NaryTreeLevelOrderTraversal_429.java)
      
+        434. Number of Segments in a String (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NumberOfSegmentsInAString_434.java)
+     
         437. Path Sum III
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PathSumIII_437.java)
      
