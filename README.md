@@ -317,6 +317,9 @@ Data Structure
         441. Arranging Coins (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ArrangingCoins_441.java)
      
+        443. String Compression (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/StringCompression_443.java)
+     
         451. Sort Characters By Frequency (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SortCharactersByFrequency_451.java)
      
