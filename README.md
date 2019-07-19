@@ -308,11 +308,14 @@ Data Structure
         434. Number of Segments in a String (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NumberOfSegmentsInAString_434.java)
      
-        437. Path Sum III
+        437. Path Sum III (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PathSumIII_437.java)
      
-        438. Find All Anagrams in a String
+        438. Find All Anagrams in a String (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FindAllAnagramsInAString_438.java)
+     
+        441. Arranging Coins (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ArrangingCoins_441.java)
      
         451. Sort Characters By Frequency (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SortCharactersByFrequency_451.java)
