@@ -329,6 +329,9 @@ Data Structure
         455. Assign Cookies (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AssignCookies_455.java)
      
+        459. Repeated Substring Pattern (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RepeatedSubstringPattern_459.java)
+     
         461. Hamming Distance (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HammingDistance_461.java)
      
