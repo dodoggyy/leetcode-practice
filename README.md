@@ -344,6 +344,9 @@ Data Structure
         476. Number Complement (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NumberComplement_476.java)
      
+        482. License Key Formatting (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LicenseKeyFormatting_482.java)
+     
         503. Next Greater Element II (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/NextGreaterElementII_503.java)
      
