@@ -347,6 +347,9 @@ Data Structure
         482. License Key Formatting (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LicenseKeyFormatting_482.java)
      
+        485. Max Consecutive Ones (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MaxConsecutiveOnes_485.java)
+     
         503. Next Greater Element II (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/NextGreaterElementII_503.java)
      
