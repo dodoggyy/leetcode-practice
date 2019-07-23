@@ -350,6 +350,9 @@ Data Structure
         485. Max Consecutive Ones (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MaxConsecutiveOnes_485.java)
      
+        492. Construct the Rectangle (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ConstructTheRectangle_492.java)
+     
         503. Next Greater Element II (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/NextGreaterElementII_503.java)
      
