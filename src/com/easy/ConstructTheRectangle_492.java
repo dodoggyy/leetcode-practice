@@ -9,7 +9,7 @@ package com.easy;
  */
 public class ConstructTheRectangle_492 {
     // 2019年7月23日
-    // Use Math factor judgement
+    // Use Math factor judgment
     // Time Complexity: O(n^1/2)
     // Space Complexity:O(1)
     // Runtime: 0 ms, faster than 100.00%
