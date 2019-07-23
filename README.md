@@ -356,6 +356,9 @@ Data Structure
         496. Next Greater Element I (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NextGreaterElementI_496.java)
      
+        500. Keyboard Row (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/KeyboardRow_500.java)
+     
         503. Next Greater Element II (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/NextGreaterElementII_503.java)
      
