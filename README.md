@@ -365,6 +365,9 @@ Data Structure
         503. Next Greater Element II (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/NextGreaterElementII_503.java)
      
+        504. Base 7 (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/Base7_504.java)
+     
         513. Find Bottom Left Tree Value (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/FindBottomLeftTreeValue_513.java)
 
