@@ -359,6 +359,9 @@ Data Structure
         500. Keyboard Row (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/KeyboardRow_500.java)
      
+        501. Find Mode in Binary Search Tree (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FindModeInBinarySearchTree_501.java)
+     
         503. Next Greater Element II (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/NextGreaterElementII_503.java)
      
