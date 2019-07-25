@@ -382,6 +382,9 @@ Data Structure
      
         513. Find Bottom Left Tree Value (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/FindBottomLeftTreeValue_513.java)
+     
+        520. Detect Capital (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DetectCapital_520.java)
 
         524. Longest Word in Dictionary through Deleting (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LongestWordinDictionarythroughDeleting_524.java)
