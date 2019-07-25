@@ -371,6 +371,9 @@ Data Structure
         506. Relative Ranks (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RelativeRanks_506.java)
      
+        507. Perfect Number (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PerfectNumber_507.java)
+     
         513. Find Bottom Left Tree Value (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/FindBottomLeftTreeValue_513.java)
 
