@@ -98,6 +98,9 @@ Data Structure
         122. Best Time to Buy and Sell Stock II (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BestTimeToBuyAndSellStockII_122.java)
      
+        125. Valid Palindrome (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPalindrome_125.java)
+     
         136. Single Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SingleNumber_136.java)
 
