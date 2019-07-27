@@ -9,16 +9,6 @@ package com.easy;
  */
 public class LinkedListCycle_141 {
 
-    class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-            next = null;
-        }
-    }
-
     // Runtime: 0 ms, faster than 100.00%
     // Memory Usage: 38.2 MB, less than 93.78%
     public boolean hasCycle(ListNode head) {

@@ -225,7 +225,10 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FirstBadVersion_278.java)
      
         283. Move Zeroes (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FirstBadVersion_278.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MoveZeroes_283.java)
+     
+        287. Find the Duplicate Number (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/FindTheDuplicateNumber_287.java)
      
         292. Nim Game (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NimGame_292.java)
