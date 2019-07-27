@@ -398,6 +398,9 @@ Data Structure
         524. Longest Word in Dictionary through Deleting (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LongestWordinDictionarythroughDeleting_524.java)
      
+        530. Minimum Absolute Difference in BST (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MinimumAbsoluteDifferenceInBST_530.java)
+     
         538. Convert BST to Greater Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ConvertBSTtoGreaterTree_538.java)
      
