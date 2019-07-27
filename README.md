@@ -391,6 +391,9 @@ Data Structure
      
         520. Detect Capital (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DetectCapital_520.java)
+     
+        521. Longest Uncommon Subsequence I (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DetectCapital_520.java)
 
         524. Longest Word in Dictionary through Deleting (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LongestWordinDictionarythroughDeleting_524.java)
