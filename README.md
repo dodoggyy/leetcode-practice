@@ -401,6 +401,9 @@ Data Structure
         530. Minimum Absolute Difference in BST (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MinimumAbsoluteDifferenceInBST_530.java)
      
+        532. K-diff Pairs in an Array (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/KDiffPairsInAnArray_532.java)
+     
         538. Convert BST to Greater Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ConvertBSTtoGreaterTree_538.java)
      
