@@ -425,6 +425,9 @@ Data Structure
         559. Maximum Depth of N-ary Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/QuadTreeIntersection_558.java)
      
+        561. Array Partition I (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/QuadTreeIntersection_558.java)
+     
         572. Subtree of Another Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MaximumDepthOfNAryTree_559.java)
      
