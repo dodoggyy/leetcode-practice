@@ -422,8 +422,11 @@ Data Structure
         558. Quad Tree Intersection (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/QuadTreeIntersection_558.java)
      
+        559. Maximum Depth of N-ary Tree (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/QuadTreeIntersection_558.java)
+     
         572. Subtree of Another Tree (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SubtreeOfAnotherTree_572.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MaximumDepthOfNAryTree_559.java)
      
         581. Shortest Unsorted Continuous Subarray (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ShortestUnsortedContinuousSubarray_581.java)
