@@ -419,6 +419,9 @@ Data Structure
         557. Reverse Words in a String III (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseWordsInAStringIII_557.java)
      
+        558. Quad Tree Intersection (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/QuadTreeIntersection_558.java)
+     
         572. Subtree of Another Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SubtreeOfAnotherTree_572.java)
      
