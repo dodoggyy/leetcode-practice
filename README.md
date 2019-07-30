@@ -233,6 +233,9 @@ Data Structure
         292. Nim Game (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NimGame_292.java)
      
+        297. Serialize and Deserialize Binary Tree (Hard)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/hard/SerializeAndDeserializeBinaryTree_297.java)
+     
         303. Range Sum Query - Immutable (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RangeSumQuery_303.java)
      
