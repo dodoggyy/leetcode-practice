@@ -437,6 +437,9 @@ Data Structure
         563. Binary Tree Tilt (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryTreeTilt_563.java)
      
+        566. Reshape the Matrix (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReshapeTheMatrix_566.java)
+     
         572. Subtree of Another Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MaximumDepthOfNAryTree_559.java)
      
