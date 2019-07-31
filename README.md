@@ -434,6 +434,9 @@ Data Structure
         561. Array Partition I (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/QuadTreeIntersection_558.java)
      
+        563. Binary Tree Tilt (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryTreeTilt_563.java)
+     
         572. Subtree of Another Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MaximumDepthOfNAryTree_559.java)
      
