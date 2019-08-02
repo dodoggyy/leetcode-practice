@@ -441,7 +441,10 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReshapeTheMatrix_566.java)
      
         572. Subtree of Another Tree (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MaximumDepthOfNAryTree_559.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SubtreeOfAnotherTree_572.java)
+     
+        575. Distribute Candies (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DistributeCandies_575.java)
      
         581. Shortest Unsorted Continuous Subarray (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ShortestUnsortedContinuousSubarray_581.java)

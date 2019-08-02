@@ -3,7 +3,6 @@
  */
 package com.easy;
 
-import java.util.ArrayList;
 
 /**
  * @author Chris Lin
