@@ -455,6 +455,9 @@ Data Structure
         590. N-ary Tree Postorder Traversal (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NaryTreePostorderTraversal_590.java)
      
+        594. Longest Harmonious Subsequence (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestHarmoniousSubsequence_594.java)
+     
         617. Merge Two Binary Trees (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeTwoBinaryTrees_617.java)
 
