@@ -449,6 +449,9 @@ Data Structure
         581. Shortest Unsorted Continuous Subarray (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ShortestUnsortedContinuousSubarray_581.java)
      
+        589. N-ary Tree Preorder Traversal (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NaryTreePreorderTraversal_589.java)
+     
         617. Merge Two Binary Trees (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeTwoBinaryTrees_617.java)
 
