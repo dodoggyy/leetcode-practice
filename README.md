@@ -458,6 +458,9 @@ Data Structure
         594. Longest Harmonious Subsequence (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestHarmoniousSubsequence_594.java)
      
+        598. Range Addition II (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RangeAdditionII_598.java)
+     
         617. Merge Two Binary Trees (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeTwoBinaryTrees_617.java)
 
