@@ -461,6 +461,9 @@ Data Structure
         598. Range Addition II (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RangeAdditionII_598.java)
      
+        599. Minimum Index Sum of Two Lists (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MinimumIndexSumOfTwoLists_599.java)
+     
         617. Merge Two Binary Trees (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeTwoBinaryTrees_617.java)
 
