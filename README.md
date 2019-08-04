@@ -464,6 +464,9 @@ Data Structure
         599. Minimum Index Sum of Two Lists (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MinimumIndexSumOfTwoLists_599.java)
      
+        605. Can Place Flowers (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CanPlaceFlowers_605.java)
+     
         617. Merge Two Binary Trees (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeTwoBinaryTrees_617.java)
 
