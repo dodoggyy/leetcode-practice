@@ -467,6 +467,9 @@ Data Structure
         605. Can Place Flowers (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CanPlaceFlowers_605.java)
      
+        606. Construct String from Binary Tree (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ConstructStringFromBinaryTree_606.java)
+     
         617. Merge Two Binary Trees (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeTwoBinaryTrees_617.java)
 
