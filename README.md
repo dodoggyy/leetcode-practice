@@ -17,6 +17,9 @@ Data Structure
         2. Add Two Numbers (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/AddTwoNumbers_2.java)
      
+        3. Longest Substring Without Repeating Characters (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LongestSubstringWithoutRepeatingCharacters_3.java)
+     
         9. Palindrome Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PalindromeNumber_9.java)
      
