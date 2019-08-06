@@ -26,6 +26,9 @@ Data Structure
         9. Palindrome Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PalindromeNumber_9.java)
      
+        15. 3Sum (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ThreeSum_15.java)
+     
         19. Remove Nth Node From End of List (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/RemoveNthNodeFromEndofList_19.java)
      
