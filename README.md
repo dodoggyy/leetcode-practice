@@ -20,6 +20,9 @@ Data Structure
         3. Longest Substring Without Repeating Characters (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LongestSubstringWithoutRepeatingCharacters_3.java)
      
+        5. Longest Palindromic Substring (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LongestPalindromicSubstring_5.java)
+     
         9. Palindrome Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PalindromeNumber_9.java)
      
