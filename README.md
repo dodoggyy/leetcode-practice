@@ -125,6 +125,9 @@ Data Structure
         145. Binary Tree Postorder Traversal (Hard)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/hard/BinaryTreePostorderTraversal_145.java)
      
+        146. LRU Cache (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LRUCache_146.java)
+     
         155. Min Stack (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MinStack_155.java)
      
