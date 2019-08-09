@@ -41,6 +41,9 @@ Data Structure
         21. Merge Two Sorted Lists (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeTwoSortedLists_21.java)
      
+        22. Generate Parentheses (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/GenerateParentheses_22.java)
+     
         24. Swap Nodes in Pairs (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SwapNodesinPairs_24.java)
      
