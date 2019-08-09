@@ -50,6 +50,9 @@ Data Structure
         26. Remove Duplicates from Sorted Array (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RemoveDuplicatesFromSortedArray_26.java)
      
+        29. Divide Two Integers (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/DivideTwoIntegers_29.java)
+     
         48. Rotate Image (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/RotateImage_48.java)
      
