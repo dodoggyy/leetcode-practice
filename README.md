@@ -53,6 +53,9 @@ Data Structure
         29. Divide Two Integers (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/DivideTwoIntegers_29.java)
      
+        33. Search in Rotated Sorted Array (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SearchInRotatedSortedArray_33.java)
+     
         48. Rotate Image (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/RotateImage_48.java)
      
