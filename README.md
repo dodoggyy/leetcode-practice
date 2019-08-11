@@ -59,6 +59,9 @@ Data Structure
         34. Find First and Last Position of Element in Sorted Array (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/FindFirstAndLastPositionOfElementInSortedArray_34.java)
      
+        46. Permutations (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/Permutations_46.java)
+     
         48. Rotate Image (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/RotateImage_48.java)
      
