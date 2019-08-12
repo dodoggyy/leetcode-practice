@@ -139,6 +139,9 @@ Data Structure
      
         136. Single Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SingleNumber_136.java)
+     
+        137. Single Number II (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SingleNumberII_137.java)
 
         141. Linked List Cycle (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LinkedListCycle_141.java)
