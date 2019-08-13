@@ -536,11 +536,14 @@ Data Structure
         687. Longest Univalue Path (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestUnivaluePath_687.java)
      
-         693. Binary Number with Alternating Bits (Easy)
+        693. Binary Number with Alternating Bits (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryNumberwithAlternatingBits_693.java)
      
         696. Count Binary Substrings (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CountBinarySubstrings_696.java)
+     
+        697. Degree of an Array(Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DegreeOfAnArray_697.java)
 
         704. Binary Search (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinarySearch_704.java)
