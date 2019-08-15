@@ -550,6 +550,9 @@ Data Structure
      
         739. Daily Temperatures (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/DailyTemperatures_739.java)
+     
+        983. Minimum Cost For Tickets (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MinimumCostForTickets_983.java)
     
     
 *   **Design Pattern :**
