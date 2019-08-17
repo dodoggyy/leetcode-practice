@@ -3,10 +3,6 @@
  */
 package com.codility;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 /**
  * @author Chris Lin
  * @version 1.0
@@ -19,9 +15,10 @@ public class NthPowerOf11_TrendMicro {
     public static void main(String[] args) {
         // TODO Auto-generated method stub
         NthPowerOf11_TrendMicro mTest = new NthPowerOf11_TrendMicro();
-        int N = 66;
-        System.out.println(mTest.solution(N));
-        System.out.println(mTest.solution2(N));
+        int N = 1000;
+        // System.out.println(mTest.solution(N));
+        // System.out.println(mTest.solution2(N));
+        System.out.println(mTest.solution3(N));
     }
 
     // 2019年8月17日
@@ -88,18 +85,43 @@ public class NthPowerOf11_TrendMicro {
     }
 
     // 2019年8月17日
-    // Use array shift
-    // Time Complexity: O()
-    // Space Complexity:O()
+    // Use add string
+    // Time Complexity: O(n*log(11^n))
+    // Space Complexity:O(log(11^n))
+    // Ref: https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AddStrings_415.java
+    // can pass all case
     public int solution3(int N) {
         int mResult = 0;
-        List<Character> mDigit = new ArrayList<>();
-        mDigit.add('1');
-        mDigit.add('1');
+        StringBuilder mBuilder = new StringBuilder();
+        mBuilder.append('1').append('1');
 
-        for (int i = 1; i < N; i++) {
-//            List<Character> mOrigDigit = ((Object) mDigit).clone();
-//            mDigit[]
+        for (int j = 1; j < N; j++) {
+            StringBuilder mBuilderTmp1 = new StringBuilder(mBuilder);
+            StringBuilder mBuilderTmp2 = new StringBuilder(mBuilder).append('0');
+            // System.out.println(mBuilderTmp1.toString() + "::" +
+            // mBuilderTmp2.toString());
+            mBuilder.setLength(0);
+            int mLength1 = mBuilderTmp1.length();
+            int mLength2 = mBuilderTmp2.length();
+            int mCarry = 0;
+            for (int i = 0; i < mLength2; i++) {
+                int mTmp1 = (mLength1 > i) ? (mBuilderTmp1.charAt(mLength1 - i - 1) - '0') : 0;
+                int mTmp2 = (mLength2 > i) ? (mBuilderTmp2.charAt(mLength2 - i - 1) - '0') : 0;
+                // System.out.println(mTmp1 + ":" + mTmp2 + ":" + mCarry);
+                mBuilder.insert(0, (mTmp1 + mTmp2 + mCarry) % 10);
+                mCarry = (mTmp1 + mTmp2 + mCarry) / 10;
+            }
+            // System.out.println(mCarry);
+            if (mCarry != 0) {
+                mBuilder.insert(0, mCarry);
+            }
+            System.out.println(mBuilder.toString());
+        }
+
+        for (int i = 0; i < mBuilder.length(); i++) {
+            if (mBuilder.charAt(i) == '1') {
+                mResult++;
+            }
         }
 
         return mResult;
