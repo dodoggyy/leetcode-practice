@@ -269,6 +269,9 @@ Data Structure
         278. First Bad Version (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FirstBadVersion_278.java)
      
+        279. Perfect Squares (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/PerfectSquares_279.java)
+     
         283. Move Zeroes (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MoveZeroes_283.java)
      
