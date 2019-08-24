@@ -8,7 +8,6 @@ import java.util.LinkedList;
  * @version 1.0
  */
 public class MyHashTable<K, V> {
-    LinkedList<V>[] items;
 
     private static class LinkedListNode<K, V> {
         public LinkedListNode<K, V> next;

@@ -557,6 +557,9 @@ Data Structure
         704. Binary Search (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinarySearch_704.java)
      
+        705. Design HashSet (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DesignHashSet_705.java)
+     
         739. Daily Temperatures (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/DailyTemperatures_739.java)
      
