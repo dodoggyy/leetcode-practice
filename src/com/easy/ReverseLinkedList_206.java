@@ -5,11 +5,13 @@ package com.easy;
 
 /**
  * @author Chris Lin
- * @version 1.0
+ * @version 1.1
  */
 public class ReverseLinkedList_206 {
 
     // Iterative version
+    // Time Complexity: O(n)
+    // Space Complexity:O(1)
     // Runtime: 0 ms, faster than 100.00%
     // Memory Usage: 37.8 MB, less than 26.20%
     public ListNode reverseList(ListNode head) {
@@ -34,8 +36,10 @@ public class ReverseLinkedList_206 {
     }
 
     // Recursive version
+    // Time Complexity: O(n)
+    // Space Complexity:O(n)
     // Runtime: 0 ms, faster than 100.00%
-    // Memory Usage: 37.9 MB, less than 13.75% 
+    // Memory Usage: 37.9 MB, less than 13.75%
     public ListNode reverseList2(ListNode head) {
         if (head == null || head.next == null) { // empty list or 1 element list
             return head;
@@ -47,5 +51,23 @@ public class ReverseLinkedList_206 {
         mNodePrecede.next = head;
         head.next = null;
         return mNodeNew;
+    }
+
+    // Iterative version 2
+    // Time Complexity: O(n)
+    // Space Complexity:O(1)
+    // Runtime: 0 ms, faster than 100.00%
+    // Memory Usage: 37 MB, less than 98.92%
+    public ListNode reverseList3(ListNode head) {
+        ListNode mCurrent = head, mPrevious = null;
+
+        while (mCurrent != null) {
+            ListNode mTmp = mCurrent.next;
+            mCurrent.next = mPrevious;
+            mPrevious = mCurrent;
+            mCurrent = mTmp;
+        }
+
+        return mPrevious;
     }
 }
