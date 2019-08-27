@@ -65,6 +65,9 @@ Data Structure
         48. Rotate Image (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/RotateImage_48.java)
      
+        54. Spiral Matrix (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SpiralMatrix_54.java)
+     
         62. Unique Paths (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/UniquePaths_62.java)
      
