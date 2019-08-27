@@ -149,6 +149,9 @@ Data Structure
         141. Linked List Cycle (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LinkedListCycle_141.java)
      
+        142. Linked List Cycle II (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LinkedListCycleII_142.java)
+     
         144. Binary Tree Preorder Traversal (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/BinaryTreePreorderTraversal_144.java)
      

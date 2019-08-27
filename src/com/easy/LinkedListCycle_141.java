@@ -13,7 +13,7 @@ public class LinkedListCycle_141 {
 
     // Use two pointer
     // Time Complexity: O(n)
-    // Space Complexity:O(n)
+    // Space Complexity:O(1)
     // Runtime: 0 ms, faster than 100.00%
     // Memory Usage: 38.2 MB, less than 93.78%
     public boolean hasCycle(ListNode head) {
@@ -39,7 +39,7 @@ public class LinkedListCycle_141 {
     // 2019年8月27日
     // Use two pointer 2
     // Time Complexity: O(n)
-    // Space Complexity:O(n)
+    // Space Complexity:O(1)
     // Runtime: 0 ms, faster than 100.00%
     // Memory Usage: 36.9 MB, less than 100.00%
     public boolean hasCycle2(ListNode head) {
