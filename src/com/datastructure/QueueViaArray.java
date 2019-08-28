@@ -25,7 +25,7 @@ public class QueueViaArray<T> extends QueueHandler<T> {
     }
 
     @Override
-    public int size() {
+    public int size() { // O(1)
         // TODO Auto-generated method stub
         return (mRear - mFront + mQueueCapacity) % mQueueCapacity;
     }
@@ -46,6 +46,9 @@ public class QueueViaArray<T> extends QueueHandler<T> {
             mQueue[mRear] = aValue;
             if (mRear == mFront) {
                 bIsQueueFull = true;
+            }
+            if(mFront == -1) {
+                mFront++;
             }
         }
     }

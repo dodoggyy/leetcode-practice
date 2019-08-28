@@ -529,6 +529,9 @@ Data Structure
      
         617. Merge Two Binary Trees (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeTwoBinaryTrees_617.java)
+     
+        622. Design Circular Queue (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DesignCircularQueue_622.java)
 
         633. Sum of Square Numbers (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfSquareNumbers_633.java)

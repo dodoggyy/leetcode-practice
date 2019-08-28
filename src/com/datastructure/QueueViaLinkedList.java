@@ -19,6 +19,7 @@ public class QueueViaLinkedList<T> extends QueueHandler<T> {
 
     private ListNode mRear;
     private ListNode mFront;
+    private int size;
 
     public QueueViaLinkedList(int aCapacity) {
         // TODO Auto-generated constructor stub
@@ -27,19 +28,22 @@ public class QueueViaLinkedList<T> extends QueueHandler<T> {
     }
 
     @Override
-    public int size() {
+    public int size() { 
         // TODO Auto-generated method stub
-        int mCount = 0;
-        ListNode mTmpNode = mRear.mNext;
-        while (mTmpNode != null) {
-            mCount++;
-            mTmpNode = mTmpNode.mNext;
-            if (mTmpNode == mRear) {
-                mCount++;
-                break;
-            }
-        }
-        return mCount;
+        // O(n)
+//        int mCount = 0;
+//        ListNode mTmpNode = mRear.mNext;
+//        while (mTmpNode != null) {
+//            mCount++;
+//            mTmpNode = mTmpNode.mNext;
+//            if (mTmpNode == mRear) {
+//                mCount++;
+//                break;
+//            }
+//        }
+//        return mCount;
+        
+        return size;
     }
 
     @Override
@@ -59,6 +63,7 @@ public class QueueViaLinkedList<T> extends QueueHandler<T> {
         }
         mRear = mTmpNode;
         mRear.mNext = mFront;
+        size++;
     }
 
     @Override
@@ -79,6 +84,7 @@ public class QueueViaLinkedList<T> extends QueueHandler<T> {
                 mFront = mFront.mNext;
                 mRear.mNext = mFront;
             }
+            size--;
             return mValue;
         }
         
