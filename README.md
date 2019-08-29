@@ -569,6 +569,9 @@ Data Structure
         705. Design HashSet (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DesignHashSet_705.java)
      
+        707. Design Linked List (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DesignLinkedList_707.java)
+     
         739. Daily Temperatures (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/DailyTemperatures_739.java)
      
