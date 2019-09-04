@@ -377,6 +377,9 @@ Data Structure
         434. Number of Segments in a String (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NumberOfSegmentsInAString_434.java)
      
+        435. Non-overlapping Intervals (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ArithmeticSlices_413.java)
+     
         437. Path Sum III (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PathSumIII_437.java)
      
