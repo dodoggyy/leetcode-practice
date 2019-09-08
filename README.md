@@ -44,6 +44,9 @@ Data Structure
         22. Generate Parentheses (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/GenerateParentheses_22.java)
      
+        23. Generate Parentheses (Hard)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/hard/MergeKSortedLists_23.java)      [ref](https://leetcode.com/problems/merge-k-sorted-lists/)
+     
         24. Swap Nodes in Pairs (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SwapNodesinPairs_24.java)
      
@@ -378,7 +381,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NumberOfSegmentsInAString_434.java)
      
         435. Non-overlapping Intervals (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ArithmeticSlices_413.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/NonOverlappingIntervals_435.java)
      
         437. Path Sum III (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PathSumIII_437.java)
@@ -459,7 +462,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DetectCapital_520.java)
      
         521. Longest Uncommon Subsequence I (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DetectCapital_520.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestUncommonSubsequenceI_521.java)
 
         524. Longest Word in Dictionary through Deleting (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LongestWordinDictionarythroughDeleting_524.java)
@@ -489,10 +492,10 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/QuadTreeIntersection_558.java)
      
         559. Maximum Depth of N-ary Tree (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/QuadTreeIntersection_558.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MaximumDepthOfNAryTree_559.java)
      
         561. Array Partition I (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/QuadTreeIntersection_558.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ArrayPartitionI_561.java)
      
         563. Binary Tree Tilt (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryTreeTilt_563.java)
