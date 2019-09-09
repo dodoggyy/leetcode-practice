@@ -12,7 +12,7 @@ Data Structure
 
         1. Two Sum (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/TwoSum_1.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)      [ref](https://leetcode.com/problems/two-sum/submissions/)
+     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)      [ref](https://leetcode.com/problems/two-sum/)
      
         2. Add Two Numbers (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/AddTwoNumbers_2.java)
@@ -30,7 +30,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ContainerWithMostWater_11.java)
      
         15. 3Sum (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ThreeSum_15.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ThreeSum_15.java)      [ref](https://leetcode.com/problems/3sum/)
      
         17. Letter Combinations of a Phone Number (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LetterCombinationsOfAPhoneNumber_17.java)
@@ -114,7 +114,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/BinaryTreeLevelOrderTraversal_102.java)
      
         104. Maximum Depth of Binary Tree (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MaximumDepthofBinaryTree_104.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MaximumDepthofBinaryTree_104.java)      [ref](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
      
         107. Binary Tree Level Order Traversal II (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryTreeLevelOrderTraversalII_107.java)
