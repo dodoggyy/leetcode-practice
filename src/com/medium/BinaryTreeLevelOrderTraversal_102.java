@@ -10,7 +10,7 @@ import java.util.Queue;
 
 /**
  * @author Chris Lin
- * @version 1.0
+ * @version 1.1
  */
 public class BinaryTreeLevelOrderTraversal_102 {
     // 2019年8月20日
@@ -73,7 +73,7 @@ public class BinaryTreeLevelOrderTraversal_102 {
         if (root == null) {
             return;
         }
-        if (mDepth >= mResult.size()) {
+        if (mDepth == mResult.size()) {
             mResult.add(new LinkedList<Integer>());
         }
         mResult.get(mDepth).add(root.val);
