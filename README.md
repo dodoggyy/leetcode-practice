@@ -104,6 +104,9 @@ Data Structure
         94. Binary Tree Inorder Traversal (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/BinaryTreeInorderTraversal_94.java)
      
+        98. Validate Binary Search Tree (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ValidateBinarySearchTree_98.java)      [ref](https://leetcode.com/problems/validate-binary-search-tree/)
+     
         100. Same Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SameTree_100.java)
      
