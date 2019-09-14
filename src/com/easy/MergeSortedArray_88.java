@@ -5,10 +5,13 @@ package com.easy;
 
 /**
  * @author Chris Lin
- * @version 1.1
+ * @version 1.2
  */
 public class MergeSortedArray_88 {
 
+    // Use conquer strategy with addition array:
+    // Time Complexity: O(m+n)
+    // Space Complexity: O(m+n)
     // Runtime: 2 ms, faster than 100.00% of Java
     // Memory Usage: 37.3 MB, less than 72.80% of Java
     public void merge(int[] nums1, int m, int[] nums2, int n) {
@@ -32,6 +35,9 @@ public class MergeSortedArray_88 {
         }
     }
 
+    // Use conquer strategy without addition array:
+    // Time Complexity: O(m+n)
+    // Space Complexity: O(1)
     // Runtime: 2 ms, faster than 100.00% of Java
     // Memory Usage: 37.5 MB, less than 6.85% of Java
     public void merge2(int[] nums1, int m, int[] nums2, int n) {
@@ -49,6 +55,31 @@ public class MergeSortedArray_88 {
             } else {
                 nums1[mIndexTmp--] = nums2[mIndexN--];
             }
+        }
+    }
+
+    // Use conquer strategy without addition array 2:
+    // Time Complexity: O(m+n)
+    // Space Complexity: O(1)
+    // Runtime: 0 ms, faster than 100.00%
+    // Memory Usage: 36.1 MB, less than 100.00%
+    public void merge3(int[] nums1, int m, int[] nums2, int n) {
+        int mIndexTmp = m + n - 1;
+        int mIndex1 = m - 1;
+        int mIndex2 = n - 1;
+
+        while (mIndex1 >= 0 && mIndex2 >= 0) {
+            if (nums1[mIndex1] > nums2[mIndex2]) {
+                nums1[mIndexTmp--] = nums1[mIndex1--];
+            } else {
+                nums1[mIndexTmp--] = nums2[mIndex2--];
+            }
+        }
+        while (mIndex1 >= 0) {
+            nums1[mIndexTmp--] = nums1[mIndex1--];
+        }
+        while (mIndex2 >= 0) {
+            nums1[mIndexTmp--] = nums2[mIndex2--];
         }
     }
 }

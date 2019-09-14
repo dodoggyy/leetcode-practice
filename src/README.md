@@ -54,7 +54,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RemoveDuplicatesfromSortedList_83.java)
      
         88. Merge Sorted Array (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeSortedArray_88.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeSortedArray_88.java)      [ref](https://leetcode.com/problems/merge-sorted-array/)
      
         91. Decode Ways (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/DecodeWays_91.java)
