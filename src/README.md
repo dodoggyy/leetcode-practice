@@ -408,10 +408,13 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ShortestUnsortedContinuousSubarray_581.java)
      
         595. Big Countries (Easy)
-     [sql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BigCountries_595.sql)      [ref](https://leetcode.com/problems/big-countries/)
+     [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BigCountries_595.sql)      [ref](https://leetcode.com/problems/big-countries/)
      
         617. Merge Two Binary Trees (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeTwoBinaryTrees_617.java)
+     
+        627. Swap Salary (Easy)
+     [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SwapSalary_627.sql)      [ref](https://leetcode.com/problems/swap-salary/)
 
         633. Sum of Square Numbers (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfSquareNumbers_633.java)
