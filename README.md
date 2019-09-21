@@ -96,7 +96,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RemoveDuplicatesfromSortedList_83.java)
      
         88. Merge Sorted Array (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeSortedArray_88.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeSortedArray_88.java)      [ref](https://leetcode.com/problems/merge-sorted-array/)
      
         91. Decode Ways (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/DecodeWays_91.java)
@@ -222,7 +222,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/HouseRobberII_213.java)
 
         215. Kth Largest Element in an Array (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/KthLargestElementinanArray_215.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/KthLargestElementinanArray_215.java)      [ref](https://leetcode.com/problems/kth-largest-element-in-an-array/)
      
         217. Contains Duplicate (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ContainsDuplicate_217.java)
@@ -387,7 +387,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/NonOverlappingIntervals_435.java)
      
         437. Path Sum III (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PathSumIII_437.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PathSumIII_437.java)      [ref](https://leetcode.com/problems/path-sum-iii/)
      
         438. Find All Anagrams in a String (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FindAllAnagramsInAString_438.java)
@@ -524,6 +524,9 @@ Data Structure
         594. Longest Harmonious Subsequence (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestHarmoniousSubsequence_594.java)
      
+        595. Big Countries (Easy)
+     [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BigCountries_595.sql)      [ref](https://leetcode.com/problems/big-countries/)
+     
         598. Range Addition II (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RangeAdditionII_598.java)
      
@@ -541,6 +544,9 @@ Data Structure
      
         622. Design Circular Queue (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DesignCircularQueue_622.java)
+     
+        627. Swap Salary (Easy)
+     [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SwapSalary_627.sql)      [ref](https://leetcode.com/problems/swap-salary/)
 
         633. Sum of Square Numbers (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfSquareNumbers_633.java)
