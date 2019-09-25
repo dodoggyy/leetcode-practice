@@ -190,6 +190,9 @@ Data Structure
      
         172. Factorial Trailing Zeroes (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FactorialTrailingZeroes_172.java)
+
+        182. Duplicate Emails (Easy)
+     [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DuplicateEmails_182.sql)      [ref](https://leetcode.com/problems/duplicate-emails/)
      
         189. Rotate Array (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RotateArray_189.java)
