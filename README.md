@@ -541,6 +541,9 @@ Data Structure
      
         617. Merge Two Binary Trees (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeTwoBinaryTrees_617.java)
+
+        620. Not Boring Movies (Easy)
+     [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NotBoringMovies_620.sql)      [ref](https://leetcode.com/problems/not-boring-movies/)
      
         622. Design Circular Queue (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DesignCircularQueue_622.java)
