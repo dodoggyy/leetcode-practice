@@ -526,6 +526,9 @@ Data Structure
      
         595. Big Countries (Easy)
      [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BigCountries_595.sql)      [ref](https://leetcode.com/problems/big-countries/)
+
+        596. Classes More Than 5 Students (Easy)
+     [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ClassesMoreThan5Students_596.sql)      [ref](https://leetcode.com/problems/classes-more-than-5-students/)
      
         598. Range Addition II (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RangeAdditionII_598.java)
