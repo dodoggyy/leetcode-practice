@@ -150,10 +150,10 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPalindrome_125.java)
      
         136. Single Number (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SingleNumber_136.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SingleNumber_136.java)      [ref](https://leetcode.com/problems/single-number/)
      
         137. Single Number II (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SingleNumberII_137.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SingleNumberII_137.java)      [ref](https://leetcode.com/problems/single-number-ii/)
 
         141. Linked List Cycle (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LinkedListCycle_141.java)
@@ -414,7 +414,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RepeatedSubstringPattern_459.java)
      
         461. Hamming Distance (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HammingDistance_461.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HammingDistance_461.java)      [ref](https://leetcode.com/problems/hamming-distance/)
      
         463. Island Perimeter (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/IslandPerimeter_463.java)
