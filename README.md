@@ -579,7 +579,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestUnivaluePath_687.java)
      
         693. Binary Number with Alternating Bits (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryNumberwithAlternatingBits_693.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryNumberwithAlternatingBits_693.java)      [ref](https://leetcode.com/problems/binary-number-with-alternating-bits/)
      
         696. Count Binary Substrings (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CountBinarySubstrings_696.java)
