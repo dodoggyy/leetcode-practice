@@ -8,11 +8,13 @@ import java.util.Map;
 
 /**
  * @author Chris Lin
- * @version 1.0
+ * @version 1.1
  */
 public class SingleNumberIII_260 {
 
-    // Hash Map calculation 
+    // Hash Map calculation
+    // Time Complexity: O(n)
+    // Space Complexity:O(n)
     // Runtime: 5 ms, faster than 27.54%
     // Memory Usage: 39.3 MB, less than 41.91%
     public int[] singleNumber(int[] nums) {
@@ -36,7 +38,9 @@ public class SingleNumberIII_260 {
     }
 
     // Bitwise operation
-    // Runtime: 1 ms, faster than 97.19% 
+    // Time Complexity: O(n)
+    // Space Complexity:O(1)
+    // Runtime: 1 ms, faster than 97.19%
     // Memory Usage: 39.3 MB, less than 36.76%
     public int[] singleNumber2(int[] nums) {
         int[] mResult = new int[2];
@@ -44,7 +48,9 @@ public class SingleNumberIII_260 {
         for (int num : nums) {
             mDiff ^= num;
         }
-        mDiff &= -mDiff; // get least diff bit
+        // get least diff bit
+        // ex: 6 = 00110b, -6 = 01010b, (6&(-6)) = 10b
+        mDiff &= -mDiff;
 
         for (int num : nums) {
             if ((mDiff & num) == 0) {
