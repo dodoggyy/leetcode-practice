@@ -8,7 +8,7 @@ import java.util.Map;
 
 /**
  * @author Chris Lin
- * @version 1.0
+ * @version 1.1
  */
 public class ReverseBits_190 {
 
@@ -16,6 +16,8 @@ public class ReverseBits_190 {
 
     // you need treat n as an unsigned value
     // 1 times version
+    // Time Complexity: O(1)
+    // Space Complexity:O(1)
     // Runtime: 1 ms, faster than 100.00%
     // Memory Usage: 28.1 MB, less than 55.35%
     public int reverseBits(int n) {
@@ -31,6 +33,8 @@ public class ReverseBits_190 {
     }
 
     // separate by byte version
+    // Time Complexity: O(1)
+    // Space Complexity:O(1)
     // Runtime: 3 ms, faster than 8.15%
     // Memory Usage: 28.1 MB, less than 54.98%
     public int reverseBits2(int n) {
