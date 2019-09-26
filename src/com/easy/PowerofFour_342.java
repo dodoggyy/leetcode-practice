@@ -5,16 +5,19 @@ package com.easy;
 
 /**
  * @author Chris Lin
- * @version 1.0
+ * @version 1.1
  */
 public class PowerofFour_342 {
 
     public static void main(String[] args) {
         int num = 16;
-        isPowerOfFour2(num);
+        PowerofFour_342 mTest = new PowerofFour_342();
+        mTest.isPowerOfFour2(num);
     }
 
     // bitwise operation
+    // Time Complexity: O(1)
+    // Space Complexity:O(1)
     // Runtime: 1 ms, faster than 82.30%
     // Memory Usage: 32.4 MB, less than 100.00%
     public boolean isPowerOfFour(int num) {
@@ -23,9 +26,11 @@ public class PowerofFour_342 {
     }
 
     // mod 4 judgement
+    // Time Complexity: O(logn)
+    // Space Complexity:O(1)
     // Runtime: 1 ms, faster than 82.30%
     // Memory Usage: 32.4 MB, less than 100.00%
-    public static boolean isPowerOfFour2(int num) {
+    public boolean isPowerOfFour2(int num) {
         if (num <= 0) {
             return false;
         }
@@ -35,8 +40,20 @@ public class PowerofFour_342 {
                 return false;
             }
             num /= 4;
-            //System.out.println(num);
+            // System.out.println(num);
         }
         return true;
+    }
+
+    // Use regular expression
+    // Time Complexity: O(logn)
+    // Space Complexity:O(1)
+    // Runtime: 1 ms, faster than 82.30%
+    // Memory Usage: 32.4 MB, less than 100.00%
+    public boolean isPowerOfFour3(int num) {
+        // if n to the b th
+        // then regular expression with base n may be 10*
+        // e.g. 1 => 1, 4 => 10, 16 => 100, 64 => 1000
+        return Integer.toString(num, 4).matches("10*");
     }
 }

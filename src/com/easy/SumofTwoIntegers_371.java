@@ -5,7 +5,7 @@ package com.easy;
 
 /**
  * @author Chris Lin
- * @version 1.0
+ * @version 1.1
  */
 public class SumofTwoIntegers_371 {
 
@@ -18,6 +18,8 @@ public class SumofTwoIntegers_371 {
     }
 
     // recursive version
+    // Time Complexity: O(logn)
+    // Space Complexity:O(1)
     // Runtime: 0 ms, faster than 100.00%
     // Memory Usage: 31.8 MB, less than 100.00%
     public int getSum(int a, int b) {
@@ -26,6 +28,8 @@ public class SumofTwoIntegers_371 {
     }
 
     // iterative version
+    // Time Complexity: O(logn)
+    // Space Complexity:O(1)
     // Runtime: 0 ms, faster than 100.00%
     // Memory Usage: 31.7 MB, less than 100.00%
     public int getSum2(int a, int b) {

@@ -318,7 +318,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CountingBits_338.java)
      
         342. Power of Four (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofFour_342.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofFour_342.java)      [ref](https://leetcode.com/problems/power-of-four/)
      
         343. Integer Break (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/IntegerBreak_343.java)
@@ -342,7 +342,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPerfectSquare_367.java)
      
         371. Sum of Two Integers (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumofTwoIntegers_371.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumofTwoIntegers_371.java)      [ref](https://leetcode.com/problems/sum-of-two-integers/)
      
         374. Guess Number Higher or Lower (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/GuessNumberHigherOrLower_374.java)
