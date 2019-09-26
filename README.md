@@ -309,7 +309,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MaximumProductofWordLengths_318.java)
      
         326. Power of Three (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/Easy/PowerOfThree_326.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/Easy/PowerOfThree_326.java)      [ref](https://leetcode.com/problems/path-sum-iii/)
      
         337. House Robber III (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/HouseRobberIII_337.java)
