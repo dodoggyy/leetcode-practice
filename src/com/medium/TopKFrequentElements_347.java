@@ -4,6 +4,7 @@
 package com.medium;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -11,7 +12,7 @@ import java.util.PriorityQueue;
 
 /**
  * @author Chris Lin
- * @version 1.0
+ * @version 1.1
  */
 public class TopKFrequentElements_347 {
     
@@ -47,9 +48,9 @@ public class TopKFrequentElements_347 {
         
         List<Integer> mArrayListAnswer = new ArrayList<Integer>();
         for(int i = 0; i < k; i++) {
-            mArrayListAnswer.add(mPriorityQueue.poll()[1]);
+            mArrayListAnswer.add(mPriorityQueue.poll()[0]);
         }
-        
+        Collections.reverse(mArrayListAnswer);
         
         return mArrayListAnswer;
 
@@ -83,5 +84,31 @@ public class TopKFrequentElements_347 {
         }
         
         return mArrayListAnswer;
+    }
+    
+    // Priority queue / max heap 2
+    // Time complexity: O(n) + O(nlogk) = O(nlogk)
+    // Space complexity: O(n)
+    // Runtime: 48 ms, faster than 13.86%
+    // Memory Usage: 39.6 MB, less than 73.28%
+    public List<Integer> topKFrequent3(int[] nums, int k) {
+        List<Integer> mResult = new ArrayList<>();
+        HashMap<Integer, Integer> mMap = new HashMap<>();
+        for(int num:nums) {
+            mMap.put(num, mMap.getOrDefault(num, 0) + 1);
+        }
+        
+        PriorityQueue<Integer> mQueue = new PriorityQueue<Integer>((x,y) -> mMap.get(x) - mMap.get(y));
+        for(int key:mMap.keySet()) {
+            mQueue.add(key);
+            if(mQueue.size() > k) {
+                mQueue.poll();
+            }
+        }
+        while(!mQueue.isEmpty()) {
+            mResult.add(mQueue.poll());
+        }
+        Collections.reverse(mResult);
+        return mResult;
     }
 }
