@@ -79,6 +79,9 @@ Data Structure
      
         67. Add Binary (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AddBinary_67.java)
+
+        69. Sqrt(x) (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/Sqrtx_69.java)      [ref](https://leetcode.com/problems/sqrtx/)
      
         70. Climbing Stairs (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ClimbingStairs_70.java)
