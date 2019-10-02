@@ -5,11 +5,11 @@ package com.medium;
 
 /**
  * @author Chris Lin
- * @version 1.0
+ * @version 1.1
  */
 public class FindFirstAndLastPositionOfElementInSortedArray_34 {
     // 2019年8月10日
-    // Use recursive
+    // Use binary search recursive
     // Time Complexity: O(logn)
     // Space Complexity:O(logn)
     // Runtime: 0 ms, faster than 100.00%
@@ -51,22 +51,23 @@ public class FindFirstAndLastPositionOfElementInSortedArray_34 {
     }
 
     // 2019年8月10日
-    // Use iterative
+    // Use binary search iterative
     // Time Complexity: O(logn)
     // Space Complexity:O(1)
     // Runtime: 0 ms, faster than 100.00%
     // Memory Usage: 39 MB, less than 100.00%
     public int[] searchRange2(int[] nums, int target) {
+        int[] mResult = { -1, -1 };
         if (nums == null || nums.length == 0) {
             return mResult;
         }
         int mLeft = 0, mRight = nums.length - 1;
         while (mLeft <= mRight) {
             int mMid = (mLeft + mRight) / 2;
-            if (nums[mMid] >= target) {
-                mRight = mMid - 1;
-            } else {
+            if (nums[mMid] < target) {
                 mLeft = mMid + 1;
+            } else {
+                mRight = mMid - 1;
             }
 
             if (nums[mMid] == target) {
@@ -78,7 +79,7 @@ public class FindFirstAndLastPositionOfElementInSortedArray_34 {
         mRight = nums.length - 1;
         while (mLeft <= mRight) {
             int mMid = (mLeft + mRight) / 2;
-            if (nums[mMid] <= target) {
+            if (nums[mMid] <= target) { // only different here from previous
                 mLeft = mMid + 1;
             } else {
                 mRight = mMid - 1;
@@ -92,4 +93,28 @@ public class FindFirstAndLastPositionOfElementInSortedArray_34 {
         return mResult;
     }
 
+    // 2019年10月2日
+    // Use linear search
+    // Time Complexity: O(n)
+    // Space Complexity:O(1)
+    // Runtime: 1 ms, faster than 14.52%
+    // Memory Usage: 39.7 MB, less than 100.00%
+    public int[] searchRange3(int[] nums, int target) {
+        int[] mResult = { -1, -1 };
+
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == target) {
+                if (mResult[0] == -1) {
+                    mResult[0] = i;
+                    mResult[1] = i;
+                } else {
+                    mResult[1] = i;
+                }
+            } else if (nums[i] > target) {
+                break;
+            }
+        }
+
+        return mResult;
+    }
 }
