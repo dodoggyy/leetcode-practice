@@ -172,6 +172,9 @@ Data Structure
      
         146. LRU Cache (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LRUCache_146.java)
+
+        153. Find Minimum in Rotated Sorted Array (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FindMinimumInRotatedSortedArray_153.java)      [ref](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
      
         155. Min Stack (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MinStack_155.java)
@@ -285,7 +288,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MissingNumber_268.java)      [ref](https://leetcode.com/problems/missing-number/)
      
         278. First Bad Version (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FirstBadVersion_278.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FirstBadVersion_278.java)      [ref](https://leetcode.com/problems/first-bad-version/)
      
         279. Perfect Squares (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/PerfectSquares_279.java)
