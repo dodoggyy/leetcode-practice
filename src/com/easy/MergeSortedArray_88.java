@@ -5,7 +5,7 @@ package com.easy;
 
 /**
  * @author Chris Lin
- * @version 1.2
+ * @version 1.3
  */
 public class MergeSortedArray_88 {
 
@@ -75,9 +75,7 @@ public class MergeSortedArray_88 {
                 nums1[mIndexTmp--] = nums2[mIndex2--];
             }
         }
-        while (mIndex1 >= 0) {
-            nums1[mIndexTmp--] = nums1[mIndex1--];
-        }
+        // only check nums2 because nums1 has already placed in
         while (mIndex2 >= 0) {
             nums1[mIndexTmp--] = nums2[mIndex2--];
         }
