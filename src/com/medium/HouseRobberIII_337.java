@@ -54,4 +54,30 @@ public class HouseRobberIII_337 {
 
         return mMap.get(root);
     }
+
+    // Use greedy
+    // Time Complexity: O(n)
+    // Space Complexity: O(1)
+    // Runtime: 1 ms, faster than 99.17%
+    // Memory Usage: 38.7 MB, less than 72.22%
+    public int rob3(TreeNode root) {
+        int[] mResult = robSub(root);
+        return Math.max(mResult[0], mResult[1]);
+    }
+
+    private int[] robSub(TreeNode root) {
+        int[] mResult = new int[2];
+
+        if (root == null) {
+            return mResult;
+        }
+
+        int[] mLeft = robSub(root.left);
+        int[] mRight = robSub(root.right);
+
+        mResult[0] = root.val + mLeft[1] + mRight[1];
+        mResult[1] = Math.max(mLeft[0], mLeft[1]) + Math.max(mRight[0], mRight[1]);
+
+        return mResult;
+    }
 }
