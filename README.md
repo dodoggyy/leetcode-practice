@@ -6,13 +6,12 @@ Design Pattern
 
 Data Structure
 
-## 完成項目:
 
 *   **LeetCode :**
 
         1. Two Sum (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/TwoSum_1.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)      [ref](https://leetcode.com/problems/two-sum/)
+     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/two_sum_1.cc)      [ref](https://leetcode.com/problems/two-sum/)
      
         2. Add Two Numbers (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/AddTwoNumbers_2.java)
