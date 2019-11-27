@@ -14,7 +14,7 @@ Data Structure
      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/two_sum_1.cc)      [ref](https://leetcode.com/problems/two-sum/)
      
         2. Add Two Numbers (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/AddTwoNumbers_2.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/AddTwoNumbers_2.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/add_two_numbers_2.cc)      [ref](https://leetcode.com/problems/add-two-numbers/)
      
         3. Longest Substring Without Repeating Characters (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LongestSubstringWithoutRepeatingCharacters_3.java)
