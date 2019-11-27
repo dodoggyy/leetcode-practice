@@ -23,7 +23,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LongestPalindromicSubstring_5.java)
      
         9. Palindrome Number (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PalindromeNumber_9.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PalindromeNumber_9.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/palindrome_number_9.cc)      [ref](https://leetcode.com/problems/palindrome-number/)
      
         11. Container With Most Water (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ContainerWithMostWater_11.java)
