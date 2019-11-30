@@ -31,6 +31,9 @@ Data Structure
         11. Container With Most Water (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ContainerWithMostWater_11.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/container_with_most_water_11.cc)      [ref](https://leetcode.com/problems/container-with-most-water/)
      
+        14. Longest Common Prefix (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestCommonPrefix_14.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/palindrome_number_9.cc)      [ref](https://leetcode.com/problems/longest-common-prefix/)
+     
         15. 3Sum (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ThreeSum_15.java)      [ref](https://leetcode.com/problems/3sum/)
      
