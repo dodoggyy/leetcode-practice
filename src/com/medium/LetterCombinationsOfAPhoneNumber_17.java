@@ -48,10 +48,9 @@ public class LetterCombinationsOfAPhoneNumber_17 {
     // 2019年8月7日
     // Use BFS
     // Time Complexity: O(4^n)
-    // Space Complexity:O(4^n + n)
+    // Space Complexity:O(2*(4^n))
     // Runtime: 0 ms, faster than 100.00%
     // Memory Usage: 36.2 MB, less than 98.63%
-
     public List<String> letterCombinations2(String digits) {
         LinkedList<String> mResult = new LinkedList<>();
         if (digits.isEmpty()) {
@@ -64,6 +63,32 @@ public class LetterCombinationsOfAPhoneNumber_17 {
             for (char c : mMap.toCharArray()) {
                 mResult.addLast(mRemove + c);
             }
+        }
+        return mResult;
+    }
+
+    // 2019年12月2日
+    // Use BFS 2nd
+    // Time Complexity: O(4^n)
+    // Space Complexity:O(2*(4^n))
+    // Runtime: 1 ms, faster than 59.45%
+    // Memory Usage: 35.7 MB, less than 98.63%
+    public List<String> letterCombinations3(String digits) {
+        LinkedList<String> mResult = new LinkedList<>();
+        if (digits.isEmpty()) {
+            return mResult;
+        }
+        mResult.add(""); // avoid null pointer
+
+        for (char digit : digits.toCharArray()) {
+            LinkedList<String> mTmp = new LinkedList<>();
+            for (String mStr : mResult) {
+                for (char c : KEYS[digit - '0'].toCharArray()) {
+                    mTmp.add(mStr + c);
+                }
+            }
+            mResult = (LinkedList<String>) mTmp.clone();
+            mTmp.clear();
         }
         return mResult;
     }
