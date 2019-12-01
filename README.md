@@ -35,7 +35,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestCommonPrefix_14.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/longest_common_prefix_14.cc)      [ref](https://leetcode.com/problems/longest-common-prefix/)
      
         15. 3Sum (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ThreeSum_15.java)      [ref](https://leetcode.com/problems/3sum/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ThreeSum_15.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/3_sum.cc)      [ref](https://leetcode.com/problems/3sum/)
      
         17. Letter Combinations of a Phone Number (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LetterCombinationsOfAPhoneNumber_17.java)
