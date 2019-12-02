@@ -290,7 +290,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/UglyNumber_263.java)
      
         268. Missing Number (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MissingNumber_268.java)      [ref](https://leetcode.com/problems/missing-number/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MissingNumber_268.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/missing_number_268.cc)      [ref](https://leetcode.com/problems/missing-number/)
      
         278. First Bad Version (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FirstBadVersion_278.java)      [ref](https://leetcode.com/problems/first-bad-version/)
