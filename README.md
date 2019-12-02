@@ -428,7 +428,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RepeatedSubstringPattern_459.java)
      
         461. Hamming Distance (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HammingDistance_461.java)      [ref](https://leetcode.com/problems/hamming-distance/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HammingDistance_461.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/hamming_distance_461.cc)      [ref](https://leetcode.com/problems/hamming-distance/)
      
         463. Island Perimeter (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/IslandPerimeter_463.java)
