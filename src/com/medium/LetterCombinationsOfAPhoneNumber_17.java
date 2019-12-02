@@ -45,6 +45,33 @@ public class LetterCombinationsOfAPhoneNumber_17 {
         }
     }
 
+    // 2019年12月2日
+    // Use DFS 2nd
+    // Time Complexity: O(4^n)
+    // Space Complexity:O(4^n + n)
+    // Runtime: 0 ms, faster than 100.00%
+    // Memory Usage: 35.9 MB, less than 98.63%
+    public List<String> letterCombinations4(String digits) {
+        List<String> mResult = new ArrayList<>();
+        if(digits == null || digits.length() == 0) {
+            return mResult;
+        }
+        DFS(digits, 0, "", mResult);
+        
+        return mResult;
+    }
+    
+    private void DFS(String digits,int mOffset, String tmp, List<String> mResult) {
+        if(mOffset == digits.length()) {
+            mResult.add(tmp);
+            return;
+        }
+        String mLetters = KEYS[digits.charAt(mOffset) - '0'];
+        for(char c: mLetters.toCharArray()) {
+            DFS(digits, mOffset + 1, tmp + c, mResult);
+        }
+    }
+
     // 2019年8月7日
     // Use BFS
     // Time Complexity: O(4^n)
