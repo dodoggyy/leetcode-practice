@@ -284,7 +284,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AddDigits_258.java)
      
         260. Single Number III (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SingleNumberIII_260.java)      [ref](https://leetcode.com/problems/single-number-iii/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SingleNumberIII_260.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/single_number_III_260.cc)      [ref](https://leetcode.com/problems/single-number-iii/)
      
         263. Ugly Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/UglyNumber_263.java)
