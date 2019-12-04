@@ -254,7 +254,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/KthSmallestElementInABST_230.java)
      
         231. Power of Two (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofTwo_231.java)      [ref](https://leetcode.com/problems/power-of-two/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofTwo_231.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/power_of_two_231.cc)      [ref](https://leetcode.com/problems/power-of-two/)
      
         232. Implement Queue using Stacks (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ImplementQueueUsingStacks_232.java)
