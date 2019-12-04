@@ -329,7 +329,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CountingBits_338.java)
      
         342. Power of Four (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofFour_342.java)      [ref](https://leetcode.com/problems/power-of-four/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofFour_342.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/power_of_four_342.cc)      [ref](https://leetcode.com/problems/power-of-four/)
      
         343. Integer Break (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/IntegerBreak_343.java)
