@@ -209,7 +209,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RotateArray_189.java)
      
         190. Reverse Bits (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseBits_190.java)      [ref](https://leetcode.com/problems/reverse-bits/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseBits_190.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/reverse_bits_190.cc)      [ref](https://leetcode.com/problems/reverse-bits/)
      
         191. Number of 1 Bits (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NumberOf1Bits_191.java)
