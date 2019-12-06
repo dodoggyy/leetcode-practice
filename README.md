@@ -317,7 +317,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RangeSumQuery_303.java)
      
         318. Maximum Product of Word Lengths (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MaximumProductofWordLengths_318.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MaximumProductofWordLengths_318.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/maximum_product_of_word_lengths_318.cc)      [ref](https://leetcode.com/problems/maximum-product-of-word-lengths/)
      
         326. Power of Three (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/Easy/PowerOfThree_326.java)      [ref](https://leetcode.com/problems/path-sum-iii/)
