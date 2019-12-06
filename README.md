@@ -353,7 +353,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPerfectSquare_367.java)
      
         371. Sum of Two Integers (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumofTwoIntegers_371.java)      [ref](https://leetcode.com/problems/sum-of-two-integers/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumofTwoIntegers_371.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/sum_of_two_integers_371.cc)      [ref](https://leetcode.com/problems/sum-of-two-integers/)
      
         374. Guess Number Higher or Lower (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/GuessNumberHigherOrLower_374.java)
