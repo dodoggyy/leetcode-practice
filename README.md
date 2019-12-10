@@ -101,7 +101,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/WordSearch_79.java)
         
         83. Remove Duplicates from Sorted List (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RemoveDuplicatesfromSortedList_83.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RemoveDuplicatesfromSortedList_83.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/remove_duplicates_from_sorted_list_83.cc)      [ref](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
      
         88. Merge Sorted Array (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeSortedArray_88.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/merge_sorted_array_88.cc)      [ref](https://leetcode.com/problems/merge-sorted-array/)
