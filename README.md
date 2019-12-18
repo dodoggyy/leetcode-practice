@@ -70,6 +70,9 @@ Data Structure
         39. Combination Sum (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CombinationSum_39.java)      [ref](https://leetcode.com/problems/combination-sum/)
      
+        40. Combination Sum II (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CombinationSumII_40.java)      [ref](https://leetcode.com/problems/combination-sum-ii/)
+     
         46. Permutations (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/Permutations_46.java)
      
