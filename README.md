@@ -244,6 +244,9 @@ Data Structure
         215. Kth Largest Element in an Array (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/KthLargestElementinanArray_215.java)      [ref](https://leetcode.com/problems/kth-largest-element-in-an-array/)
      
+        216. Combination Sum III (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CombinationSumIII_216.java)      [ref](https://leetcode.com/problems/combination-sum-iii/)
+     
         217. Contains Duplicate (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ContainsDuplicate_217.java)
      
