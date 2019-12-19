@@ -35,4 +35,30 @@ public class FizzBuzz_412 {
         }
         return mResult;
     }
+
+    // 2019年12月19日
+    // Optimize iterative
+    // Time Complexity: O(n)
+    // Space Complexity:O()
+    // Runtime: 2 ms, faster than 20.69%
+    // Memory Usage: 37.1 MB, less than 100.00%
+    public List<String> fizzBuzz2(int n) {
+        List<String> mResult = new ArrayList<>();
+        for (int i = 1; i <= n; i++) {
+            StringBuilder mBuilder = new StringBuilder();
+            if (i % 3 == 0) {
+                mBuilder.append("Fizz");
+            }
+            if(i%5 == 0) {
+                mBuilder.append("Buzz");
+            }
+            if(mBuilder.length() > 0) {
+                mResult.add(mBuilder.toString());
+            } else {
+                mResult.add(i + "");
+            }
+        }
+
+        return mResult;
+    }
 }
