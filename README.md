@@ -197,7 +197,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/TwoSumII_167.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/two_sum_II_167.cc)      [ref](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
      
         168. Excel Sheet Column Title (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ExcelSheetColumnTitle_168.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ExcelSheetColumnTitle_168.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/excel_sheet_column_title_168.cc)      [ref](https://leetcode.com/problems/excel-sheet-column-title/)
      
         169. Majority Element (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MajorityElement_169.java)
