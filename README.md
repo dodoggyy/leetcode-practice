@@ -476,7 +476,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/NextGreaterElementII_503.java)
      
         504. Base 7 (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/Base7_504.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Easy/21_Merge_Two_Sorted_Lists/MergeTwoSortedLists_21.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/base_7_504.cc)      [ref](https://leetcode.com/problems/base-7/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/Base7_504.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Easy/504_Base_7/Base_7_504.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/base_7_504.cc)      [ref](https://leetcode.com/problems/base-7/)
      
         506. Relative Ranks (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RelativeRanks_506.java)
