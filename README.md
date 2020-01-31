@@ -206,7 +206,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ExcelSheetColumnNumber_171.java)
      
         172. Factorial Trailing Zeroes (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FactorialTrailingZeroes_172.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FactorialTrailingZeroes_172.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/factorial_trailing_zeroes_172.cc)      [ref](https://leetcode.com/problems/factorial-trailing-zeroes/)
 
         182. Duplicate Emails (Easy)
      [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DuplicateEmails_182.sql)      [ref](https://leetcode.com/problems/duplicate-emails/)
