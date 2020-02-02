@@ -200,7 +200,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ExcelSheetColumnTitle_168.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/excel_sheet_column_title_168.cc)      [ref](https://leetcode.com/problems/excel-sheet-column-title/)
      
         169. Majority Element (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MajorityElement_169.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MajorityElement_169.java)      [ref](https://leetcode.com/problems/majority-element/)
      
         171. Excel Sheet Column Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ExcelSheetColumnNumber_171.java)
@@ -585,6 +585,9 @@ Data Structure
      
         627. Swap Salary (Easy)
      [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SwapSalary_627.sql)      [ref](https://leetcode.com/problems/swap-salary/)
+     
+        628. Maximum Product of Three Numbers (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MajorityElement_169.java)      [ref](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 
         633. Sum of Square Numbers (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfSquareNumbers_633.java)
