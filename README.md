@@ -362,7 +362,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/IntersectionOfTwoArraysII_350.java)
      
         367. Valid Perfect Square (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPerfectSquare_367.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPerfectSquare_367.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/valid_perfect_square_367.cc)      [ref](https://leetcode.com/problems/valid-perfect-square/)
      
         371. Sum of Two Integers (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumofTwoIntegers_371.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/sum_of_two_integers_371.cc)      [ref](https://leetcode.com/problems/sum-of-two-integers/)
