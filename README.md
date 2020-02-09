@@ -284,7 +284,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ProductOfArrayExceptSelf_238.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Medium/238_Product_of_Array_Except_Self/ProductOfArrayExceptSelf_238.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/product_of_array_except_self_238.cc)      [ref](https://leetcode.com/problems/product-of-array-except-self/)
      
         242. Valid Anagram (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidAnagram_242.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidAnagram_242.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/valid_anagram_242.cc)      [ref](https://leetcode.com/problems/valid-anagram/)
      
         257. Binary Tree Paths (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryTreePaths_257.java)
