@@ -9,7 +9,7 @@ package com.easy;
  */
 public class LongestPalindrome_409 {
 
-    // Array count
+    // use greedy algorithm
     // Time Complexity: O(n)
     // Space Complexity:O(1)
     // Runtime: 1 ms, faster than 100.00%
@@ -41,5 +41,28 @@ public class LongestPalindrome_409 {
         }
 
         return mResult;
+    }
+
+    // use greedy algorithm 2
+    // Time Complexity: O(n)
+    // Space Complexity:O(1)
+    // Runtime: 1 ms, faster than 100.00%
+    // Memory Usage: 38 MB, less than 6.67%
+    public int longestPalindrome2(String s) {
+        int result = 0;
+        int[] count = new int[128];
+
+        for (char c : s.toCharArray()) {
+            count[c]++;
+        }
+
+        for (int cnt : count) {
+            result += ((cnt >> 1) << 1);
+            if ((result & 1) == 0 && (cnt & 1) == 1) {
+                result++;
+            }
+        }
+
+        return result;
     }
 }
