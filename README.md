@@ -233,7 +233,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CountPrimes_204.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/count_primes_204.cc)      [ref](https://leetcode.com/problems/count-primes/)
      
         205. Isomorphic Strings (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/IsomorphicStrings_205.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/IsomorphicStrings_205.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/isomorphic_strings_205.cc)      [ref](https://leetcode.com/problems/isomorphic-strings/)
      
         206. Reverse Linked List (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseLinkedList_206.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/reverse_linked_list_206.cc)      [ref](https://leetcode.com/problems/reverse-linked-list/)
