@@ -596,7 +596,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AverageOfLevelsInBinaryTree_637.java)
      
         647. Palindromic Substrings (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/PalindromicSubstrings_647.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/PalindromicSubstrings_647.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/palindromic_substrings_647.cc)      [ref](https://leetcode.com/problems/palindromic-substrings/)
      
         669. Trim a Binary Search Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/TrimABinarySearchTree_669.java)
