@@ -308,7 +308,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/PerfectSquares_279.java)
      
         283. Move Zeroes (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MoveZeroes_283.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MoveZeroes_283.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/move_zeroes_283.cc)      [ref](https://leetcode.com/problems/move-zeroes/)
      
         287. Find the Duplicate Number (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/FindTheDuplicateNumber_287.java)
