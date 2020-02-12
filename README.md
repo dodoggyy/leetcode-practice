@@ -458,7 +458,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LicenseKeyFormatting_482.java)
      
         485. Max Consecutive Ones (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MaxConsecutiveOnes_485.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MaxConsecutiveOnes_485.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/max_consecutive_ones_485.cc)      [ref](https://leetcode.com/problems/max-consecutive-ones/)
      
         492. Construct the Rectangle (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ConstructTheRectangle_492.java)
