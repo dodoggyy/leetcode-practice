@@ -645,6 +645,9 @@ Data Structure
      
         983. Minimum Cost For Tickets (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MinimumCostForTickets_983.java)
+     
+        1351. Count Negative Numbers in a Sorted Matrix (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CountNegativeNumbersInASortedMatrix_1351.java)      [ref](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/m/problems/find-smallest-letter-greater-than-target/)
     
     
 *   **Design Pattern :**
