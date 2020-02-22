@@ -210,6 +210,9 @@ Data Structure
      
         175. Combine Two Tables (Easy)
      [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CombineTwoTables_175.sql)      [ref](https://leetcode.com/problems/combine-two-tables/)
+     
+        181. Employees Earning More Than Their Managers (Easy)
+     [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CombineTwoTables_175.sql)      [ref](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
 
         182. Duplicate Emails (Easy)
      [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DuplicateEmails_182.sql)      [ref](https://leetcode.com/problems/duplicate-emails/)
