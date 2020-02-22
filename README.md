@@ -220,6 +220,9 @@ Data Structure
         191. Number of 1 Bits (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NumberOf1Bits_191.java)
      
+        196. Delete Duplicate Emails (Easy)
+     [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DeleteDuplicateEmails_196.sql)      [ref](https://leetcode.com/problems/delete-duplicate-emails/)
+     
         198. House Robber (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HouseRobber_198.java)      [ref](https://leetcode.com/problems/house-robber/)
      
