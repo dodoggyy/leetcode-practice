@@ -211,6 +211,9 @@ Data Structure
         175. Combine Two Tables (Easy)
      [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CombineTwoTables_175.sql)      [ref](https://leetcode.com/problems/combine-two-tables/)
      
+        176. Second Highest Salary (Easy)
+     [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SecondHighestSalary_176.sql)      [ref](https://leetcode.com/problems/second-highest-salary/)
+     
         181. Employees Earning More Than Their Managers (Easy)
      [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CombineTwoTables_175.sql)      [ref](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
 
