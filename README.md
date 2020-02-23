@@ -220,6 +220,9 @@ Data Structure
         183. Customers Who Never Order (Easy)
      [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CustomersWhoNeverOrder_183.sql)      [ref](https://leetcode.com/problems/customers-who-never-order/)
      
+        184. Department Highest Salary (Medium)
+     [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/DepartmentHighestSalary_184.sql)      [ref](https://leetcode.com/problems/department-highest-salary/)
+     
         189. Rotate Array (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RotateArray_189.java)
      
