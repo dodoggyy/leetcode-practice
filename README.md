@@ -666,6 +666,9 @@ Data Structure
      
         1351. Count Negative Numbers in a Sorted Matrix (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CountNegativeNumbersInASortedMatrix_1351.java)      [ref](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/m/problems/find-smallest-letter-greater-than-target/)
+     
+        1365. How Many Numbers Are Smaller Than the Current Number (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HowManyNumbersAreSmallerThanTheCurrentNumber_1365.java)      [ref](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
     
     
 *   **Design Pattern :**
