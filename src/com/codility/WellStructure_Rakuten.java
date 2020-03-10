@@ -17,13 +17,12 @@ public class WellStructure_Rakuten {
         String S = "YAMAR";
         WellStructure_Rakuten mTest = new WellStructure_Rakuten();
         System.out.println(mTest.solution(S));
-        // System.out.println(mTest.helper(4, 2));
     }
 
     // 2020年3月10日
     // Use math permutation:
     // Time Complexity: O(m!n!)
-    // Space Complexity:O(m+n)
+    // Space Complexity:O(1)
     public int solution(String S) {
         // write your code in Java SE 8
         if (S == null || S.length() == 0) {
@@ -44,13 +43,7 @@ public class WellStructure_Rakuten {
 
         int[] arrVowel = new int[5];
         int[] arrConsonant = new int[21];
-        int indexarrConsonant = 0;
-
-        arrVowel[0] = count['A' - 'A'];
-        arrVowel[1] = count['E' - 'A'];
-        arrVowel[2] = count['I' - 'A'];
-        arrVowel[3] = count['O' - 'A'];
-        arrVowel[4] = count['U' - 'A'];
+        int indexarrConsonant = 0, indexarrVowel = 0;
 
         System.out.println("countConsonant:" + countConsonant);
         System.out.println("countVowel:" + countVowel);
@@ -58,9 +51,10 @@ public class WellStructure_Rakuten {
         for (int i = 0; i < 26; i++) {
 
             char c = (char) ('A' + i);
-            // System.out.print(c + "\t");
             if (c != 'A' && c != 'E' && c != 'I' && c != 'O' && c != 'U') {
                 arrConsonant[indexarrConsonant++] = count[i];
+            } else {
+                arrVowel[indexarrVowel++] = count[i];
             }
         }
 
