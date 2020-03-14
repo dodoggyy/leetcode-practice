@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-struct Node
+calss Node
 {
     Node *next;
     int data;
