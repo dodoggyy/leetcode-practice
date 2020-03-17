@@ -53,7 +53,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/hard/MergeKSortedLists_23.java)      [ref](https://leetcode.com/problems/merge-k-sorted-lists/)
      
         24. Swap Nodes in Pairs (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SwapNodesinPairs_24.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SwapNodesinPairs_24.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/swap_nodes_in_pairs_24.cc)      [ref](https://leetcode.com/problems/swap-nodes-in-pairs/)
      
         26. Remove Duplicates from Sorted Array (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RemoveDuplicatesFromSortedArray_26.java)
