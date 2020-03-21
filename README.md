@@ -658,6 +658,9 @@ Data Structure
         707. Design Linked List (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DesignLinkedList_707.java)
      
+        725. Split Linked List in Parts (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SplitLinkedListInParts_725.java)      [ref](https://leetcode.com/problems/split-linked-list-in-parts/)
+     
         739. Daily Temperatures (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/DailyTemperatures_739.java)
 
