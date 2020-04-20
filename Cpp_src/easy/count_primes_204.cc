@@ -84,3 +84,45 @@ public:
         return result;
     }
 };
+
+// Optimize sieve of Eratosthenes
+// Time Complexity: O(nloglogn)
+// Space Complexity: O(n)
+// Runtime: 20 ms, faster than 90.74%
+// Memory Usage: 7.8 MB, less than 100.00%
+class Solution3
+{
+public:
+    int countPrimes(int n)
+    {
+        if (n <= 2)
+        {
+            return 0;
+        }
+        int result = 0;
+        bool b_is_prime[n];
+
+        for (int i = 0; i < n; i++)
+        {
+            b_is_prime[i] = true;
+        }
+
+        for (int i = 2; i < n; i++)
+        {
+            if (!b_is_prime[i])
+            {
+                continue;
+            }
+            else
+            {
+                result++;
+                for (int j = i * 2; j < n; j += i)
+                {
+                    b_is_prime[j] = false;
+                }
+            }
+        }
+
+        return result;
+    }
+};
