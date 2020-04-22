@@ -374,7 +374,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/IntegerBreak_343.java)
      
         344. Reverse String (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseString_344.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseString_344.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/reverse_string_344.cc)      [ref](https://leetcode.com/problems/reverse-string/)
 
         345. Reverse Vowels of a String (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseVowelsOfAString_345.java)
