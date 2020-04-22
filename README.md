@@ -482,7 +482,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/Heaters_475.java)
      
         476. Number Complement (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NumberComplement_476.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NumberComplement_476.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/number_complement_476.cc)      [ref](https://leetcode.com/problems/number-complement/)
      
         482. License Key Formatting (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LicenseKeyFormatting_482.java)
