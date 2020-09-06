@@ -11,7 +11,7 @@ Data Structure
 
         1. Two Sum (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/TwoSum_1.java)      [python](https://bitbucket.org/dodoggyy/leetcode/src/master/Py_src/)
-     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/two_sum_1.cc)      [ref](https://leetcode.com/problems/two-sum/)
+     [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/two_sum_1.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/twoSum_1.go)      [ref](https://leetcode.com/problems/two-sum/)
      
         2. Add Two Numbers (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/AddTwoNumbers_2.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/add_two_numbers_2.cc)      [ref](https://leetcode.com/problems/add-two-numbers/)
@@ -419,7 +419,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfLeftLeaves_404.java)
      
         405. Convert a Number to Hexadecimal (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ConvertANumberToHexadecimal_405.java))      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Easy/405_Convert_a_Number_to_Hexadecimal/ConvertaNumberToHexadecimal_405.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/convert_a_number_to_hexadecimal_405.cc)      [ref](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ConvertANumberToHexadecimal_405.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Easy/405_Convert_a_Number_to_Hexadecimal/ConvertaNumberToHexadecimal_405.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/convert_a_number_to_hexadecimal_405.cc)      [ref](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
      
         409. Longest Palindrome (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestPalindrome_409.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/longest_palindrome_409.cc)      [ref](https://leetcode.com/problems/longest-palindrome/)
