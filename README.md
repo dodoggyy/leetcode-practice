@@ -620,7 +620,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MajorityElement_169.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/maximum_product_of_three_numbers_628.cc)      [ref](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 
         633. Sum of Square Numbers (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfSquareNumbers_633.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfSquareNumbers_633.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/sumOfSquareNumbers_633.go)      [ref](https://leetcode.com/problems/sum-of-square-numbers/)
      
         637. Average of Levels in Binary Tree (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AverageOfLevelsInBinaryTree_637.java)
