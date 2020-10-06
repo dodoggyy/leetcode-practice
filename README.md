@@ -377,7 +377,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseString_344.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/reverse_string_344.cc)      [ref](https://leetcode.com/problems/reverse-string/)
 
         345. Reverse Vowels of a String (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseVowelsOfAString_345.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseVowelsOfAString_345.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/reverseVowelsOfAString_345.go)      [ref](https://leetcode.com/problems/reverse-vowels-of-a-string/)
      
         347. Top K Frequent Elements (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/TopKFrequentElements_347.java)      [ref](https://leetcode.com/problems/top-k-frequent-elements/)
