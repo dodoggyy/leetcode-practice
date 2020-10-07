@@ -638,7 +638,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SecondMinimumNodeInABinaryTree_671.java)
 
         680. Valid Palindrome II (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPalindromeII_680.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPalindromeII_680.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/validPalindromeII_680.go)      [ref](https://leetcode.com/problems/valid-palindrome-ii/)
      
         687. Longest Univalue Path (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestUnivaluePath_687.java)
