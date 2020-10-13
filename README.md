@@ -212,7 +212,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ExcelSheetColumnNumber_171.java)
      
         172. Factorial Trailing Zeroes (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FactorialTrailingZeroes_172.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/factorial_trailing_zeroes_172.cc)      [ref](https://leetcode.com/problems/factorial-trailing-zeroes/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FactorialTrailingZeroes_172.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/factorial_trailing_zeroes_172.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/factorialTrailingZeroes_172.go)      [ref](https://leetcode.com/problems/factorial-trailing-zeroes/)
      
         175. Combine Two Tables (Easy)
      [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CombineTwoTables_175.sql)      [ref](https://leetcode.com/problems/combine-two-tables/)
