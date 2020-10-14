@@ -92,7 +92,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MinimumPathSum_64.java)
      
         67. Add Binary (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AddBinary_67.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Easy/67_Add_Binary/AddBinary_67.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/add_binary_67.cc)      [ref](https://leetcode.com/problems/add-binary/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AddBinary_67.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Easy/67_Add_Binary/AddBinary_67.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/add_binary_67.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/addBinary_67.go)      [ref](https://leetcode.com/problems/add-binary/)
 
         69. Sqrt(x) (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/Sqrtx_69.java)      [ref](https://leetcode.com/problems/sqrtx/)
