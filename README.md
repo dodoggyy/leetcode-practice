@@ -206,7 +206,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ExcelSheetColumnTitle_168.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/excel_sheet_column_title_168.cc)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/excelSheetColumnTitle_168.go)      [ref](https://leetcode.com/problems/excel-sheet-column-title/)
      
         169. Majority Element (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MajorityElement_169.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/majority_element_169.cc)      [ref](https://leetcode.com/problems/majority-element/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MajorityElement_169.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/majority_element_169.cc)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/majorityElement_169.go)      [ref](https://leetcode.com/problems/majority-element/)
      
         171. Excel Sheet Column Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ExcelSheetColumnNumber_171.java)
