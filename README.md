@@ -356,7 +356,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MaximumProductofWordLengths_318.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Medium/318_Maximum_Product_of_Word_Lengths/MaximumProductofWordLengths_318.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/maximum_product_of_word_lengths_318.cc)      [ref](https://leetcode.com/problems/maximum-product-of-word-lengths/)
      
         326. Power of Three (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/Easy/PowerOfThree_326.java)      [ref](https://leetcode.com/problems/path-sum-iii/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/Easy/PowerOfThree_326.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/powerOfThree_326.go)      [ref](https://leetcode.com/problems/path-sum-iii/)
      
         328. Odd Even Linked List (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/OddEvenLinkedList_328.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/odd_even_linked_list_328.cc)      [ref](https://leetcode.com/problems/odd-even-linked-list/)
