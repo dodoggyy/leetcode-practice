@@ -146,7 +146,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ConvertSortedArraytoBinarySearchTree_108.java))      [ref](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
      
         110. Balanced Binary Tree (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BalancedBinaryTree_110.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/balanced_binary_tree_110.cc)      [ref](https://leetcode.com/problems/balanced-binary-tree/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BalancedBinaryTree_110.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/balanced_binary_tree_110.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/BalancedBinaryTree_110.go)      [ref](https://leetcode.com/problems/balanced-binary-tree/)
      
         111. Minimum Depth of Binary Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MinimumDepthOfBinaryTree_111.java)
