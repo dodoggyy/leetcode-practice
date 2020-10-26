@@ -281,7 +281,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ImplementStackUsingQueues_225.java)
      
         226. Invert Binary Tree (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/InvertBinaryTree_226.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/invert_binary_tree_226.cc)      [ref](https://leetcode.com/problems/invert-binary-tree/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/InvertBinaryTree_226.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/invert_binary_tree_226.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/invertBinaryTree_226.go)      [ref](https://leetcode.com/problems/invert-binary-tree/)
      
         230. Kth Smallest Element in a BST (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/KthSmallestElementInABST_230.java)
