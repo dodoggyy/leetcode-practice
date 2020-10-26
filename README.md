@@ -548,7 +548,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseStringII_541.java)
      
         543. Diameter of Binary Tree (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DiameterofBinaryTree_543.java)      [ref](https://leetcode.com/problems/diameter-of-binary-tree/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DiameterofBinaryTree_543.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/diameterOfBinaryTree_543.go)      [ref](https://leetcode.com/problems/diameter-of-binary-tree/)
      
         551. Student Attendance Record I (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/StudentAttendanceRecordI_551.java)
