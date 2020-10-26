@@ -608,7 +608,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ConstructStringFromBinaryTree_606.java)
      
         617. Merge Two Binary Trees (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeTwoBinaryTrees_617.java)      [ref](https://leetcode.com/problems/merge-two-binary-trees/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeTwoBinaryTrees_617.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/mergeTwoBinaryTrees_617.go)      [ref](https://leetcode.com/problems/merge-two-binary-trees/)
 
         620. Not Boring Movies (Easy)
      [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NotBoringMovies_620.sql)      [ref](https://leetcode.com/problems/not-boring-movies/)
