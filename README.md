@@ -152,7 +152,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MinimumDepthOfBinaryTree_111.java)
      
         112. Path Sum (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PathSum_112.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PathSum_112.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/pathSum_112.go)      [ref](https://leetcode.com/problems/path-sum/)
      
         118. Pascal's Triangle (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PascalsTriangle_118.java)
