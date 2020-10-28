@@ -442,8 +442,8 @@ Data Structure
         435. Non-overlapping Intervals (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/NonOverlappingIntervals_435.java)
      
-        437. Path Sum III (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PathSumIII_437.java)      [ref](https://leetcode.com/problems/path-sum-iii/)
+        437. Path Sum III (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PathSumIII_437.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/pathSumIII_437.go)      [ref](https://leetcode.com/problems/path-sum-iii/)
      
         438. Find All Anagrams in a String (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FindAllAnagramsInAString_438.java)
