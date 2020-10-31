@@ -272,7 +272,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CombinationSumIII_216.java)      [ref](https://leetcode.com/problems/combination-sum-iii/)
      
         217. Contains Duplicate (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ContainsDuplicate_217.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ContainsDuplicate_217.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/containsDuplicate_217.go)      [ref](https://leetcode.com/problems/contains-duplicate/)
      
         219. Contains Duplicate II (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ContainsDuplicateII_219.java)
