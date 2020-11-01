@@ -92,7 +92,8 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MinimumPathSum_64.java)
      
         67. Add Binary (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AddBinary_67.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Easy/67_Add_Binary/AddBinary_67.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/add_binary_67.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/addBinary_67.go)      [ref](https://leetcode.com/problems/add-binary/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AddBinary_67.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Easy/67_Add_Binary/AddBinary_67.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/add_binary_67.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/addB
+     inary_67.go)      [ref](https://leetcode.com/problems/add-binary/)
 
         69. Sqrt(x) (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/Sqrtx_69.java)      [ref](https://leetcode.com/problems/sqrtx/)
@@ -416,7 +417,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryWatch_401.java)
      
         404. Sum of Left Leaves (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfLeftLeaves_404.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfLeftLeaves_404.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/sumOfLeftLeaves_404.go)      [ref](https://leetcode.com/problems/sum-of-left-leaves/)
      
         405. Convert a Number to Hexadecimal (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ConvertANumberToHexadecimal_405.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Easy/405_Convert_a_Number_to_Hexadecimal/ConvertaNumberToHexadecimal_405.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/convert_a_number_to_hexadecimal_405.cc)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/convertANumberToHexadecimal_405.go)      [ref](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
