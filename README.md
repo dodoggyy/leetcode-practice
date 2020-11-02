@@ -644,8 +644,8 @@ Data Structure
         680. Valid Palindrome II (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPalindromeII_680.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/validPalindromeII_680.go)      [ref](https://leetcode.com/problems/valid-palindrome-ii/)
      
-        687. Longest Univalue Path (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestUnivaluePath_687.java)
+        687. Longest Univalue Path (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestUnivaluePath_687.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/longestUnivaluePath_687.go)      [ref](https://leetcode.com/problems/longest-univalue-path/)
      
         693. Binary Number with Alternating Bits (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryNumberwithAlternatingBits_693.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/binary_number_with_alternating_bits_693.cc)      [ref](https://leetcode.com/problems/binary-number-with-alternating-bits/)
