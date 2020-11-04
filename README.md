@@ -171,7 +171,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPalindrome_125.java)
      
         136. Single Number (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SingleNumber_136.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Easy/136.%20Single%20Number/SingleNumber_136.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/single_number_136.cc)      [ref](https://leetcode.com/problems/single-number/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SingleNumber_136.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Easy/136.%20Single%20Number/SingleNumber_136.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/single_number_136.cc)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/singleNumber_136.go)      [ref](https://leetcode.com/problems/single-number/)
      
         137. Single Number II (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SingleNumberII_137.java)      [ref](https://leetcode.com/problems/single-number-ii/)
