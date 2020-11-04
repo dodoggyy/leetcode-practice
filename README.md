@@ -474,7 +474,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RepeatedSubstringPattern_459.java)
      
         461. Hamming Distance (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HammingDistance_461.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/hamming_distance_461.cc)      [ref](https://leetcode.com/problems/hamming-distance/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HammingDistance_461.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/hamming_distance_461.cc)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/hammingDistance_461.go)      [ref](https://leetcode.com/problems/hamming-distance/)
 
         462. Minimum Moves to Equal Array Elements II (Medium)
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/minimumMovesToEqualArrayElementsII_462.go)      [ref](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
