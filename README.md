@@ -648,7 +648,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestUnivaluePath_687.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/longestUnivaluePath_687.go)      [ref](https://leetcode.com/problems/longest-univalue-path/)
      
         693. Binary Number with Alternating Bits (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryNumberwithAlternatingBits_693.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/binary_number_with_alternating_bits_693.cc)      [ref](https://leetcode.com/problems/binary-number-with-alternating-bits/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryNumberwithAlternatingBits_693.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/binary_number_with_alternating_bits_693.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/binaryNumberWithAlternatingBits_693.go)      [ref](https://leetcode.com/problems/binary-number-with-alternating-bits/)
      
         696. Count Binary Substrings (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CountBinarySubstrings_696.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/count_binary_substrings_696.cc)      [ref](https://leetcode.com/problems/count-binary-substrings/)
