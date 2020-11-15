@@ -366,7 +366,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/HouseRobberIII_337.java)      [ref](https://leetcode.com/problems/house-robber-iii/)
      
         338. Counting Bits (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CountingBits_338.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Medium/338_Counting_Bits/CountingBits_338.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/counting_bits_338.cc)      [ref](https://leetcode.com/problems/counting-bits/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CountingBits_338.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Medium/338_Counting_Bits/CountingBits_338.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/counting_bits_338.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/countingBits_338.go)      [ref](https://leetcode.com/problems/counting-bits/)
      
         342. Power of Four (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PowerofFour_342.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/power_of_four_342.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/powerOfFour_342.go)      [ref](https://leetcode.com/problems/power-of-four/)
