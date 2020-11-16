@@ -363,7 +363,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/OddEvenLinkedList_328.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/odd_even_linked_list_328.cc)      [ref](https://leetcode.com/problems/odd-even-linked-list/)
      
         337. House Robber III (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/HouseRobberIII_337.java)      [ref](https://leetcode.com/problems/house-robber-iii/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/HouseRobberIII_337.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/houseRobberIII_337.go)      [ref](https://leetcode.com/problems/house-robber-iii/)
      
         338. Counting Bits (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CountingBits_338.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Medium/338_Counting_Bits/CountingBits_338.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/counting_bits_338.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/countingBits_338.go)      [ref](https://leetcode.com/problems/counting-bits/)
