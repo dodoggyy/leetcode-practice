@@ -246,7 +246,7 @@ Data Structure
      [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DeleteDuplicateEmails_196.sql)      [ref](https://leetcode.com/problems/delete-duplicate-emails/)
      
         198. House Robber (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HouseRobber_198.java)      [ref](https://leetcode.com/problems/house-robber/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HouseRobber_198.java)    [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/houseRobber_198.go)      [ref](https://leetcode.com/problems/house-robber/)
      
         202. Happy Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HappyNumber_202.java)
