@@ -682,6 +682,9 @@ Data Structure
      
         1365. How Many Numbers Are Smaller Than the Current Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HowManyNumbersAreSmallerThanTheCurrentNumber_1365.java)      [ref](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+
+        1646. Get Maximum in Generated Array (Easy)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/getMaximumInGeneratedArray_1646.go)      [ref](https://leetcode.com/problems/get-maximum-in-generated-array/)
     
     
 *   **Design Pattern :**
