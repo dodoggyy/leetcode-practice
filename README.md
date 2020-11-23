@@ -588,7 +588,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NaryTreePostorderTraversal_590.java)
      
         594. Longest Harmonious Subsequence (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestHarmoniousSubsequence_594.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LongestHarmoniousSubsequence_594.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/longestHarmoniousSubsequence_594.go)      [ref](https://leetcode.com/problems/longest-harmonious-subsequence/)
      
         595. Big Countries (Easy)
      [mysql](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BigCountries_595.sql)      [ref](https://leetcode.com/problems/big-countries/)
