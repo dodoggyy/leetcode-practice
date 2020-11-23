@@ -315,7 +315,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/Searcha2DMatrixII_240.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/search_a_2D_matrix_II_240.cc)      [ref](https://leetcode.com/problems/search-a-2d-matrix-ii/)
      
         242. Valid Anagram (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidAnagram_242.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/valid_anagram_242.cc)      [ref](https://leetcode.com/problems/valid-anagram/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidAnagram_242.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/valid_anagram_242.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/validAnagram_242.go)      [ref](https://leetcode.com/problems/valid-anagram/)
      
         257. Binary Tree Paths (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryTreePaths_257.java)
