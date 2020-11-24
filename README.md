@@ -642,7 +642,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/TrimABinarySearchTree_669.java)
      
         671. Second Minimum Node In a Binary Tree (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SecondMinimumNodeInABinaryTree_671.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SecondMinimumNodeInABinaryTree_671.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/secondMinimumNodeInABinaryTree_671.go)      [ref](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
 
         680. Valid Palindrome II (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPalindromeII_680.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/validPalindromeII_680.go)      [ref](https://leetcode.com/problems/valid-palindrome-ii/)
