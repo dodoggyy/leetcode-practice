@@ -629,8 +629,8 @@ Data Structure
         633. Sum of Square Numbers (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SumOfSquareNumbers_633.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/sumOfSquareNumbers_633.go)      [ref](https://leetcode.com/problems/sum-of-square-numbers/)
      
-        637. Average of Levels in Binary Tree (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AverageOfLevelsInBinaryTree_637.java)
+        637. Average of Levels in Binary Tree (Easy)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AverageOfLevelsInBinaryTree_637.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/averageOfLevelsInBinaryTree_637.go)      [ref](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
      
         645. Set Mismatch (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SetMismatch_645.java)      [ref](https://leetcode.com/problems/set-mismatch/)
