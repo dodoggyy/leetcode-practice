@@ -525,7 +525,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FibonacciNumber_509.java)
      
         513. Find Bottom Left Tree Value (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/FindBottomLeftTreeValue_513.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/FindBottomLeftTreeValue_513.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/findBottomLeftTreeValue_513.go)      [ref](https://leetcode.com/problems/find-bottom-left-tree-value/)
      
         520. Detect Capital (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DetectCapital_520.java)
