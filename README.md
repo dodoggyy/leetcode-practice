@@ -188,8 +188,8 @@ Data Structure
         144. Binary Tree Preorder Traversal (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/BinaryTreePreorderTraversal_144.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/binaryTreePreorderTraversal_144.go)      [ref](https://leetcode.com/problems/binary-tree-preorder-traversal/)
      
-        145. Binary Tree Postorder Traversal (Hard)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/hard/BinaryTreePostorderTraversal_145.java)
+        145. Binary Tree Postorder Traversal (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/hard/BinaryTreePostorderTraversal_145.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/binaryTreePostorderTraversal_145.go)      [ref](https://leetcode.com/problems/binary-tree-postorder-traversal/)
      
         146. LRU Cache (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LRUCache_146.java)
