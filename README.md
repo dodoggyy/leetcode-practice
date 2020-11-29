@@ -123,7 +123,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ReverseLinkedListII_92.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/reverse_linked_list_II_92.cc)      [ref](https://leetcode.com/problems/reverse-linked-list-ii/)
      
         94. Binary Tree Inorder Traversal (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/BinaryTreeInorderTraversal_94.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/BinaryTreeInorderTraversal_94.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/binaryTreeInorderTraversal_94.go)      [ref](https://leetcode.com/problems/binary-tree-inorder-traversal/)
      
         98. Validate Binary Search Tree (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ValidateBinarySearchTree_98.java)      [ref](https://leetcode.com/problems/validate-binary-search-tree/)
