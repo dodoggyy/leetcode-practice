@@ -639,7 +639,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/PalindromicSubstrings_647.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/palindromic_substrings_647.cc)      [ref](https://leetcode.com/problems/palindromic-substrings/)
      
         669. Trim a Binary Search Tree (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/TrimABinarySearchTree_669.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/TrimABinarySearchTree_669.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/trimABinarySearchTree_669.go)      [ref](https://leetcode.com/problems/trim-a-binary-search-tree/)
      
         671. Second Minimum Node In a Binary Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SecondMinimumNodeInABinaryTree_671.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/secondMinimumNodeInABinaryTree_671.go)      [ref](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
