@@ -542,8 +542,8 @@ Data Structure
         532. K-diff Pairs in an Array (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/KDiffPairsInAnArray_532.java)
      
-        538. Convert BST to Greater Tree (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ConvertBSTtoGreaterTree_538.java)
+        538. Convert BST to Greater Tree (Medium)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ConvertBSTtoGreaterTree_538.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/convertBSTToGreaterTree_538.go)      [ref](https://leetcode.com/problems/power-of-two/)
 
         540. Single Element in a Sorted Array (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SingleElementInASortedArray_540.java)      [ref](https://leetcode.com/problems/single-element-in-a-sorted-array/)
