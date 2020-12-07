@@ -640,6 +640,9 @@ Data Structure
      
         647. Palindromic Substrings (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/PalindromicSubstrings_647.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/palindromic_substrings_647.cc)      [ref](https://leetcode.com/problems/palindromic-substrings/)
+
+        653. Two Sum IV - Input is a BST (easy)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/twoSumIV_653.go)      [ref](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
      
         669. Trim a Binary Search Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/TrimABinarySearchTree_669.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/trimABinarySearchTree_669.go)      [ref](https://leetcode.com/problems/trim-a-binary-search-tree/)
