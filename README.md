@@ -540,7 +540,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LongestWordinDictionarythroughDeleting_524.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/LongestWordInDictionaryThroughDeleting_524.go)      [ref](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
      
         530. Minimum Absolute Difference in BST (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MinimumAbsoluteDifferenceInBST_530.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MinimumAbsoluteDifferenceInBST_530.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/minimumAbsoluteDifferenceInBST_530.go)      [ref](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
      
         532. K-diff Pairs in an Array (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/KDiffPairsInAnArray_532.java)
