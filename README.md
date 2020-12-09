@@ -510,7 +510,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/KeyboardRow_500.java)
      
         501. Find Mode in Binary Search Tree (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FindModeInBinarySearchTree_501.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FindModeInBinarySearchTree_501.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/findModeInBinarySearchTree_501.go)      [ref](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
      
         503. Next Greater Element II (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/NextGreaterElementII_503.java)
