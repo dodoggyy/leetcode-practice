@@ -653,6 +653,9 @@ Data Structure
         671. Second Minimum Node In a Binary Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SecondMinimumNodeInABinaryTree_671.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/secondMinimumNodeInABinaryTree_671.go)      [ref](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
 
+        677. Map Sum Pairs (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/mapSumPairs_677.go)      [ref](https://leetcode.com/problems/map-sum-pairs/)
+
         680. Valid Palindrome II (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPalindromeII_680.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/validPalindromeII_680.go)      [ref](https://leetcode.com/problems/valid-palindrome-ii/)
      
