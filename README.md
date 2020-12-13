@@ -26,7 +26,7 @@ Data Structure
      [java](https://github.com/dodoggyy/AlgorithmPractice/blob/master/src/com/practice/ReverseInteger.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/reverse_integer_7.cc)      [ref](https://leetcode.com/problems/reverse-integer/)
      
         9. Palindrome Number (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PalindromeNumber_9.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/palindrome_number_9.cc)      [ref](https://leetcode.com/problems/palindrome-number/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PalindromeNumber_9.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/palindrome_number_9.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/palindromeNumber_9.go)      [ref](https://leetcode.com/problems/palindrome-number/)
      
         11. Container With Most Water (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ContainerWithMostWater_11.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/container_with_most_water_11.cc)      [ref](https://leetcode.com/problems/container-with-most-water/)
