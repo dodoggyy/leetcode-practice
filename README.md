@@ -666,7 +666,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryNumberwithAlternatingBits_693.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/binary_number_with_alternating_bits_693.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/binaryNumberWithAlternatingBits_693.go)      [ref](https://leetcode.com/problems/binary-number-with-alternating-bits/)
      
         696. Count Binary Substrings (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CountBinarySubstrings_696.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/count_binary_substrings_696.cc)      [ref](https://leetcode.com/problems/count-binary-substrings/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CountBinarySubstrings_696.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/count_binary_substrings_696.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/countBinarySubstrings_696.go)      [ref](https://leetcode.com/problems/count-binary-substrings/)
      
         697. Degree of an Array(Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DegreeOfAnArray_697.java)
