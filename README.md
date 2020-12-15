@@ -688,6 +688,9 @@ Data Structure
 
         744. Find Smallest Letter Greater Than Target (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FindSmallestLetterGreaterThanTarget_744.java)      [ref](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+
+        785. Is Graph Bipartite? (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/isGraphBipartite_785.go)      [ref](https://leetcode.com/problems/is-graph-bipartite/)
      
         983. Minimum Cost For Tickets (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MinimumCostForTickets_983.java)
