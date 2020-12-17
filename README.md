@@ -477,7 +477,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SortCharactersByFrequency_451.java)      [ref](https://leetcode.com/problems/sort-characters-by-frequency/)
      
         455. Assign Cookies (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AssignCookies_455.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AssignCookies_455.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/assignCookies_455.go)      [ref](https://leetcode.com/problems/assign-cookies/)
      
         459. Repeated Substring Pattern (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RepeatedSubstringPattern_459.java)
