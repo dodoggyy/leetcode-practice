@@ -691,6 +691,9 @@ Data Structure
 
         785. Is Graph Bipartite? (Medium)
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/isGraphBipartite_785.go)      [ref](https://leetcode.com/problems/is-graph-bipartite/)
+
+        886. Possible Bipartition (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/possibleBipartition_886.go)      [ref](https://leetcode.com/problems/possible-bipartition/)
      
         983. Minimum Cost For Tickets (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MinimumCostForTickets_983.java)
