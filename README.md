@@ -269,6 +269,9 @@ Data Structure
         206. Reverse Linked List (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ReverseLinkedList_206.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/reverse_linked_list_206.cc)      [ref](https://leetcode.com/problems/reverse-linked-list/)
 
+        207. Course Schedule (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/courseSchedule_207.go)      [ref](https://leetcode.com/problems/course-schedule/)
+
         208. Implement Trie (Prefix Tree) (Medium)
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/implementTrie_208.go)      [ref](https://leetcode.com/problems/implement-trie-prefix-tree/)
      
