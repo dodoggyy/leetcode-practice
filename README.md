@@ -165,7 +165,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PascalsTriangleII_119.java)
      
         121. Best Time to Buy and Sell Stock (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BestTimeToBuyAndSellStock_121.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BestTimeToBuyAndSellStock_121.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/bestTimeToBuyAndSellStock_121.go)      [ref](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solution/)
      
         122. Best Time to Buy and Sell Stock II (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BestTimeToBuyAndSellStockII_122.java)
