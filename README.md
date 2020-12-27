@@ -624,7 +624,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MinimumIndexSumOfTwoLists_599.java)
      
         605. Can Place Flowers (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CanPlaceFlowers_605.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CanPlaceFlowers_605.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/canPlaceFlowers_605.go)      [ref](https://leetcode.com/problems/can-place-flowers/)
      
         606. Construct String from Binary Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ConstructStringFromBinaryTree_606.java)
