@@ -424,6 +424,9 @@ Data Structure
      
         389. Find the Difference (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FindTheDifference_389.java)
+
+        392. Is Subsequence (Easy)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/isSubsequence_392.go)      [ref](https://leetcode.com/problems/is-subsequence/)
      
         400. Nth Digit (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NthDigit_400.java)
