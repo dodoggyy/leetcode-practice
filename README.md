@@ -661,6 +661,9 @@ Data Structure
 
         653. Two Sum IV - Input is a BST (easy)
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/twoSumIV_653.go)      [ref](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
+
+        665. Non-decreasing Array (Easy)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/nonDecreasingArray_665.go)      [ref](https://leetcode.com/problems/non-decreasing-array/)
      
         669. Trim a Binary Search Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/TrimABinarySearchTree_669.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/trimABinarySearchTree_669.go)      [ref](https://leetcode.com/problems/trim-a-binary-search-tree/)
