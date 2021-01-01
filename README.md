@@ -80,7 +80,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/RotateImage_48.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/rotate_image_48.cc)      [ref](https://leetcode.com/problems/rotate-image/)
 
         53. Maximum Subarray (Easy)
-     [Go]](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CombinationSumII_40.java)      [ref](https://leetcode.com/problems/maximum-subarray/)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CombinationSumII_40.java)      [ref](https://leetcode.com/problems/maximum-subarray/)
      
         54. Spiral Matrix (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SpiralMatrix_54.java)
@@ -712,6 +712,9 @@ Data Structure
 
         744. Find Smallest Letter Greater Than Target (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FindSmallestLetterGreaterThanTarget_744.java)      [ref](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+
+        763. Partition Labels (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/partitionLabels_763.go)      [ref](https://leetcode.com/problems/partition-labels/)
 
         785. Is Graph Bipartite? (Medium)
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/isGraphBipartite_785.go)      [ref](https://leetcode.com/problems/is-graph-bipartite/)
