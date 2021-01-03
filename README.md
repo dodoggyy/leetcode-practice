@@ -354,7 +354,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FirstBadVersion_278.java)      [ref](https://leetcode.com/problems/first-bad-version/)
      
         279. Perfect Squares (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/PerfectSquares_279.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/PerfectSquares_279.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/perfectSquares_279.go)      [ref](https://leetcode.com/problems/perfect-squares/)
      
         283. Move Zeroes (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MoveZeroes_283.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/move_zeroes_283.cc)      [ref](https://leetcode.com/problems/move-zeroes/)
