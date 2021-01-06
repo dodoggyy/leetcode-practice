@@ -20,7 +20,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LongestSubstringWithoutRepeatingCharacters_3.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/longest_substring_without_repeating_characters_3.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/longestSubstringWithoutRepeatingCharacters_3.go)      [ref](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
      
         5. Longest Palindromic Substring (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LongestPalindromicSubstring_5.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LongestPalindromicSubstring_5.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/longestPalindromicSubstring_5.go)      [ref](https://leetcode.com/problems/longest-palindromic-substring/)
 
         7. Reverse Integer (Easy)
      [java](https://github.com/dodoggyy/AlgorithmPractice/blob/master/src/com/practice/ReverseInteger.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/reverse_integer_7.cc)      [ref](https://leetcode.com/problems/reverse-integer/)
