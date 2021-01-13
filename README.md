@@ -42,6 +42,9 @@ Data Structure
      
         19. Remove Nth Node From End of List (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/RemoveNthNodeFromEndofList_19.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/remove_nth_node_from_end_of_list_19.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/removeNthNodeFromEndOfList_19.go)      [ref](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+        20. Valid Parentheses (Easy)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/validParentheses_20.go)      [ref](https://leetcode.com/problems/valid-parentheses/)
      
         21. Merge Two Sorted Lists (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeTwoSortedLists_21.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Easy/21_Merge_Two_Sorted_Lists/MergeTwoSortedLists_21.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/merge_two_sorted_lists_21.cc)      [ref](https://leetcode.com/problems/merge-two-sorted-lists/)
