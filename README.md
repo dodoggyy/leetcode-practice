@@ -52,8 +52,8 @@ Data Structure
         22. Generate Parentheses (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/GenerateParentheses_22.java)
      
-        23. Generate Parentheses (Hard)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/hard/MergeKSortedLists_23.java)      [ref](https://leetcode.com/problems/merge-k-sorted-lists/)
+        23. Merge k Sorted Lists (Hard)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/hard/MergeKSortedLists_23.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/hard/mergeKSortedLists_23.go)      [ref](https://leetcode.com/problems/merge-k-sorted-lists/)
      
         24. Swap Nodes in Pairs (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SwapNodesinPairs_24.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/swap_nodes_in_pairs_24.cc)      [ref](https://leetcode.com/problems/swap-nodes-in-pairs/)
