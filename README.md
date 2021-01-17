@@ -71,7 +71,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/FindFirstAndLastPositionOfElementInSortedArray_34.java)      [ref](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
      
         39. Combination Sum (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CombinationSum_39.java)      [ref](https://leetcode.com/problems/combination-sum/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CombinationSum_39.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/combinationSum_39.go)      [ref](https://leetcode.com/problems/combination-sum/)
      
         40. Combination Sum II (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CombinationSumII_40.java)      [ref](https://leetcode.com/problems/combination-sum-ii/)
