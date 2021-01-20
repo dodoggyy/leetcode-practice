@@ -86,10 +86,10 @@ Data Structure
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/groupAnagrams_49.go)      [ref](https://leetcode.com/problems/group-anagrams/)
 
         53. Maximum Subarray (Easy)
-     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/CombinationSumII_40.java)      [ref](https://leetcode.com/problems/maximum-subarray/)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/maximumSubarray_53.go)      [ref](https://leetcode.com/problems/maximum-subarray/)
      
         54. Spiral Matrix (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SpiralMatrix_54.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SpiralMatrix_54.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/spiralMatrix_54.go)      [ref](https://leetcode.com/problems/spiral-matrix/)
      
         62. Unique Paths (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/UniquePaths_62.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/unique_paths_62.cc)      [ref](https://leetcode.com/problems/unique-paths/)
