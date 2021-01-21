@@ -90,6 +90,9 @@ Data Structure
      
         54. Spiral Matrix (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SpiralMatrix_54.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/spiralMatrix_54.go)      [ref](https://leetcode.com/problems/spiral-matrix/)
+
+        55. Jump Game (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/jumpGame_55.go)      [ref](https://leetcode.com/problems/jump-game/)
      
         62. Unique Paths (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/UniquePaths_62.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/unique_paths_62.cc)      [ref](https://leetcode.com/problems/unique-paths/)
