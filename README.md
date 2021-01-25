@@ -95,7 +95,10 @@ Data Structure
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/mergeIntervals_56.go)      [ref](https://leetcode.com/problems/jump-game/)
 
         56. Merge Intervals (Medium)
-     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/jumpGame_55.go)      [ref](https://leetcode.com/problems/merge-intervals/)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/mergeIntervals_56.go)      [ref](https://leetcode.com/problems/merge-intervals/)
+
+        57. Insert Interval (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/insertInterval_57.go)      [ref](https://leetcode.com/problems/insert-interval/)
      
         62. Unique Paths (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/UniquePaths_62.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/unique_paths_62.cc)      [ref](https://leetcode.com/problems/unique-paths/)
