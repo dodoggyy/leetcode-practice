@@ -101,7 +101,7 @@ Data Structure
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/insertInterval_57.go)      [ref](https://leetcode.com/problems/insert-interval/)
      
         62. Unique Paths (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/UniquePaths_62.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/unique_paths_62.cc)      [ref](https://leetcode.com/problems/unique-paths/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/UniquePaths_62.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/unique_paths_62.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/uniquePaths_62.go)      [ref](https://leetcode.com/problems/unique-paths/)
 
         63. Unique Paths II (Medium)
      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/unique_paths_II_63.cc)      [ref](https://leetcode.com/problems/unique-paths-ii/)
