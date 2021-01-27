@@ -117,7 +117,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/Sqrtx_69.java)      [ref](https://leetcode.com/problems/sqrtx/)
      
         70. Climbing Stairs (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ClimbingStairs_70.java)      [ref](https://leetcode.com/problems/climbing-stairs/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ClimbingStairs_70.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/climbingStairs_70.go)      [ref](https://leetcode.com/problems/climbing-stairs/)
      
         75. Sort Colors (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SortColors_75.java)      [ref](https://leetcode.com/problems/sort-colors/)
