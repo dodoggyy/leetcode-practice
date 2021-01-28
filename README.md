@@ -118,6 +118,9 @@ Data Structure
      
         70. Climbing Stairs (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ClimbingStairs_70.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/climbingStairs_70.go)      [ref](https://leetcode.com/problems/climbing-stairs/)
+
+        73. Set Matrix Zeroes (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/setMatrixZeroes_73.go)      [ref](https://leetcode.com/problems/set-matrix-zeroes/)
      
         75. Sort Colors (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SortColors_75.java)      [ref](https://leetcode.com/problems/sort-colors/)
