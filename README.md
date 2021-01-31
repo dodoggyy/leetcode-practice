@@ -752,6 +752,9 @@ Data Structure
         983. Minimum Cost For Tickets (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MinimumCostForTickets_983.java)
 
+        997. Find the Town Judge (Easy)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/findTheTownJudge_997.go)      [ref](https://leetcode.com/problems/find-the-town-judge/)
+
         1091. Shortest Path in Binary Matrix (Medium)
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/shortestPathInBinaryMatrix_1091.go)      [ref](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
      
