@@ -129,7 +129,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/Subsets_78.java)
      
         79. Word Search (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/WordSearch_79.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/WordSearch_79.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/wordSearch_79.go)      [ref](https://leetcode.com/problems/word-search/)
 
         81. Search in Rotated Sorted Array II (Medium)
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/searchInRotatedSortedArrayII_81.go)      [ref](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
