@@ -141,7 +141,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeSortedArray_88.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/merge_sorted_array_88.cc)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/mergeSortedArray_88.go)      [ref](https://leetcode.com/problems/merge-sorted-array/)
      
         91. Decode Ways (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/DecodeWays_91.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/DecodeWays_91.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/decodeWays_91.go)      [ref](https://leetcode.com/problems/decode-ways/)
      
         92. Reverse Linked List II (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ReverseLinkedListII_92.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/reverse_linked_list_II_92.cc)      [ref](https://leetcode.com/problems/reverse-linked-list-ii/)
