@@ -150,7 +150,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/BinaryTreeInorderTraversal_94.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/binaryTreeInorderTraversal_94.go)      [ref](https://leetcode.com/problems/binary-tree-inorder-traversal/)
      
         98. Validate Binary Search Tree (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ValidateBinarySearchTree_98.java)      [ref](https://leetcode.com/problems/validate-binary-search-tree/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ValidateBinarySearchTree_98.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/validateBinarySearchTree_98.go)      [ref](https://leetcode.com/problems/validate-binary-search-tree/)
      
         100. Same Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/SameTree_100.java)

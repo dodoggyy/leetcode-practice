@@ -1,12 +1,5 @@
 package medium
 
-// TreeNode for a binary tree node.
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
 // Use DFS:
 // Time Complexity: O(n^2)
 // Space Complexity:O(n)

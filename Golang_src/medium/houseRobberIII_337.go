@@ -1,12 +1,5 @@
 package medium
 
-// TreeNode for a binary tree node.
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
 var hashmap map[*TreeNode]int = make(map[*TreeNode]int)
 
 var hashmapRob map[*TreeNode]int = make(map[*TreeNode]int)

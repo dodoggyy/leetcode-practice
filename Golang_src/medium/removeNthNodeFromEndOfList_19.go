@@ -1,10 +1,5 @@
 package medium
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
-
 // Use two pointers:
 // Time Complexity: O(L)
 // Space Complexity:O(1)
