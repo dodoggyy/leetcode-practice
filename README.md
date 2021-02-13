@@ -163,6 +163,9 @@ Data Structure
      
         104. Maximum Depth of Binary Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MaximumDepthofBinaryTree_104.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Easy/104_Maximum_Depth_of_Binary_Tree/MaximumDepthOfBinaryTree_104.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/maximum_depth_of_binary_tree_104.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/maximumDepthOfBinaryTree_104.go)      [ref](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+        105. Construct Binary Tree from Preorder and Inorder Traversal (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/constructBinaryTreeFromPreorderAndInorderTraversal_105.go)      [ref](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
      
         107. Binary Tree Level Order Traversal II (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryTreeLevelOrderTraversalII_107.java)
