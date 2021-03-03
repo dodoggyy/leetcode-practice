@@ -1,10 +1,5 @@
 package easy
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
-
 // Use recursive:
 // Time Complexity: O(max(m+n))
 // Space Complexity:O(1)
