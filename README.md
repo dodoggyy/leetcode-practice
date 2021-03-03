@@ -218,6 +218,9 @@ Data Structure
         137. Single Number II (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/SingleNumberII_137.java)      [ref](https://leetcode.com/problems/single-number-ii/)
 
+        139. Word Break (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/wordBreak_139.go)      [ref](https://leetcode.com/problems/word-break/)
+
         141. Linked List Cycle (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LinkedListCycle_141.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/linkedListCycle_141.go)      [ref](https://leetcode.com/problems/linked-list-cycle/)
      
