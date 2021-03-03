@@ -755,6 +755,9 @@ Data Structure
         785. Is Graph Bipartite? (Medium)
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/isGraphBipartite_785.go)      [ref](https://leetcode.com/problems/is-graph-bipartite/)
 
+        876. Possible Bipartition (Easy)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/middleOfTheLinkedList_876.go)      [ref](https://leetcode.com/problems/middle-of-the-linked-list/)
+
         886. Possible Bipartition (Medium)
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/possibleBipartition_886.go)      [ref](https://leetcode.com/problems/possible-bipartition/)
      
