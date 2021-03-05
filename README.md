@@ -226,6 +226,9 @@ Data Structure
      
         142. Linked List Cycle II (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LinkedListCycleII_142.java)
+
+        143. Reorder List (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/reorderList_143.go)      [ref](https://leetcode.com/problems/reorder-list/)
      
         144. Binary Tree Preorder Traversal (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/BinaryTreePreorderTraversal_144.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/binaryTreePreorderTraversal_144.go)      [ref](https://leetcode.com/problems/binary-tree-preorder-traversal/)
