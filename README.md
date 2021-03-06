@@ -239,6 +239,9 @@ Data Structure
         146. LRU Cache (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LRUCache_146.java)
 
+        152. Maximum Product Subarray (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/maximumProductSubarray_152.go)      [ref](https://leetcode.com/problems/maximum-product-subarray/)
+
         153. Find Minimum in Rotated Sorted Array (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FindMinimumInRotatedSortedArray_153.java)      [ref](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
      
