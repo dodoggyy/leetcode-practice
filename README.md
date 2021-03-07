@@ -167,6 +167,9 @@ Data Structure
         105. Construct Binary Tree from Preorder and Inorder Traversal (Medium)
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/constructBinaryTreeFromPreorderAndInorderTraversal_105.go)      [ref](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
      
+        106. Construct Binary Tree from Inorder and Postorder Traversal (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/constructBinaryTreeFromInorderAndPostorderTraversal_106.go)      [ref](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+
         107. Binary Tree Level Order Traversal II (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinaryTreeLevelOrderTraversalII_107.java)
      
