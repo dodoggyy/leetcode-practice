@@ -301,6 +301,9 @@ Data Structure
      
         198. House Robber (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HouseRobber_198.java)    [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/houseRobber_198.go)      [ref](https://leetcode.com/problems/house-robber/)
+
+        200. Number of Islands (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/numberOfIslands_200.go)      [ref](https://leetcode.com/problems/number-of-islands/)
      
         202. Happy Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/HappyNumber_202.java)
