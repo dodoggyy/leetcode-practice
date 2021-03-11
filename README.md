@@ -328,6 +328,9 @@ Data Structure
 
         210. Course Schedule II (Medium)
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/courseScheduleII_210.go)      [ref](https://leetcode.com/problems/course-schedule-ii/)
+
+        211. Design Add and Search Words Data Structure (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/designAddAndSearchWordsDataStructure_211.go)      [ref](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
      
         213. House Robber II (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/HouseRobberII_213.java)    [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/HouseRobberII_213.go)      [ref](https://leetcode.com/problems/house-robber-ii/)
