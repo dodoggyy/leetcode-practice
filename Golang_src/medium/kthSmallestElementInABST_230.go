@@ -22,3 +22,30 @@ func inorder(root *TreeNode) []int {
 
 	return result
 }
+
+// Use stack:
+// Time Complexity: O(h+k)
+// Space Complexity:O(h+k)
+// h: tree height, k: k smallest element
+// Runtime: 8 ms, faster than 97.33%
+// Memory Usage: 6 MB, less than 38.17%
+func kthSmallest2(root *TreeNode, k int) int {
+	stack := []*TreeNode{}
+	cur := root
+
+	for len(stack) > 0 || cur != nil {
+		for cur != nil {
+			stack = append(stack, cur)
+			cur = cur.Left
+		}
+		cur = stack[len(stack)-1]
+		stack = stack[:len(stack)-1]
+		k--
+		if k == 0 {
+			return cur.Val
+		}
+		cur = cur.Right
+	}
+
+	return 0
+}
