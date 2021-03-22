@@ -811,7 +811,8 @@ Data Structure
      [Linked List](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/datastructure/QueueViaLinkedList.java)
      
         3. Hash Table
-     [Linked List](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/datastructure/MyHashTable.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/datastructure/MyHashTable.java)
+     [go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/dataStructure/hashTable.go)
      
         4. Circular Array
      [Array](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/datastructure/CircularArray.java)
