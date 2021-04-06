@@ -826,6 +826,9 @@ Data Structure
         1.1 Unique characters
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/isUniqueChars_1_1.go)
 
+        1.2 Valid Anagram
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/validAnagram_1_2.go)
+
 ## Authors
 
 * **Chris Lin** - *Java implementation* - [chris](https://www.linkedin.com/in/quanliang-lin-5009ba139/)
