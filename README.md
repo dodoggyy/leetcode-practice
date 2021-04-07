@@ -829,6 +829,9 @@ Data Structure
         1.2 Valid Anagram
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/validAnagram_1_2.go)
 
+        1.3 Replace Spaces
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/replaceSpaces_1_3.go)
+
 ## Authors
 
 * **Chris Lin** - *Java implementation* - [chris](https://www.linkedin.com/in/quanliang-lin-5009ba139/)
