@@ -816,7 +816,7 @@ Data Structure
      
         3. Hash Table
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/datastructure/MyHashTable.java)
-     [go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/dataStructure/hashTable.go)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/dataStructure/hashTable.go)
      
         4. Circular Array
      [Array](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/datastructure/CircularArray.java)
@@ -831,6 +831,9 @@ Data Structure
 
         1.3 Replace Spaces
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/replaceSpaces_1_3.go)
+
+        1.4 Palindrome Permutation
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/palindromePermutation_1_4.go)
 
 ## Authors
 
