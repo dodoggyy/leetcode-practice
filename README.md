@@ -380,6 +380,9 @@ Data Structure
      
         238. Product of Array Except Self (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ProductOfArrayExceptSelf_238.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Medium/238_Product_of_Array_Except_Self/ProductOfArrayExceptSelf_238.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/product_of_array_except_self_238.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/productOfArrayExceptSelf_238.go)      [ref](https://leetcode.com/problems/product-of-array-except-self/)
+
+        241. Different Ways to Add Parentheses (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/differentWaysToAddParentheses_241.go)      [ref](https://leetcode.com/problems/different-ways-to-add-parentheses/)
      
         240. Search a 2D Matrix II (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/Searcha2DMatrixII_240.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/search_a_2D_matrix_II_240.cc)      [ref](https://leetcode.com/problems/search-a-2d-matrix-ii/)
