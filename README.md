@@ -838,6 +838,9 @@ Data Structure
         1.4 Palindrome Permutation
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/palindromePermutation_1_4.go)
 
+        1.5 Is one way
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/oneAway_1_5.go)
+
 ## Authors
 
 * **Chris Lin** - *Java implementation* - [chris](https://www.linkedin.com/in/quanliang-lin-5009ba139/)
