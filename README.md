@@ -844,6 +844,10 @@ Data Structure
         1.6 Basic Compress
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/basicCompress_1_6.go)    [Go test](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/basicCompress_1_6_test.go)
 
+        1.9 Is Rotation
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/isRotation_1_9.go)    [Go test](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/isRotation_1_9_test.go)
+
+
 ## Authors
 
 * **Chris Lin** - *Java implementation* - [chris](https://www.linkedin.com/in/quanliang-lin-5009ba139/)
