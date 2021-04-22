@@ -841,6 +841,9 @@ Data Structure
         1.5 Is one way
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/oneAway_1_5.go)
 
+        1.6 Basic Compress
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/basicCompress_1_6.go)    [Go test](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/basicCompress_1_6_test.go)
+
 ## Authors
 
 * **Chris Lin** - *Java implementation* - [chris](https://www.linkedin.com/in/quanliang-lin-5009ba139/)
