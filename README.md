@@ -850,6 +850,9 @@ Data Structure
         1.9 Is Rotation
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/isRotation_1_9.go)    [Go test](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/isRotation_1_9_test.go)
 
+        2.1 Remove Duplicate
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/removeDuplicates_2_1.go)    [Go test](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/removeDuplicates_2_1_test.go)
+
 
 ## Authors
 
