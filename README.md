@@ -856,6 +856,9 @@ Data Structure
         2.1 Remove Duplicate
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/removeDuplicates_2_1.go)    [Go test](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/removeDuplicates_2_1_test.go)
 
+        2.2 K From Tail
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/kFromTail_2_2.go)
+
 
 ## Authors
 
