@@ -859,6 +859,9 @@ Data Structure
         2.2 K From Tail
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/kFromTail_2_2.go)
 
+        2.3 Delete Node
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/ctci/deleteNode_2_3.go)
+
 
 ## Authors
 
