@@ -24,6 +24,9 @@ Data Structure
 
         7. Reverse Integer (Easy)
      [java](https://github.com/dodoggyy/AlgorithmPractice/blob/master/src/com/practice/ReverseInteger.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/reverse_integer_7.cc)      [ref](https://leetcode.com/problems/reverse-integer/)
+
+        8. String to Integer (atoi) (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/stringToInteger_8.go)      [ref](https://leetcode.com/problems/string-to-integer-atoi/)
      
         9. Palindrome Number (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PalindromeNumber_9.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/palindrome_number_9.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/palindromeNumber_9.go)      [ref](https://leetcode.com/problems/palindrome-number/)
