@@ -653,6 +653,9 @@ Data Structure
      
         559. Maximum Depth of N-ary Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MaximumDepthOfNAryTree_559.java)
+
+        560. Subarray Sum Equals K (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/subarraySumEqualsK_560.go)      [ref](https://leetcode.com/problems/subarray-sum-equals-k/)
      
         561. Array Partition I (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ArrayPartitionI_561.java)
