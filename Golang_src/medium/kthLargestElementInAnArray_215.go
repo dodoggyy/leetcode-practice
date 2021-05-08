@@ -18,14 +18,15 @@ func quickSelect(nums *[]int, indexLow, indexHigh, k int) int {
 			(*nums)[i], (*nums)[j] = (*nums)[j], (*nums)[i]
 		}
 	}
-	(*nums)[i+1], (*nums)[indexHigh] = (*nums)[indexHigh], (*nums)[i+1]
+	i++
+	(*nums)[i], (*nums)[indexHigh] = (*nums)[indexHigh], (*nums)[i]
 
-	count := indexHigh - (i + 1) + 1
+	count := indexHigh - i + 1
 	if count == k {
-		return (*nums)[i+1]
+		return (*nums)[i]
 	} else if count > k {
-		return quickSelect(nums, i+2, indexHigh, k)
+		return quickSelect(nums, i+1, indexHigh, k)
 	} else {
-		return quickSelect(nums, indexLow, i, k-count)
+		return quickSelect(nums, indexLow, i - 1, k-count)
 	}
 }
