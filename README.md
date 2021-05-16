@@ -770,6 +770,9 @@ Data Structure
      
         705. Design HashSet (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DesignHashSet_705.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/designHashSet_705.go)      [ref](https://leetcode.com/problems/design-hashset/)
+
+        706. Design HashMap (Easy)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/designHashMap_706.go)      [ref](https://leetcode.com/problems/design-hashmap/)
      
         707. Design Linked List (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DesignLinkedList_707.java)
