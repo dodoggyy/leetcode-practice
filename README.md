@@ -769,7 +769,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/BinarySearch_704.java)
      
         705. Design HashSet (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DesignHashSet_705.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DesignHashSet_705.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/designHashSet_705.go)      [ref](https://leetcode.com/problems/design-hashset/)
      
         707. Design Linked List (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/DesignLinkedList_707.java)
