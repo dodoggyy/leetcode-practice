@@ -41,7 +41,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/ThreeSum_15.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/3_sum.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/3Sum_15.go)      [ref](https://leetcode.com/problems/3sum/)
 
         16. 3Sum Closest (Medium)
-     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/3Sum_15.go)      [ref](https://leetcode.com/problems/3sum-closest/)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/3SumClosest_16.go)      [ref](https://leetcode.com/problems/3sum-closest/)
      
         17. Letter Combinations of a Phone Number (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/LetterCombinationsOfAPhoneNumber_17.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/letter_combinations_of_a_phone_number_17.cc)      [ref](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
@@ -85,6 +85,9 @@ Data Structure
      
         40. Combination Sum II (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CombinationSumII_40.java)      [ref](https://leetcode.com/problems/combination-sum-ii/)
+
+        43. Multiply Strings (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/multiplyStrings_43.go)      [ref](https://leetcode.com/problems/multiply-strings/)
      
         46. Permutations (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/Permutations_46.java)
