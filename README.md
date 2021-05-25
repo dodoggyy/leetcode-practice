@@ -121,6 +121,9 @@ Data Structure
      
         64. Minimum Path Sum (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/MinimumPathSum_64.java)
+
+        66. Plus One (Easy)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/plusOne_66.go)      [ref](https://leetcode.com/problems/plus-one/)
      
         67. Add Binary (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AddBinary_67.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Easy/67_Add_Binary/AddBinary_67.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/add_binary_67.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/addB
