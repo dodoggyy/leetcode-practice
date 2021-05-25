@@ -475,7 +475,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/IntersectionOfTwoArrays_349.java)
      
         350. Intersection of Two Arrays II (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/IntersectionOfTwoArraysII_350.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/IntersectionOfTwoArraysII_350.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/intersectionOfTwoArrays II_350.go)      [ref](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
      
         367. Valid Perfect Square (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ValidPerfectSquare_367.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/valid_perfect_square_367.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/validPerfectSquare_367.go)      [ref](https://leetcode.com/problems/valid-perfect-square/)
