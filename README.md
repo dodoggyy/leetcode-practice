@@ -379,7 +379,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/ImplementQueueUsingStacks_232.java)
      
         234. Palindrome Linked List (Easy)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PalindromeLinkedList_234.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/palindrome_linked_list_234.cc)      [ref](https://leetcode.com/problems/palindrome-linked-list/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PalindromeLinkedList_234.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/palindrome_linked_list_234.cc)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/palindromeLinkedList_234.go)      [ref](https://leetcode.com/problems/palindrome-linked-list/)
      
         235. Lowest Common Ancestor of a Binary Search Tree (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/LowestCommonAncestorOfABinarySearchTree_235.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/lowestCommonAncestorOfABinarySearchTree_235.go)      [ref](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
