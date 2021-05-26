@@ -86,6 +86,9 @@ Data Structure
         40. Combination Sum II (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CombinationSumII_40.java)      [ref](https://leetcode.com/problems/combination-sum-ii/)
 
+        41. First Missing Positive (Hard)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/hard/firstMissingPositive_41.go)      [ref](https://leetcode.com/problems/first-missing-positive/)
+
         43. Multiply Strings (Medium)
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/multiplyStrings_43.go)      [ref](https://leetcode.com/problems/multiply-strings/)
      
