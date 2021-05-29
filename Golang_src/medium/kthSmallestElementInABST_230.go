@@ -31,20 +31,19 @@ func inorder(root *TreeNode) []int {
 // Memory Usage: 6 MB, less than 38.17%
 func kthSmallest2(root *TreeNode, k int) int {
 	stack := []*TreeNode{}
-	cur := root
 
-	for len(stack) > 0 || cur != nil {
-		for cur != nil {
-			stack = append(stack, cur)
-			cur = cur.Left
+	for {
+		for root != nil {
+			stack = append(stack, root)
+			root = root.Left
 		}
-		cur = stack[len(stack)-1]
+		root = stack[len(stack)-1]
 		stack = stack[:len(stack)-1]
 		k--
 		if k == 0 {
-			return cur.Val
+			return root.Val
 		}
-		cur = cur.Right
+		root = root.Right
 	}
 
 	return 0
