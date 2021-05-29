@@ -56,7 +56,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MergeTwoSortedLists_21.java)      [C](https://bitbucket.org/dodoggyy/leetcode/src/master/C_src/Easy/21_Merge_Two_Sorted_Lists/MergeTwoSortedLists_21.c)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/merge_two_sorted_lists_21.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/mergeTwoSortedLists_21.go)      [ref](https://leetcode.com/problems/merge-two-sorted-lists/)
      
         22. Generate Parentheses (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/GenerateParentheses_22.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/GenerateParentheses_22.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/mergeKSortedLists_23.go)      [ref](https://leetcode.com/problems/generate-parentheses/)
      
         23. Merge k Sorted Lists (Hard)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/hard/MergeKSortedLists_23.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/hard/mergeKSortedLists_23.go)      [ref](https://leetcode.com/problems/merge-k-sorted-lists/)
