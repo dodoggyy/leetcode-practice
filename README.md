@@ -434,6 +434,9 @@ Data Structure
      
         287. Find the Duplicate Number (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/FindTheDuplicateNumber_287.java)
+
+        289. Game of Life (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/gameOfLife_289.go)      [ref](https://leetcode.com/problems/game-of-life/)
      
         292. Nim Game (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/NimGame_292.java)
