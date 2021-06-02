@@ -433,7 +433,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/MoveZeroes_283.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/easy/move_zeroes_283.cc)      [ref](https://leetcode.com/problems/move-zeroes/)
      
         287. Find the Duplicate Number (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/FindTheDuplicateNumber_287.java)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/FindTheDuplicateNumber_287.java)     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/findTheDuplicateNumber_287.go)      [ref](https://leetcode.com/problems/find-the-duplicate-number/)
 
         289. Game of Life (Medium)
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/gameOfLife_289.go)      [ref](https://leetcode.com/problems/game-of-life/)
