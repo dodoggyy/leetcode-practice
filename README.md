@@ -496,7 +496,7 @@ Data Structure
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/GuessNumberHigherOrLower_374.java)
      
         378. Kth Smallest Element in a Sorted Matrix (Medium)
-     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/KthSmallestElementinaSortedMatrix_378.java)      [ref](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+     [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/KthSmallestElementinaSortedMatrix_378.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/kthSmallestElementInASortedMatrix_378.go)      [ref](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
      
         383. Ransom Note (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RansomNote_383.java)
