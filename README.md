@@ -503,6 +503,9 @@ Data Structure
      
         383. Ransom Note (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/RansomNote_383.java)
+
+        384. Shuffle an Array (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/shuffleAnArray_384.go)      [ref](https://leetcode.com/problems/shuffle-an-array/)
      
         387. First Unique Character in a String (Easy)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/FirstUniqueCharacterInAString_387.java)
