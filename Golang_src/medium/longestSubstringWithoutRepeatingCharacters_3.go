@@ -16,8 +16,8 @@ func lengthOfLongestSubstring(s string) int {
 	for end := 0; end < len(s); end++ {
 		// start index = max( current start index, previous current char index)
 		start = max(start, record[s[end]])
-		result = max(result, end-start+1)
-		record[s[end]] = end + 1
+		result = max(result, end-start+1) // calculate cur substring length and compare result
+		record[s[end]] = end + 1          // record same char position + 1
 	}
 
 	return result
