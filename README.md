@@ -82,6 +82,9 @@ Data Structure
         35. Search Insert Position (Easy)
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/addB
      searchInsertPosition_35.go)      [ref](https://leetcode.com/problems/search-insert-position/)
+
+        38. Count and Say (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/combinationSum_39.go)      [ref](https://leetcode.com/problems/count-and-say/)
      
         39. Combination Sum (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/CombinationSum_39.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/combinationSum_39.go)      [ref](https://leetcode.com/problems/combination-sum/)
