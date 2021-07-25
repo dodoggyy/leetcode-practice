@@ -848,6 +848,9 @@ Data Structure
 
         1646. Get Maximum in Generated Array (Easy)
      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/getMaximumInGeneratedArray_1646.go)      [ref](https://leetcode.com/problems/get-maximum-in-generated-array/)
+
+        1905. Count Sub Islands (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/easy/countSubIslands_1905.go)      [ref](https://leetcode.com/problems/count-sub-islands/)
     
     
 *   **Design Pattern :**
