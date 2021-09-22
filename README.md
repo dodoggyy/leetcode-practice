@@ -100,6 +100,9 @@ Data Structure
      
         46. Permutations (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/Permutations_46.java)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/permutation_46.go)      [ref](https://leetcode.com/problems/permutations/)
+
+        47. Permutations II (Medium)
+     [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/permutationsII_47.go)      [ref](https://leetcode.com/problems/permutations-ii/)
      
         48. Rotate Image (Medium)
      [java](https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/medium/RotateImage_48.java)      [C++](https://bitbucket.org/dodoggyy/leetcode/src/master/Cpp_src/medium/rotate_image_48.cc)      [Go](https://bitbucket.org/dodoggyy/leetcode/src/master/Golang_src/medium/rotateImage_48.go)      [ref](https://leetcode.com/problems/rotate-image/)
