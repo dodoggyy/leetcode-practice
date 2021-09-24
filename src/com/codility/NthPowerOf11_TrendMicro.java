@@ -46,7 +46,7 @@ public class NthPowerOf11_TrendMicro {
     // Use Pascal's triangle
     // Time Complexity: O(log(11^n))
     // Space Complexity:O(log(11^n))
-    // Ref:https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/PascalsTriangleII_119.java
+    // Ref:https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/PascalsTriangleII_119.java
     // only can handle 11^66
     public int solution2(int N) {
         // write your code in Java SE 8
@@ -88,7 +88,7 @@ public class NthPowerOf11_TrendMicro {
     // Use add string
     // Time Complexity: O(n*log(11^n))
     // Space Complexity:O(log(11^n))
-    // Ref: https://bitbucket.org/dodoggyy/leetcode/src/master/src/com/easy/AddStrings_415.java
+    // Ref: https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/AddStrings_415.java
     // can pass all case
     public int solution3(int N) {
         int mResult = 0;
