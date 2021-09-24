@@ -131,7 +131,7 @@ Data Structure
      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/unique_paths_II_63.cc)      [ref](https://leetcode.com/problems/unique-paths-ii/)
      
         64. Minimum Path Sum (Medium)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/MinimumPathSum_64.java)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/MinimumPathSum_64.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumPathSum_64.go)      [ref](https://leetcode.com/problems/minimum-path-sum/)
 
         66. Plus One (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/plusOne_66.go)      [ref](https://leetcode.com/problems/plus-one/)
