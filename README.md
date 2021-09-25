@@ -468,6 +468,9 @@ Data Structure
      
         328. Odd Even Linked List (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/OddEvenLinkedList_328.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/oddEvenLinkedList_328.go)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/odd_even_linked_list_328.cc)      [ref](https://leetcode.com/problems/odd-even-linked-list/)
+
+        334. Increasing Triplet Subsequence (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/increasingTripletSubsequence_334.go)      [ref](https://leetcode.com/problems/increasing-triplet-subsequence/)
      
         337. House Robber III (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/HouseRobberIII_337.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/houseRobberIII_337.go)      [ref](https://leetcode.com/problems/house-robber-iii/)
