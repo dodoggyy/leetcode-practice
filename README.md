@@ -548,7 +548,7 @@ Data Structure
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/FizzBuzz_412.java)      [ref](https://leetcode.com/problems/path-sum-iii/)
      
         413. Arithmetic Slices (Medium)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/ArithmeticSlices_413.java)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/ArithmeticSlices_413.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/arithmeticSlices_413.go)      [ref](https://leetcode.com/problems/arithmetic-slices/)
      
         415. Add Strings (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/AddStrings_415.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/addStrings_415.go)      [ref](https://leetcode.com/problems/add-strings/)
