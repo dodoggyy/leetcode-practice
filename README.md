@@ -482,7 +482,7 @@ Data Structure
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/PowerofFour_342.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/power_of_four_342.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/powerOfFour_342.go)      [ref](https://leetcode.com/problems/power-of-four/)
      
         343. Integer Break (Medium)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/IntegerBreak_343.java)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/IntegerBreak_343.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/integerBreak_343.go)      [ref](https://leetcode.com/problems/integer-break/)
      
         344. Reverse String (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ReverseString_344.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/reverse_string_344.cc)      [ref](https://leetcode.com/problems/reverse-string/)
