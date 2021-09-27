@@ -452,7 +452,7 @@ Data Structure
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/hard/SerializeAndDeserializeBinaryTree_297.java)
      
         300. Longest Increasing Subsequence (Medium)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/LongestIncreasingSubsequence_300.java)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/LongestIncreasingSubsequence_300.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/longestIncreasingSubsequence_300.go)      [ref](https://leetcode.com/problems/longest-increasing-subsequence/)
      
         303. Range Sum Query - Immutable (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/RangeSumQuery_303.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/rangeSumQueryImmutable_303.go)      [ref](https://leetcode.com/problems/range-sum-query-immutable/)
