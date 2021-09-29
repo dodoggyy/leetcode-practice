@@ -494,7 +494,7 @@ Data Structure
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/TopKFrequentElements_347.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/topKFrequentElements_347.go)      [ref](https://leetcode.com/problems/top-k-frequent-elements/)
      
         349. Intersection of Two Arrays (Easy)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/IntersectionOfTwoArrays_349.java)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/IntersectionOfTwoArrays_349.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/intersectionOfTwoArrays_349.go)      [ref](https://leetcode.com/problems/intersection-of-two-arrays/)
      
         350. Intersection of Two Arrays II (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/IntersectionOfTwoArraysII_350.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/intersectionOfTwoArraysII_350.go)      [ref](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
