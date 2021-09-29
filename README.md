@@ -849,6 +849,9 @@ Data Structure
 
         1091. Shortest Path in Binary Matrix (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/shortestPathInBinaryMatrix_1091.go)      [ref](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+
+        1143. Longest Common Subsequence (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/longestCommonSubsequence_1143.go)      [ref](https://leetcode.com/problems/longest-common-subsequence/)
      
         1351. Count Negative Numbers in a Sorted Matrix (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/CountNegativeNumbersInASortedMatrix_1351.java)      [ref](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/m/problems/find-smallest-letter-greater-than-target/)
