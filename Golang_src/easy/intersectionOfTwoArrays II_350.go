@@ -72,27 +72,20 @@ func intersect2(nums1 []int, nums2 []int) []int {
 // Space Complexity:O(1)
 // m: length of nums1
 // n: length of nums2
-// Runtime: 0 ms, faster than 100.00%
-// Memory Usage: 3 MB, less than 66.47%
+// Runtime: 4 ms, faster than 71.68%
+// Memory Usage: 2.8 MB, less than 100.00%
 func intersect3(nums1 []int, nums2 []int) []int {
 	sort.Ints(nums1)
 	sort.Ints(nums2)
 
 	size1, size2 := len(nums1), len(nums2)
-	if size1 < size2 {
-
-	}
 
 	idx1, idx2 := 0, 0
 	cur := 0
 
 	for idx1 < size1 && idx2 < size2 {
 		if nums1[idx1] == nums2[idx2] {
-			if size1 < size2 {
-				nums2[cur] = nums1[idx1]
-			} else {
-				nums1[cur] = nums1[idx1]
-			}
+			nums1[cur] = nums1[idx1]
 			cur++
 			idx1++
 			idx2++
@@ -101,10 +94,6 @@ func intersect3(nums1 []int, nums2 []int) []int {
 		} else {
 			idx2++
 		}
-	}
-
-	if size1 < size2 {
-		return nums2[:cur]
 	}
 
 	return nums1[:cur]
