@@ -94,6 +94,9 @@ Data Structure
         41. First Missing Positive (Hard)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/hard/firstMissingPositive_41.go)      [ref](https://leetcode.com/problems/first-missing-positive/)
 
+        42. Trapping Rain Water (Hard)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/hard/permutationsII_47.go)      [ref](https://leetcode.com/problems/trapping-rain-water/)
+
         43. Multiply Strings (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/multiplyStrings_43.go)      [ref](https://leetcode.com/problems/multiply-strings/)
      
