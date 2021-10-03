@@ -66,6 +66,9 @@ Data Structure
      
         24. Swap Nodes in Pairs (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/SwapNodesinPairs_24.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/swap_nodes_in_pairs_24.cc)      [ref](https://leetcode.com/problems/swap-nodes-in-pairs/)
+
+        25. Reverse Nodes in k-Group (Hard)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/hard/reverseNodesInKGroup_25.go)      [ref](https://leetcode.com/problems/reverse-nodes-in-k-group/)
      
         26. Remove Duplicates from Sorted Array (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/RemoveDuplicatesFromSortedArray_26.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/removeDuplicatesFromSortedArray_26.go)      [ref](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
