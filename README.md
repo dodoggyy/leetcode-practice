@@ -75,6 +75,9 @@ Data Structure
      
         29. Divide Two Integers (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/DivideTwoIntegers_29.java)
+
+        31. Next Permutation (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/nextPermutation_31.go)      [ref](https://leetcode.com/problems/next-permutation/)
      
         33. Search in Rotated Sorted Array (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/SearchInRotatedSortedArray_33.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/searchInRotatedSortedArray_33.go)      [ref](https://leetcode.com/problems/search-in-rotated-sorted-array/)
