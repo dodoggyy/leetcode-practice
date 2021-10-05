@@ -340,6 +340,9 @@ Data Structure
         198. House Robber (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/HouseRobber_198.java)    [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/houseRobber_198.go)      [ref](https://leetcode.com/problems/house-robber/)
 
+        199. Binary Tree Right Side View (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/binaryTreeRightSideView_199.go)      [ref](https://leetcode.com/problems/binary-tree-right-side-view/)
+
         200. Number of Islands (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/numberOfIslands_200.go)      [ref](https://leetcode.com/problems/number-of-islands/)
      
