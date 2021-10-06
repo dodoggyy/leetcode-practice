@@ -225,6 +225,9 @@ Data Structure
      
         112. Path Sum (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/PathSum_112.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/pathSum_112.go)      [ref](https://leetcode.com/problems/path-sum/)
+
+        114. Flatten Binary Tree to Linked List (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/flattenBinaryTreeToLinkedList_114.go)      [ref](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
      
         118. Pascal's Triangle (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/PascalsTriangle_118.java)
