@@ -253,6 +253,9 @@ Data Structure
         128. Longest Consecutive Sequence (Hard)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/hard/longestConsecutiveSequence_128.go)      [ref](https://leetcode.com/problems/longest-consecutive-sequence/)
 
+        129. Sum Root to Leaf Numbers (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/sumRootToLeafNumbers_129.go)      [ref](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+
         133. Clone Graph (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/cloneGraph_133.go)      [ref](https://leetcode.com/problems/clone-graph/)
      
