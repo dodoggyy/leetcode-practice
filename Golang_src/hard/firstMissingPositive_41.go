@@ -76,3 +76,24 @@ func abs(num int) int {
 
 	return num
 }
+
+// Use replace 2:
+// Time Complexity: O(n)
+// Space Complexity:O(1)
+// Runtime: 124 ms, faster than 83.28%
+// Memory Usage: 25.3 MB, less than 57.86%
+func firstMissingPositive3(nums []int) int {
+	for i := 0; i < len(nums); i++ {
+		for nums[i] > 0 && nums[i] <= len(nums) && nums[nums[i]-1] != nums[i] {
+			nums[i], nums[nums[i]-1] = nums[nums[i]-1], nums[i]
+		}
+	}
+
+	for i := range nums {
+		if nums[i] != i+1 {
+			return i + 1
+		}
+	}
+
+	return len(nums) + 1
+}
