@@ -858,6 +858,9 @@ Data Structure
 
         886. Possible Bipartition (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/possibleBipartition_886.go)      [ref](https://leetcode.com/problems/possible-bipartition/)
+
+        889. Construct Binary Tree from Preorder and Postorder Traversal (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/constructBinaryTreeFromPreorderAndPostorderTraversal_889.go)      [ref](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
      
         983. Minimum Cost For Tickets (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/MinimumCostForTickets_983.java)
