@@ -28,7 +28,7 @@ func isPalindrome(s string) bool {
 	return true
 }
 
-// Use DP:
+// Use center extend:
 // Time Complexity: O(n^2)
 // Space Complexity:O(1)
 // Runtime: 0 ms, faster than 100.00%
@@ -59,9 +59,38 @@ func longestPalindrome2(s string) string {
 	return s[start : start+length]
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
+// Use center extend 2:
+// Time Complexity: O(n^2)
+// Space Complexity:O(1)
+// Runtime: 13 ms, faster than 58.97%
+// Memory Usage: 2.9 MB, less than 47.92%
+func longestPalindrome3(s string) string {
+
+	var dfs func(l, r int) (int, int)
+	dfs = func(l, r int) (int, int) {
+		for l >= 0 && r < len(s) {
+			if s[l] != s[r] {
+				break
+			}
+			l--
+			r++
+		}
+
+		return l + 1, r - 1
 	}
-	return b
+
+	left, right := 0, 0
+
+	for i := 1; i < len(s); i++ {
+		l1, r1 := dfs(i, i)
+		if r1-l1 > right-left {
+			left, right = l1, r1
+		}
+		l2, r2 := dfs(i-1, i)
+		if r2-l2 > right-left {
+			left, right = l2, r2
+		}
+	}
+
+	return s[left : right+1]
 }
