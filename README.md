@@ -393,6 +393,9 @@ Data Structure
      
         219. Contains Duplicate II (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ContainsDuplicateII_219.java)
+
+        221. Maximal Square (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximalSquare_221.go)      [ref](https://leetcode.com/problems/maximal-square/)
      
         225. Implement Stack using Queues (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ImplementStackUsingQueues_225.java)
