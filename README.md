@@ -880,6 +880,9 @@ Data Structure
         1002. Find Common Characters (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findCommonCharacters_1002.go)      [ref](https://leetcode.com/problems/find-common-characters/)
 
+        1008. Construct Binary Search Tree from Preorder Traversal (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/constructBinarySearchTreeFromPreorderTraversal_1008.go)      [ref](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
+
         1091. Shortest Path in Binary Matrix (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/shortestPathInBinaryMatrix_1091.go)      [ref](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 
