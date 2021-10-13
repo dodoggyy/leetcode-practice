@@ -867,6 +867,9 @@ Data Structure
 
         889. Construct Binary Tree from Preorder and Postorder Traversal (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/constructBinaryTreeFromPreorderAndPostorderTraversal_889.go)      [ref](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
+
+        912. Sort an Array (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/sortAnArray_912.go)      [ref](https://leetcode.com/problems/sort-an-array/)
      
         983. Minimum Cost For Tickets (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/MinimumCostForTickets_983.java)
