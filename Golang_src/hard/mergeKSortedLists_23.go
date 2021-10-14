@@ -6,41 +6,40 @@ type ListNode struct {
 }
 
 // Use divide and conquer:
-// Time Complexity: O(nlogk)
-// Space Complexity: O(1)
-// Runtime: 8 ms, faster than 95.55%
-// Memory Usage: 6.1 MB, less than 33.02%
-func mergeKLists(lists []*ListNode) *ListNode {
-	var mergeTwoList func(*ListNode, *ListNode) *ListNode
-	mergeTwoList = func(a, b *ListNode) *ListNode {
-		if a == nil {
-			return b
+// Time Complexity: O(knlogk)
+// Space Complexity: O(logk)
+// k: length of lists
+// Runtime: 19 ms, faster than 45.41%
+// Memory Usage: 6.3 MB, less than 36.39%
+func mergeKLists2(lists []*ListNode) *ListNode {
+	var mergeTwoList func(l1, l2 *ListNode) *ListNode
+	mergeTwoList = func(l1, l2 *ListNode) *ListNode {
+		if l1 == nil {
+			return l2
 		}
-		if b == nil {
-			return a
+		if l2 == nil {
+			return l1
 		}
-		for a != nil && b != nil {
-			if a.Val < b.Val {
-				a.Next = mergeTwoList(a.Next, b)
-				return a
-			}
-			b.Next = mergeTwoList(a, b.Next)
-			return b
+		if l1.Val < l2.Val {
+			l1.Next = mergeTwoList(l1.Next, l2)
+			return l1
+		} else {
+			l2.Next = mergeTwoList(l1, l2.Next)
+			return l2
 		}
-		return nil
 	}
 
-	var merge func([]*ListNode, int, int) *ListNode
-	merge = func(lists []*ListNode, l, r int) *ListNode {
-		if l == r {
-			return lists[l]
-		}
+	var merge func(l, r int) *ListNode
+	merge = func(l, r int) *ListNode {
 		if l > r {
 			return nil
 		}
-		mid := (l + r) >> 1
-		return mergeTwoList(merge(lists, l, mid), merge(lists, mid+1, r))
+		if l == r {
+			return lists[l]
+		}
+		mid := l + (r-l)/2
+		return mergeTwoList(merge(l, mid), merge(mid+1, r))
 	}
 
-	return merge(lists, 0, len(lists)-1)
+	return merge(0, len(lists)-1)
 }
