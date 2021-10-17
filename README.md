@@ -382,6 +382,9 @@ Data Structure
         208. Implement Trie (Prefix Tree) (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/implementTrie_208.go)      [ref](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
+        209. Minimum Size Subarray Sum  (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumSizeSubarraySum_209.go)      [ref](https://leetcode.com/problems/minimum-size-subarray-sum/)
+
         210. Course Schedule II (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/courseScheduleII_210.go)      [ref](https://leetcode.com/problems/course-schedule-ii/)
 
