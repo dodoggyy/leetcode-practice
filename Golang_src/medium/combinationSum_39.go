@@ -34,3 +34,37 @@ func combinationSum(candidates []int, target int) [][]int {
 
 	return result
 }
+
+// Use backtracking 2:
+// S: all result of sum
+// Time Complexity: O(S), upper bound: O(n*2^n)
+// Space Complexity:O(target)
+// Runtime: 11 ms, faster than 27.33%
+// Memory Usage: 3 MB, less than 86.82%
+func combinationSum2(candidates []int, target int) [][]int {
+	result := [][]int{}
+	keep := []int{}
+
+	var dfs func(idx, cur int)
+	dfs = func(idx, cur int) {
+		if cur > target {
+			return
+		}
+		if cur == target {
+			tmp := make([]int, len(keep))
+			copy(tmp, keep)
+			result = append(result, tmp)
+			return
+		}
+
+		for i := idx; i < len(candidates); i++ {
+			keep = append(keep, candidates[i])
+			dfs(i, cur+candidates[i])
+			keep = keep[:len(keep)-1]
+		}
+	}
+
+	dfs(0, 0)
+
+	return result
+}
