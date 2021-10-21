@@ -171,6 +171,9 @@ Data Structure
 
         81. Search in Rotated Sorted Array II (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/searchInRotatedSortedArrayII_81.go)      [ref](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+
+        82. Remove Duplicates from Sorted List II (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/removeDuplicatesFromSortedListII_82.go)      [ref](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
         
         83. Remove Duplicates from Sorted List (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/RemoveDuplicatesfromSortedList_83.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/remove_duplicates_from_sorted_list_83.cc)      [ref](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
