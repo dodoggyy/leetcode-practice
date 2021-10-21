@@ -648,6 +648,9 @@ Data Structure
      
         463. Island Perimeter (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/IslandPerimeter_463.java)
+
+        470. Implement Rand10() Using Rand7() (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/implementRand10UsingRand7_470.go)      [ref](https://leetcode.com/problems/implement-rand10-using-rand7/)
      
         475. Heaters (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/Heaters_475.java)
