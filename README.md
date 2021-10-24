@@ -840,6 +840,9 @@ Data Structure
      
         693. Binary Number with Alternating Bits (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/BinaryNumberwithAlternatingBits_693.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/binary_number_with_alternating_bits_693.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/binaryNumberWithAlternatingBits_693.go)      [ref](https://leetcode.com/problems/binary-number-with-alternating-bits/)
+
+        695. Max Area of Island (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maxAreaOfIsland_695.go)      [ref](https://leetcode.com/problems/max-area-of-island/)
      
         696. Count Binary Substrings (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/CountBinarySubstrings_696.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/count_binary_substrings_696.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/countBinarySubstrings_696.go)      [ref](https://leetcode.com/problems/count-binary-substrings/)
