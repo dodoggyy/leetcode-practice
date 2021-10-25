@@ -154,6 +154,9 @@ Data Structure
         70. Climbing Stairs (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ClimbingStairs_70.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/climbingStairs_70.go)      [ref](https://leetcode.com/problems/climbing-stairs/)
 
+        72. Edit Distance (Hard)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/hard/editDistance_72.go)      [ref](https://leetcode.com/problems/edit-distance/)
+
         73. Set Matrix Zeroes (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/setMatrixZeroes_73.go)      [ref](https://leetcode.com/problems/set-matrix-zeroes/)
      
