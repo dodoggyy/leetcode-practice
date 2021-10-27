@@ -570,6 +570,9 @@ Data Structure
 
         392. Is Subsequence (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/isSubsequence_392.go)      [ref](https://leetcode.com/problems/is-subsequence/)
+
+        394. Decode String (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/decodeString_394.go)      [ref](https://leetcode.com/problems/decode-string/)
      
         400. Nth Digit (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NthDigit_400.java)
