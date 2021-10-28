@@ -702,6 +702,9 @@ Data Structure
      
         513. Find Bottom Left Tree Value (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/FindBottomLeftTreeValue_513.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findBottomLeftTreeValue_513.go)      [ref](https://leetcode.com/problems/find-bottom-left-tree-value/)
+
+        518. Coin Change 2 (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/coinChange2_518.go)      [ref](https://leetcode.com/problems/coin-change-2/)
      
         520. Detect Capital (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/DetectCapital_520.java)
