@@ -35,7 +35,7 @@ Data Structure
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/ContainerWithMostWater_11.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/container_with_most_water_11.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/containerWithMostWater_11.go)      [ref](https://leetcode.com/problems/container-with-most-water/)
      
         14. Longest Common Prefix (Easy)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/LongestCommonPrefix_14.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/longest_common_prefix_14.cc)      [ref](https://leetcode.com/problems/longest-common-prefix/)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/LongestCommonPrefix_14.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/longest_common_prefix_14.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/longestCommonPrefix_14.go)      [ref](https://leetcode.com/problems/longest-common-prefix/)
      
         15. 3Sum (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/ThreeSum_15.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/3_sum.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/3Sum_15.go)      [ref](https://leetcode.com/problems/3sum/)
