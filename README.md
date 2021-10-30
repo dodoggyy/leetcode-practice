@@ -820,11 +820,14 @@ Data Structure
         647. Palindromic Substrings (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/PalindromicSubstrings_647.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/palindromic_substrings_647.cc)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/palindromicSubstrings_647.go)      [ref](https://leetcode.com/problems/palindromic-substrings/)
 
-        653. Two Sum IV - Input is a BST (easy)
+        653. Two Sum IV - Input is a BST (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/twoSumIV_653.go)      [ref](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 
+        662. Maximum Width of Binary Tree (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumWidthOfBinaryTree_662.go)      [ref](https://leetcode.com/problems/maximum-width-of-binary-tree/)
+
         665. Non-decreasing Array (Easy)
-     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/nonDecreasingArray_665.go)      [ref](https://leetcode.com/problems/non-decreasing-array/)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/maximumWidthOfBinaryTree_662.go)      [ref](https://leetcode.com/problems/non-decreasing-array/)
      
         669. Trim a Binary Search Tree (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/TrimABinarySearchTree_669.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/trimABinarySearchTree_669.go)      [ref](https://leetcode.com/problems/trim-a-binary-search-tree/)
