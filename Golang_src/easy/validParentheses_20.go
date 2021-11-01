@@ -47,3 +47,42 @@ func isValid(s string) bool {
 
 	return isEmpty()
 }
+
+// Use stack 2:
+// Time Complexity: O(n)
+// Space Complexity:O(n)
+// Runtime: 0 ms, faster than 100.00%
+// Memory Usage: 2 MB, less than 83.50%
+func isValid2(s string) bool {
+	stack := []byte{}
+
+	check := func(ch byte) bool {
+		if len(stack) <= 0 {
+			return false
+		}
+		cur := stack[len(stack)-1]
+		stack = stack[:len(stack)-1]
+		if cur == '(' && ch == ')' {
+			return true
+		} else if cur == '{' && ch == '}' {
+			return true
+		} else if cur == '[' && ch == ']' {
+			return true
+		}
+
+		return false
+	}
+
+	for i := range s {
+		switch s[i] {
+		case '(', '[', '{':
+			stack = append(stack, s[i])
+		case ')', '}', ']':
+			if !check(s[i]) {
+				return false
+			}
+		}
+	}
+
+	return len(stack) == 0
+}
