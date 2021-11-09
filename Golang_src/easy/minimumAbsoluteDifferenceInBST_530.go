@@ -2,13 +2,6 @@ package easy
 
 import "math"
 
-// TreeNode for a binary tree node.
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
 // Use inorder:
 // Time Complexity: O(n)
 // Space Complexity:O(n)
@@ -35,13 +28,6 @@ func inorder(root *TreeNode) []int {
 	result = append(result, inorder(root.Right)...)
 
 	return result
-}
-
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
 }
 
 // Use dfs compare current one with previous one to reduce space:

@@ -1,12 +1,5 @@
 package easy
 
-// TreeNode for a binary tree node.
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
 // Use recursive:
 // Time Complexity: O(n)
 // Space Complexity:O(n)
@@ -23,13 +16,6 @@ func minDepth(root *TreeNode) int {
 	}
 
 	return min(left, right) + 1
-}
-
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
 }
 
 // Use iterative:

@@ -15,7 +15,7 @@ func canFinish(numCourses int, prerequisites [][]int) bool {
 	visit := make([]int, numCourses)
 
 	for i := 0; i < numCourses; i++ {
-		if hasCycle(i, &visit, &graph) {
+		if hasCycle2(i, &visit, &graph) {
 			return false
 		}
 	}
@@ -23,7 +23,7 @@ func canFinish(numCourses int, prerequisites [][]int) bool {
 	return true
 }
 
-func hasCycle(cur int, visit *[]int, graph *[][]int) bool {
+func hasCycle2(cur int, visit *[]int, graph *[][]int) bool {
 	if (*visit)[cur] == 1 { // 1 = visiting
 		return true
 	}
@@ -34,7 +34,7 @@ func hasCycle(cur int, visit *[]int, graph *[][]int) bool {
 	(*visit)[cur] = 1 // 1 = visiting
 
 	for next := 0; next < len((*graph)[cur]); next++ {
-		if hasCycle((*graph)[cur][next], visit, graph) {
+		if hasCycle2((*graph)[cur][next], visit, graph) {
 			return true
 		}
 	}

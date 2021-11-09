@@ -7,7 +7,7 @@ import "strings"
 // Space Complexity:O(1)
 // Runtime: 4 ms, faster than 64.55%
 // Memory Usage: 2.9 MB, less than 69.95%
-func isPalindrome(s string) bool {
+func isPalindrome3(s string) bool {
 	size := len(s)
 	left, right := 0, size-1
 	s = strings.ToLower(s)

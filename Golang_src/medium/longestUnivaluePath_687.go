@@ -32,13 +32,6 @@ func subPath(root *TreeNode, result *int) int {
 	return max(pathL, pathR)
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 // Use iterative:
 // Time Complexity: O(n)
 // Space Complexity:O(h)

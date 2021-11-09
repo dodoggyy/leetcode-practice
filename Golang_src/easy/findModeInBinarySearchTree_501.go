@@ -1,12 +1,5 @@
 package easy
 
-// TreeNode for a binary tree node.
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
 // Use inorder:
 // Time Complexity: O(n)
 // Space Complexity:O(n)
@@ -52,15 +45,15 @@ func findMode(root *TreeNode) []int {
 	return result
 }
 
-func inorder(root *TreeNode) []int {
+func inorder3(root *TreeNode) []int {
 	if root == nil {
 		return nil
 	}
 
 	order := []int{}
-	order = append(order, inorder(root.Left)...)
+	order = append(order, inorder3(root.Left)...)
 	order = append(order, root.Val)
-	order = append(order, inorder(root.Right)...)
+	order = append(order, inorder3(root.Right)...)
 
 	return order
 }
@@ -85,13 +78,6 @@ func findMode2(root *TreeNode) []int {
 	}
 
 	return result
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
 }
 
 func inorder2(root *TreeNode, hashmap map[int]int, maxCount *int) {

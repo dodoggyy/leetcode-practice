@@ -26,13 +26,6 @@ func rob(root *TreeNode) int {
 	return max(val1, val2)
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 // Use recursive with memoraization:
 // Time Complexity: O(n)
 // Space Complexity:O(n)
@@ -66,17 +59,17 @@ func rob2(root *TreeNode) int {
 // Runtime: 8 ms, faster than 60.55%
 // Memory Usage: 6.1 MB, less than 15.60%
 func rob3(root *TreeNode) int {
-	dfs(root)
+	dfsRob(root)
 
 	return max(hashmapRob[root], hashmapNotRob[root])
 }
 
-func dfs(root *TreeNode) {
+func dfsRob(root *TreeNode) {
 	if root == nil {
 		return
 	}
-	dfs(root.Left)
-	dfs(root.Right)
+	dfsRob(root.Left)
+	dfsRob(root.Right)
 
 	hashmapRob[root] = root.Val + hashmapNotRob[root.Left] + hashmapNotRob[root.Right]
 

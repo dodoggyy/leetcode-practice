@@ -5,7 +5,7 @@ package medium
 // Space Complexity:O(n)
 // Runtime: 0 ms, faster than 100.00%
 // Memory Usage: 2.1 MB, less than 45.16%
-func rob(nums []int) int {
+func rob4(nums []int) int {
 	if nums == nil || len(nums) == 0 {
 		return 0
 	}
@@ -15,13 +15,6 @@ func rob(nums []int) int {
 	}
 
 	return max(subRob(nums, 0, length-2), subRob(nums, 1, length-1))
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
 }
 
 func subRob(nums []int, indexStart, indexEnd int) int {
@@ -48,7 +41,7 @@ func subRob(nums []int, indexStart, indexEnd int) int {
 // Space Complexity:O(1)
 // Runtime: 0 ms, faster than 100.00%
 // Memory Usage: 2 MB, less than 45.16%
-func rob2(nums []int) int {
+func rob5(nums []int) int {
 	if nums == nil || len(nums) == 0 {
 		return 0
 	}

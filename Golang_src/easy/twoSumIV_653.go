@@ -1,12 +1,5 @@
 package easy
 
-// TreeNode for a binary tree node.
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
 // Use BST:
 // Time Complexity: O(n)
 // Space Complexity:O(n)

@@ -5,7 +5,7 @@ package easy
 // Space Complexity:O(1)
 // Runtime: 4 ms, faster than 96.90%
 // Memory Usage: 3.1 MB, less than 15.75%
-func maxProfit(prices []int) int {
+func maxProfit2(prices []int) int {
 	if len(prices) == 0 {
 		return 0
 	}

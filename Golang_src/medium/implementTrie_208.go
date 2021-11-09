@@ -12,7 +12,7 @@ type Trie struct {
 }
 
 /** Initialize your data structure here. */
-func Constructor() Trie {
+func ConstructorTrie() Trie {
 	return Trie{}
 }
 

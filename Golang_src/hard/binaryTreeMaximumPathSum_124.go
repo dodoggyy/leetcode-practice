@@ -25,13 +25,6 @@ func maxPathSum(root *TreeNode) int {
 	return result
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func helper(root *TreeNode, result *int) int {
 	if root == nil {
 		return 0

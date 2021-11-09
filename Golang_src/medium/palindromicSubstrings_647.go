@@ -11,14 +11,14 @@ func countSubstrings(s string) int {
 	size := len(strS)
 
 	for i := 0; i < size; i++ {
-		helper(strS, i, i, &count)
-		helper(strS, i, i+1, &count)
+		helperCountSubstrings(strS, i, i, &count)
+		helperCountSubstrings(strS, i, i+1, &count)
 	}
 
 	return count
 }
 
-func helper(strS []rune, indexStart, indexEnd int, count *int) {
+func helperCountSubstrings(strS []rune, indexStart, indexEnd int, count *int) {
 	for indexStart >= 0 && indexEnd < len(strS) && strS[indexStart] == strS[indexEnd] {
 		indexStart--
 		indexEnd++

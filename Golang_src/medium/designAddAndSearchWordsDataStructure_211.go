@@ -16,7 +16,7 @@ type WordDictionary struct {
 }
 
 /** Initialize your data structure here. */
-func Constructor() WordDictionary {
+func ConstructorWordDictionary() WordDictionary {
 	return WordDictionary{}
 }
 

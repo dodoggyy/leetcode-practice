@@ -5,7 +5,7 @@ package medium
 // Space Complexity:O(1)
 // Runtime: 0 ms, faster than 100.00%
 // Memory Usage: 2.6 MB, less than 100.00%
-func search(nums []int, target int) int {
+func search2(nums []int, target int) int {
 	left, right := 0, len(nums)-1
 
 	for left <= right {

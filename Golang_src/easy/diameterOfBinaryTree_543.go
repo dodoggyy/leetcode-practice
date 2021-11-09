@@ -1,12 +1,5 @@
 package easy
 
-// TreeNode for a binary tree node.
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
 // Use DFS:
 // Time Complexity: O(n)
 // Space Complexity:O(n)
@@ -30,12 +23,4 @@ func depth(root *TreeNode, result *int) int {
 	*result = max((l + r), *result)
 
 	return 1 + max(l, r)
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-
-	return b
 }

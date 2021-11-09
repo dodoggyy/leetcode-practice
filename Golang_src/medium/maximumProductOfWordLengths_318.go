@@ -5,7 +5,7 @@ package medium
 // Space Complexity:O(n)
 // Runtime: 12 ms, faster than 91.89%
 // Memory Usage: 6.1 MB, less than 13.51%
-func maxProduct(words []string) int {
+func maxProduct2(words []string) int {
 	result := 0
 	size := len(words)
 	tmp := make([]int, size)
@@ -27,11 +27,4 @@ func maxProduct(words []string) int {
 	}
 
 	return result
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
 }

@@ -5,13 +5,6 @@ import (
 	"strings"
 )
 
-// TreeNode for a binary tree node.
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
 // Use node comparison:
 // Time Complexity: O(m*n)
 // Space Complexity:O(n)

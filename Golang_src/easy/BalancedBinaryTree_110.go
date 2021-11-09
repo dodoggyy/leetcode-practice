@@ -1,28 +1,22 @@
 package easy
 
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
 // Use recursive:
 // Time Complexity: O(n)
 // Space Complexity:O(1)
 // Runtime: 4 ms, faster than 98.22%
 // Memory Usage: 5.7 MB, less than 100.00%
 func isBalanced(root *TreeNode) bool {
-	_, ok := depth(root)
+	_, ok := depth2(root)
 
 	return ok
 }
 
-func depth(root *TreeNode) (int, bool) {
+func depth2(root *TreeNode) (int, bool) {
 	if root == nil {
 		return 0, true
 	}
-	l, ok1 := depth(root.Left)
-	r, ok2 := depth(root.Right)
+	l, ok1 := depth2(root.Left)
+	r, ok2 := depth2(root.Right)
 
 	if !ok1 || !ok2 {
 		return 0, false
@@ -33,13 +27,6 @@ func depth(root *TreeNode) (int, bool) {
 	}
 
 	return 1 + max(l, r), true
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
 }
 
 func abs(a int) int {

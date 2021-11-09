@@ -17,13 +17,6 @@ func rob(nums []int) int {
 	return rob
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 // Use even & odd position:
 // Time Complexity: O(n)
 // Space Complexity:O(1)

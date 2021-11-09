@@ -22,13 +22,6 @@ func findLHS(nums []int) int {
 	return result
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 // Use hashmap for one loop:
 // Time Complexity: O(n)
 // Space Complexity:O(n)

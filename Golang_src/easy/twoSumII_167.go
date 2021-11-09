@@ -5,7 +5,7 @@ package easy
 // Space Complexity:O(1)
 // Runtime: 4 ms, faster than 93.43%
 // Memory Usage: 3 MB, less than 98.36%
-func twoSum(numbers []int, target int) []int {
+func twoSumII(numbers []int, target int) []int {
 	size := len(numbers)
 	left, right := 0, size-1
 

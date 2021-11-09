@@ -10,20 +10,20 @@ func isBipartite(graph [][]int) bool {
 	colors := make([]int, len(graph))
 
 	for i := 0; i < len(graph); i++ {
-		if colors[i] == 0 && !dfs(i, 1, &colors, &graph) {
+		if colors[i] == 0 && !dfsBipartite(i, 1, &colors, &graph) {
 			return false
 		}
 	}
 	return true
 }
 
-func dfs(curNode, curColor int, colors *[]int, graph *[][]int) bool {
+func dfsBipartite(curNode, curColor int, colors *[]int, graph *[][]int) bool {
 	if (*colors)[curNode] != 0 {
 		return (*colors)[curNode] == curColor
 	}
 	(*colors)[curNode] = curColor
 	for _, nextNode := range (*graph)[curNode] {
-		if !dfs(nextNode, -curColor, colors, graph) {
+		if !dfsBipartite(nextNode, -curColor, colors, graph) {
 			return false
 		}
 	}
