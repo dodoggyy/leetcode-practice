@@ -431,7 +431,7 @@ Data Structure
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/PowerofTwo_231.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/power_of_two_231.cc)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/powerOfTwo_231.go)      [ref](https://leetcode.com/problems/power-of-two/)
      
         232. Implement Queue using Stacks (Easy)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ImplementQueueUsingStacks_232.java)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ImplementQueueUsingStacks_232.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/implementQueueUsingStacks_232.go)      [ref](https://leetcode.com/problems/implement-queue-using-stacks/)
      
         234. Palindrome Linked List (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/PalindromeLinkedList_234.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/palindrome_linked_list_234.cc)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/palindromeLinkedList_234.go)      [ref](https://leetcode.com/problems/palindrome-linked-list/)
