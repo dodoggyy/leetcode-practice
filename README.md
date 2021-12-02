@@ -909,6 +909,9 @@ Data Structure
 
         973. K Closest Points to Origin (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/kClosetPointsToOrigin_973.go)      [ref](https://leetcode.com/problems/k-closest-points-to-origin/)
+
+        977. Squares of a Sorted Array (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/squaresOfASortedArray_977.go)      [ref](https://leetcode.com/problems/squares-of-a-sorted-array/)
      
         983. Minimum Cost For Tickets (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/MinimumCostForTickets_983.java)
