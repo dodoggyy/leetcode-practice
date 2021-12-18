@@ -803,7 +803,7 @@ Data Structure
      [mysql](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NotBoringMovies_620.sql)      [ref](https://leetcode.com/problems/not-boring-movies/)
      
         622. Design Circular Queue (Medium)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/DesignCircularQueue_622.java)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/DesignCircularQueue_622.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/designCircularQueue_622.go)      [ref](https://leetcode.com/problems/design-circular-queue/)
      
         627. Swap Salary (Easy)
      [mysql](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/SwapSalary_627.sql)      [ref](https://leetcode.com/problems/swap-salary/)
