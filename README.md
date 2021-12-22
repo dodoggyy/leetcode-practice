@@ -459,6 +459,9 @@ Data Structure
      
         242. Valid Anagram (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ValidAnagram_242.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/valid_anagram_242.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/validAnagram_242.go)      [ref](https://leetcode.com/problems/valid-anagram/)
+
+        252. Meeting Rooms (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/meetingRooms_252.go)      [ref](https://leetcode.com/problems/meeting-rooms/)
      
         257. Binary Tree Paths (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/BinaryTreePaths_257.java)
