@@ -475,6 +475,9 @@ Data Structure
         263. Ugly Number (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/UglyNumber_263.java)
      
+        266. Palindrome Permutation (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/palindromePermutation_266.go)      [ref](https://leetcode.com/problems/palindrome-permutation/)
+
         268. Missing Number (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/MissingNumber_268.java)      [C](https://github.com/dodoggyy/leetcode-practice/blob/master/C_src/Easy/268_Missing_Number/MissingNumber_268.c)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/missing_number_268.cc)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/missingNumber_268.go)      [ref](https://leetcode.com/problems/missing-number/)
      
