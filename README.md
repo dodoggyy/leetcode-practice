@@ -578,7 +578,7 @@ Data Structure
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/FirstUniqueCharacterInAString_387.java)
      
         389. Find the Difference (Easy)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/FindTheDifference_389.java)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/FindTheDifference_389.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findTheDifference_389.go)      [ref](https://leetcode.com/problems/find-the-difference/)
 
         392. Is Subsequence (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/isSubsequence_392.go)      [ref](https://leetcode.com/problems/is-subsequence/)
