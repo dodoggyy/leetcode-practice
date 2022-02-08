@@ -470,7 +470,7 @@ Data Structure
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/BinaryTreePaths_257.java)
      
         258. Add Digits (Easy)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/AddDigits_258.java)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/AddDigits_258.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/addDigits_258.go)      [ref](https://leetcode.com/problems/add-digits/)
      
         260. Single Number III (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/SingleNumberIII_260.java)      [C](https://github.com/dodoggyy/leetcode-practice/blob/master/C_src/Easy/260_Single_Number_III/SingleNumberIII_260.c)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/single_number_III_260.cc)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/singleNumberIII_260.go)      [ref](https://leetcode.com/problems/single-number-iii/)
