@@ -731,7 +731,7 @@ Data Structure
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/MinimumAbsoluteDifferenceInBST_530.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/minimumAbsoluteDifferenceInBST_530.go)      [ref](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
      
         532. K-diff Pairs in an Array (Easy)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/KDiffPairsInAnArray_532.java)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/KDiffPairsInAnArray_532.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/kDiffPairsInAnArray_532.go)      [ref](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
      
         538. Convert BST to Greater Tree (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ConvertBSTtoGreaterTree_538.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/convertBSTToGreaterTree_538.go)      [ref](https://leetcode.com/problems/power-of-two/)
