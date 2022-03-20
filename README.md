@@ -931,6 +931,9 @@ Data Structure
         1002. Find Common Characters (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findCommonCharacters_1002.go)      [ref](https://leetcode.com/problems/find-common-characters/)
 
+        1007. Minimum Domino Rotations For Equal Row (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumDominoRotationsForEqualRow_1007.go)      [ref](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
+
         1008. Construct Binary Search Tree from Preorder Traversal (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/constructBinarySearchTreeFromPreorderTraversal_1008.go)      [ref](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 
