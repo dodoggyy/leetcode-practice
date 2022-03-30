@@ -162,6 +162,9 @@ Data Structure
 
         73. Set Matrix Zeroes (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/setMatrixZeroes_73.go)      [ref](https://leetcode.com/problems/set-matrix-zeroes/)
+
+        74. Search a 2D Matrix (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/searchA2DMatrix_74.go)      [ref](https://leetcode.com/problems/search-a-2d-matrix/)
      
         75. Sort Colors (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/SortColors_75.java)      [ref](https://leetcode.com/problems/sort-colors/)
