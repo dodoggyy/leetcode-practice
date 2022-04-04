@@ -967,8 +967,11 @@ Data Structure
         1646. Get Maximum in Generated Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/getMaximumInGeneratedArray_1646.go)      [ref](https://leetcode.com/problems/get-maximum-in-generated-array/)
 
+        1721. Swapping Nodes in a Linked List (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/swappingNodesInALinkedList_1721.go)      [ref](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+
         1905. Count Sub Islands (Medium)
-     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/countSubIslands_1905.go)      [ref](https://leetcode.com/problems/count-sub-islands/)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/countSubIslands_1905.go)      [ref](https://leetcode.com/problems/count-sub-islands/)
 
         2011. Final Value of Variable After Performing Operations (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/finalValueOfVariableAfterPerformingOperations_2011.go)      [ref](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
