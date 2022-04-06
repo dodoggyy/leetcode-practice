@@ -919,6 +919,9 @@ Data Structure
         912. Sort an Array (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/sortAnArray_912.go)      [ref](https://leetcode.com/problems/sort-an-array/)
 
+        923. 3Sum With Multiplicity (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/3SumWithMultiplicity_923.go)      [ref](https://leetcode.com/problems/3sum-with-multiplicity/)
+
         958. Check Completeness of a Binary Tree (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/checkCompletenessOfABinaryTree_958.go)      [ref](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
 
