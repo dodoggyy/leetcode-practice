@@ -877,6 +877,9 @@ Data Structure
         697. Degree of an Array(Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/DegreeOfAnArray_697.java)
 
+        703. Kth Largest Element in a Stream (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/kthLargestElementInAStream_703.go)      [ref](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+
         704. Binary Search (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/BinarySearch_704.java)
      
