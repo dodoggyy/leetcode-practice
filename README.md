@@ -952,6 +952,9 @@ Data Structure
         1029. Two City Scheduling (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/twoCityScheduling_1029.go)      [ref](https://leetcode.com/problems/two-city-scheduling/)
 
+        1046. Last Stone Weight (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/lastStoneWeight_1046.go)      [ref](https://leetcode.com/problems/last-stone-weight/)
+
         1091. Shortest Path in Binary Matrix (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/shortestPathInBinaryMatrix_1091.go)      [ref](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 
