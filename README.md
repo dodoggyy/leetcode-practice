@@ -856,6 +856,9 @@ Data Structure
         680. Valid Palindrome II (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ValidPalindromeII_680.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/validPalindromeII_680.go)      [ref](https://leetcode.com/problems/valid-palindrome-ii/)
 
+        682. Baseball Game (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/baseballGame_682.go)      [ref](https://leetcode.com/problems/baseball-game/)
+
         684. Redundant Connection (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/redundantConnection_684.go)      [ref](https://leetcode.com/problems/redundant-connection/)
      
