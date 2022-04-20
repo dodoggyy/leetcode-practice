@@ -342,6 +342,9 @@ Data Structure
      
         172. Factorial Trailing Zeroes (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/FactorialTrailingZeroes_172.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/factorial_trailing_zeroes_172.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/factorialTrailingZeroes_172.go)      [ref](https://leetcode.com/problems/factorial-trailing-zeroes/)
+
+        173. Binary Search Tree Iterator (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/binarySearchTreeIterator_173.go)      [ref](https://leetcode.com/problems/binary-search-tree-iterator/)
      
         175. Combine Two Tables (Easy)
      [mysql](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/CombineTwoTables_175.sql)      [ref](https://leetcode.com/problems/combine-two-tables/)
