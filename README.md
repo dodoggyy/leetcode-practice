@@ -997,6 +997,9 @@ Data Structure
         1658. Minimum Operations to Reduce X to Zero (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumOperationsToReduceXToZero_1658.go)      [ref](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 
+        1695. Maximum Erasure Value (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumErasureValue_1695.go)      [ref](https://leetcode.com/problems/maximum-erasure-value/)
+
         1721. Swapping Nodes in a Linked List (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/swappingNodesInALinkedList_1721.go)      [ref](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
