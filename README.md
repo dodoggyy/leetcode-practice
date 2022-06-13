@@ -258,6 +258,9 @@ Data Structure
      
         119. Pascal's Triangle II (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/PascalsTriangleII_119.java)
+
+        120. Triangle (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/triangle_120.go)      [ref](https://leetcode.com/problems/triangle/)
      
         121. Best Time to Buy and Sell Stock (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/BestTimeToBuyAndSellStock_121.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/bestTimeToBuyAndSellStock_121.go)      [ref](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solution/)
