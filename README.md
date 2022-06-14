@@ -789,6 +789,9 @@ Data Structure
      
         581. Shortest Unsorted Continuous Subarray (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ShortestUnsortedContinuousSubarray_581.java)
+
+        583. Delete Operation for Two Strings (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/deleteOperationForTwoStrings_583.go)      [ref](https://leetcode.com/problems/delete-operation-for-two-strings/submissions/)
      
         589. N-ary Tree Preorder Traversal (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NaryTreePreorderTraversal_589.java)
