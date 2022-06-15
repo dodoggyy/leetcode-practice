@@ -979,8 +979,11 @@ Data Structure
         1046. Last Stone Weight (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/lastStoneWeight_1046.go)      [ref](https://leetcode.com/problems/last-stone-weight/)
 
+        1048. Longest String Chain (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/longestStringChain_1048.go)      [ref](https://leetcode.com/problems/longest-string-chain/)
+
         1091. Shortest Path in Binary Matrix (Medium)
-     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/shortestPathInBinaryMatrix_1091.go)      [ref](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/shortestPathInBinaryMatrix_1091.go)      [ref](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 
         1143. Longest Common Subsequence (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/longestCommonSubsequence_1143.go)      [ref](https://leetcode.com/problems/longest-common-subsequence/)
