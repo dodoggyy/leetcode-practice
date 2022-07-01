@@ -1009,6 +1009,9 @@ Data Structure
         1695. Maximum Erasure Value (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumErasureValue_1695.go)      [ref](https://leetcode.com/problems/maximum-erasure-value/)
 
+        1710. Maximum Units on a Truck (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/maximumUnitsOnATruck_1710.go)      [ref](https://leetcode.com/problems/maximum-units-on-a-truck/)
+
         1721. Swapping Nodes in a Linked List (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/swappingNodesInALinkedList_1721.go)      [ref](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
