@@ -919,6 +919,9 @@ Data Structure
         744. Find Smallest Letter Greater Than Target (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/FindSmallestLetterGreaterThanTarget_744.java)      [ref](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 
+        746. Min Cost Climbing Stairs (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/minCostClimbingStairs_746.go)      [ref](https://leetcode.com/problems/min-cost-climbing-stairs/)
+
         763. Partition Labels (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/partitionLabels_763.go)      [ref](https://leetcode.com/problems/partition-labels/)
 
