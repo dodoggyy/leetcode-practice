@@ -684,6 +684,9 @@ Data Structure
 
         470. Implement Rand10() Using Rand7() (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/implementRand10UsingRand7_470.go)      [ref](https://leetcode.com/problems/implement-rand10-using-rand7/)
+
+        473. Matchsticks to Square (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/matchsticksToSquare_473.go)      [ref](https://leetcode.com/problems/matchsticks-to-square/)
      
         475. Heaters (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/Heaters_475.java)
