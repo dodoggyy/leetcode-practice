@@ -756,6 +756,9 @@ Data Structure
      
         541. Reverse String II (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ReverseStringII_541.java)
+
+        542. 01 Matrix (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/zeroOneMatrix_542.go)      [ref](https://leetcode.com/problems/01-matrix/)
      
         543. Diameter of Binary Tree (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/DiameterofBinaryTree_543.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/diameterOfBinaryTree_543.go)      [ref](https://leetcode.com/problems/diameter-of-binary-tree/)
