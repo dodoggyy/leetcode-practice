@@ -83,7 +83,7 @@ Data Structure
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/SearchInRotatedSortedArray_33.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/searchInRotatedSortedArray_33.go)      [ref](https://leetcode.com/problems/search-in-rotated-sorted-array/)
      
         34. Find First and Last Position of Element in Sorted Array (Medium)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/FindFirstAndLastPositionOfElementInSortedArray_34.java)      [ref](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/FindFirstAndLastPositionOfElementInSortedArray_34.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findFirstAndLastPositionOfElementInSortedArray_34.go)      [ref](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
         35. Search Insert Position (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/addBsearchInsertPosition_35.go)      [ref](https://leetcode.com/problems/search-insert-position/)
