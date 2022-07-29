@@ -946,6 +946,9 @@ Data Structure
         889. Construct Binary Tree from Preorder and Postorder Traversal (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/constructBinaryTreeFromPreorderAndPostorderTraversal_889.go)      [ref](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
 
+        890. Find and Replace Pattern (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findAndReplacePattern_890.go)      [ref](https://leetcode.com/problems/find-and-replace-pattern/)
+
         897. Increasing Order Search Tree (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/increasingOrderSearchTree_897.go)      [ref](https://leetcode.com/problems/increasing-order-search-tree/)
 
