@@ -1015,6 +1015,9 @@ Data Structure
         1365. How Many Numbers Are Smaller Than the Current Number (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/HowManyNumbersAreSmallerThanTheCurrentNumber_1365.java)      [ref](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 
+        1448. Count Good Nodes in Binary Tree (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/countGoodNodesInBinaryTree_1448.go)      [ref](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+
         1646. Get Maximum in Generated Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/getMaximumInGeneratedArray_1646.go)      [ref](https://leetcode.com/problems/get-maximum-in-generated-array/)
 
