@@ -576,6 +576,9 @@ Data Structure
 
         376. Wiggle Subsequence (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/wiggleSubsequence_376.go)      [ref](https://leetcode.com/problems/wiggle-subsequence/)
+
+        377. Combination Sum IV (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/combinationSumIV_377.go)      [ref](https://leetcode.com/problems/combination-sum-iv/)
      
         378. Kth Smallest Element in a Sorted Matrix (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/KthSmallestElementinaSortedMatrix_378.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/kthSmallestElementInASortedMatrix_378.go)      [ref](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
