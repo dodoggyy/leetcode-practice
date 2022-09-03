@@ -976,6 +976,9 @@ Data Structure
         991. Broken Calculator (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/brokenCalculator_991.go)      [ref](https://leetcode.com/problems/broken-calculator/)
 
+        994. Rotting Oranges (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/rottingOranges_994.go)      [ref](https://leetcode.com/problems/rotting-oranges/)
+
         997. Find the Town Judge (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findTheTownJudge_997.go)      [ref](https://leetcode.com/problems/find-the-town-judge/)
 
