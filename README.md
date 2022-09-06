@@ -937,6 +937,9 @@ Data Structure
         785. Is Graph Bipartite? (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/isGraphBipartite_785.go)      [ref](https://leetcode.com/problems/is-graph-bipartite/)
 
+        814. Binary Tree Pruning (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/binaryTreePruning_814.go)      [ref](https://leetcode.com/problems/binary-tree-pruning/submissions/)
+
         876. Possible Bipartition (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/middleOfTheLinkedList_876.go)      [ref](https://leetcode.com/problems/middle-of-the-linked-list/)
 
