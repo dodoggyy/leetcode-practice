@@ -827,7 +827,7 @@ Data Structure
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/CanPlaceFlowers_605.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/canPlaceFlowers_605.go)      [ref](https://leetcode.com/problems/can-place-flowers/)
      
         606. Construct String from Binary Tree (Easy)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ConstructStringFromBinaryTree_606.java)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ConstructStringFromBinaryTree_606.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/constructStringFromBinaryTree_606.go)      [ref](https://leetcode.com/problems/construct-string-from-binary-tree/)
      
         617. Merge Two Binary Trees (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/MergeTwoBinaryTrees_617.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/mergeTwoBinaryTrees_617.go)      [ref](https://leetcode.com/problems/merge-two-binary-trees/)
