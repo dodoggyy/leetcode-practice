@@ -598,6 +598,9 @@ Data Structure
         392. Is Subsequence (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/isSubsequence_392.go)      [ref](https://leetcode.com/problems/is-subsequence/)
 
+        393. UTF-8 Validation (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/utf8Validation_393.go)      [ref](https://leetcode.com/problems/utf-8-validation/)
+
         394. Decode String (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/decodeString_394.go)      [ref](https://leetcode.com/problems/decode-string/)
      
