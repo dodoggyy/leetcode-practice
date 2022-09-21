@@ -982,6 +982,9 @@ Data Structure
         983. Minimum Cost For Tickets (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/MinimumCostForTickets_983.java)
 
+        985. Sum of Even Numbers After Queries (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/sumOfEvenNumbersAfterQueries_985.go)      [ref](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
+
         991. Broken Calculator (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/brokenCalculator_991.go)      [ref](https://leetcode.com/problems/broken-calculator/)
 
