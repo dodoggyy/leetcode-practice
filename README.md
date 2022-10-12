@@ -982,6 +982,9 @@ Data Structure
         973. K Closest Points to Origin (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/kClosetPointsToOrigin_973.go)      [ref](https://leetcode.com/problems/k-closest-points-to-origin/)
 
+        976. Largest Perimeter Triangle (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/largestPerimeterTriangle_976.go)      [ref](https://leetcode.com/problems/largest-perimeter-triangle/description/)
+
         977. Squares of a Sorted Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/squaresOfASortedArray_977.go)      [ref](https://leetcode.com/problems/squares-of-a-sorted-array/)
      
