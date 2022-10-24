@@ -1030,6 +1030,9 @@ Data Structure
         1155. Number of Dice Rolls With Target Sum (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/numberOfDiceRollsWithTargetSum_1155.go)      [ref](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum)
 
+        1239. Maximum Length of a Concatenated String with Unique Characters (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumLengthOfAConcatenatedStringWithUniqueCharacters_1239.go)      [ref](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/)
+
         1260. Shift 2D Grid (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/shift2DGrid_1260.go)      [ref](https://leetcode.com/problems/shift-2d-grid/)
 
