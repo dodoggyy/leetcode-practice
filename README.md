@@ -745,6 +745,9 @@ Data Structure
         521. Longest Uncommon Subsequence I (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/LongestUncommonSubsequenceI_521.java)
 
+        523. Continuous Subarray Sum (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/continuousSubarraySum_523.go)      [ref](https://leetcode.com/problems/continuous-subarray-sum/description/)
+
         524. Longest Word in Dictionary through Deleting (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/LongestWordinDictionarythroughDeleting_524.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/LongestWordInDictionaryThroughDeleting_524.go)      [ref](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
      
