@@ -572,7 +572,7 @@ Data Structure
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/SumofTwoIntegers_371.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/sum_of_two_integers_371.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/sumOfTwoIntegers_371.go)      [ref](https://leetcode.com/problems/sum-of-two-integers/)
      
         374. Guess Number Higher or Lower (Easy)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/GuessNumberHigherOrLower_374.java)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/GuessNumberHigherOrLower_374.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/guessNumberHigherOrLower_374.go)      [ref](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
 
         376. Wiggle Subsequence (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/wiggleSubsequence_376.go)      [ref](https://leetcode.com/problems/wiggle-subsequence/)
