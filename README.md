@@ -1033,6 +1033,9 @@ Data Structure
         1155. Number of Dice Rolls With Target Sum (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/numberOfDiceRollsWithTargetSum_1155.go)      [ref](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum)
 
+        1207. Unique Number of Occurrences (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/uniqueNumberOfOccurrences_1207.go)      [ref](https://leetcode.com/problems/unique-number-of-occurrences/description/)
+
         1239. Maximum Length of a Concatenated String with Unique Characters (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumLengthOfAConcatenatedStringWithUniqueCharacters_1239.go)      [ref](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/)
 
