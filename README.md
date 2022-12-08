@@ -952,6 +952,9 @@ Data Structure
         838. Push Dominoes (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/pushDominoes_838.go)      [ref](https://leetcode.com/problems/push-dominoes/)
 
+        872. Leaf-Similar Trees (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/leafSimilarTrees_872.go)      [ref](https://leetcode.com/problems/leaf-similar-trees/description/)
+
         876. Possible Bipartition (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/middleOfTheLinkedList_876.go)      [ref](https://leetcode.com/problems/middle-of-the-linked-list/)
 
