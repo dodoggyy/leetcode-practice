@@ -930,6 +930,9 @@ Data Structure
      
         707. Design Linked List (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/DesignLinkedList_707.java)
+
+        724. Find Pivot Index (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findPivotIndex_724.go)      [ref](https://leetcode.com/problems/find-pivot-index/description/)
      
         725. Split Linked List in Parts (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/SplitLinkedListInParts_725.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/split_linked_list_in_parts_725.cc)      [ref](https://leetcode.com/problems/split-linked-list-in-parts/)
