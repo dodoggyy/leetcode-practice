@@ -859,6 +859,9 @@ Data Structure
         637. Average of Levels in Binary Tree (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/AverageOfLevelsInBinaryTree_637.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/averageOfLevelsInBinaryTree_637.go)      [ref](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
      
+        643. Maximum Average Subarray I (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/setMismatch_645.go)      [ref](https://leetcode.com/problems/maximum-average-subarray-i/description/)
+
         645. Set Mismatch (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/SetMismatch_645.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/setMismatch_645.go)      [ref](https://leetcode.com/problems/set-mismatch/)
      
