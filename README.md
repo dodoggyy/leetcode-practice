@@ -1066,6 +1066,9 @@ Data Structure
         1448. Count Good Nodes in Binary Tree (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/countGoodNodesInBinaryTree_1448.go)      [ref](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 
+        1480. Running Sum of 1d Array (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/runningSumOf1dArray_1480.go)      [ref](https://leetcode.com/problems/running-sum-of-1d-array/description/)
+
         1544. Make The String Great (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/makeTheStringGreat_1544.go)      [ref](https://leetcode.com/problems/make-the-string-great/description/)
 
