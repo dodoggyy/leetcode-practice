@@ -982,6 +982,9 @@ Data Structure
         912. Sort an Array (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/sortAnArray_912.go)      [ref](https://leetcode.com/problems/sort-an-array/)
 
+        918. Maximum Sum Circular Subarray (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumSumCircularSubarray_918.go)      [ref](https://leetcode.com/problems/maximum-sum-circular-subarray/description/)
+
         923. 3Sum With Multiplicity (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/3SumWithMultiplicity_923.go)      [ref](https://leetcode.com/problems/3sum-with-multiplicity/)
 
