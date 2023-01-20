@@ -809,7 +809,7 @@ Data Structure
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/deleteOperationForTwoStrings_583.go)      [ref](https://leetcode.com/problems/delete-operation-for-two-strings/submissions/)
      
         589. N-ary Tree Preorder Traversal (Easy)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NaryTreePreorderTraversal_589.java)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NaryTreePreorderTraversal_589.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/nAryTreePreorderTraversal_589.go)      [ref](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)
      
         590. N-ary Tree Postorder Traversal (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NaryTreePostorderTraversal_590.java)
