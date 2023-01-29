@@ -961,6 +961,9 @@ Data Structure
         838. Push Dominoes (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/pushDominoes_838.go)      [ref](https://leetcode.com/problems/push-dominoes/)
 
+        844. Backspace String Compare (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/backspaceStringCompare_844.go)      [ref](https://leetcode.com/problems/backspace-string-compare/description/?envType=study-plan&id=level-1)
+
         872. Leaf-Similar Trees (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/leafSimilarTrees_872.go)      [ref](https://leetcode.com/problems/leaf-similar-trees/description/)
 
