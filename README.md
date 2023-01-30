@@ -389,7 +389,7 @@ Data Structure
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/numberOfIslands_200.go)      [ref](https://leetcode.com/problems/number-of-islands/)
      
         202. Happy Number (Easy)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/HappyNumber_202.java)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/HappyNumber_202.java)    [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/happyNumber_202.go)      [ref](https://leetcode.com/problems/happy-number/description/)
      
         203. Remove Linked List Elements (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/RemoveLinkedListElements_203.java)
