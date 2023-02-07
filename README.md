@@ -985,6 +985,9 @@ Data Structure
         897. Increasing Order Search Tree (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/increasingOrderSearchTree_897.go)      [ref](https://leetcode.com/problems/increasing-order-search-tree/)
 
+        904. Fruit Into Baskets (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/fruitIntoBaskets_904.go)      [ref](https://leetcode.com/problems/fruit-into-baskets/description/)
+
         912. Sort an Array (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/sortAnArray_912.go)      [ref](https://leetcode.com/problems/sort-an-array/)
 
