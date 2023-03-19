@@ -1125,6 +1125,9 @@ Data Structure
 
         2337. Move Pieces to Obtain a String (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/movePiecesToObtainAString_2337.go)      [ref](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)
+
+        2341. Maximum Number of Pairs in Array (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/maximumNumberOfPairsInArray_2341.go)      [ref](https://leetcode.com/problems/maximum-number-of-pairs-in-array/description/)
     
     
 *   **Design Pattern :**
