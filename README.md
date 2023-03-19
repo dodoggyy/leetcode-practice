@@ -1054,6 +1054,9 @@ Data Structure
         1155. Number of Dice Rolls With Target Sum (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/numberOfDiceRollsWithTargetSum_1155.go)      [ref](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum)
 
+        1176. Diet Plan Performance (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/dietPlanPerformance_1176.go)      [ref](https://leetcode.com/problems/diet-plan-performance/description/)
+
         1207. Unique Number of Occurrences (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/uniqueNumberOfOccurrences_1207.go)      [ref](https://leetcode.com/problems/unique-number-of-occurrences/description/)
 
