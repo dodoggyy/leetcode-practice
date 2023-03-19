@@ -991,6 +991,9 @@ Data Structure
         912. Sort an Array (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/sortAnArray_912.go)      [ref](https://leetcode.com/problems/sort-an-array/)
 
+        914. X of a Kind in a Deck of Cards (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/xOfAKindInADeckOfCards_914.go)      [ref](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/)
+
         918. Maximum Sum Circular Subarray (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumSumCircularSubarray_918.go)      [ref](https://leetcode.com/problems/maximum-sum-circular-subarray/description/)
 
