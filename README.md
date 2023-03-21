@@ -1131,6 +1131,9 @@ Data Structure
 
         2341. Maximum Number of Pairs in Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/maximumNumberOfPairsInArray_2341.go)      [ref](https://leetcode.com/problems/maximum-number-of-pairs-in-array/description/)
+
+        2348. Number of Zero-Filled Subarrays (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/numberOfZeroFilledSubarrays_2348.go)      [ref](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/)
     
     
 *   **Design Pattern :**
