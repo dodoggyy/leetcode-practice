@@ -1051,6 +1051,9 @@ Data Structure
         1091. Shortest Path in Binary Matrix (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/shortestPathInBinaryMatrix_1091.go)      [ref](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 
+        1122. Relative Sort Array (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/relativeSortArray_1122.go)      [ref](https://leetcode.com/problems/relative-sort-array/description/)
+
         1143. Longest Common Subsequence (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/longestCommonSubsequence_1143.go)      [ref](https://leetcode.com/problems/longest-common-subsequence/)
 
