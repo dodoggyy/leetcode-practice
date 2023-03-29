@@ -1137,6 +1137,9 @@ Data Structure
 
         2348. Number of Zero-Filled Subarrays (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/numberOfZeroFilledSubarrays_2348.go)      [ref](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/)
+
+        2515. Shortest Distance to Target String in a Circular Array (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/shortestDistanceToTargetStringInACircularArray_2515.go)      [ref](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/description/)
     
     
 *   **Design Pattern :**
