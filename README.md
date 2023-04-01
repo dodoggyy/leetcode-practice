@@ -1144,6 +1144,9 @@ Data Structure
         2515. Shortest Distance to Target String in a Circular Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/shortestDistanceToTargetStringInACircularArray_2515.go)      [ref](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/description/)
 
+        2595. Number of Even and Odd Bits (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/numberOfEvenAndOddBits_2595.go)      [ref](https://leetcode.com/problems/number-of-even-and-odd-bits/)
+
         2600. K Items With the Maximum Sum (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/kItemsWithTheMaximumSum_2600.go)      [ref](https://leetcode.com/problems/k-items-with-the-maximum-sum/description/)
 
