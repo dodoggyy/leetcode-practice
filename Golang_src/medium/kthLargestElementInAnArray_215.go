@@ -63,3 +63,35 @@ func findKthLargest2(nums []int, k int) int {
 
 	return qSelect(0, len(nums)-1, k)
 }
+
+// Use quick select with descending order:
+// Time Complexity: O(n)
+// Space Complexity:O(1)
+// Runtime: 81 ms, faster than 70.8%
+// Memory Usage: 8.6 MB, less than 76.64%
+func findKthLargest3(nums []int, k int) int {
+	var qs func(l, r, k int) int
+	qs = func(l, r, k int) int {
+		i := l - 1
+		for j := l; j < r; j++ {
+			if nums[j] > nums[r] {
+				i++
+				nums[i], nums[j] = nums[j], nums[i]
+			}
+		}
+		i++
+		nums[r], nums[i] = nums[i], nums[r]
+
+		cnt := i + 1
+
+		if cnt == k {
+			return nums[i]
+		} else if cnt < k {
+			return qs(i+1, r, k)
+		} else {
+			return qs(l, i-1, k)
+		}
+	}
+
+	return qs(0, len(nums)-1, k)
+}
