@@ -170,7 +170,7 @@ Data Structure
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/searchA2DMatrix_74.go)      [ref](https://leetcode.com/problems/search-a-2d-matrix/)
      
         75. Sort Colors (Medium)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/SortColors_75.java)      [ref](https://leetcode.com/problems/sort-colors/)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/SortColors_75.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/sortColors_75.go)      [ref](https://leetcode.com/problems/sort-colors/)
 
         76. Minimum Window Substring (hard)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/hard/setMatrixZeroes_73.go)      [ref](https://leetcode.com/problems/minimum-window-substring/)
