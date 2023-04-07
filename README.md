@@ -1159,6 +1159,9 @@ Data Structure
         2515. Shortest Distance to Target String in a Circular Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/shortestDistanceToTargetStringInACircularArray_2515.go)      [ref](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/description/)
 
+        2553. Separate the Digits in an Array (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/separateTheDigitsInAnArray_2553.go)      [ref](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)
+
         2570. Merge Two 2D Arrays by Summing Values (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/mergeTwo2DArraysBySummingValues_2570.go)      [ref](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/)
 
