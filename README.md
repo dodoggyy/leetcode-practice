@@ -1039,6 +1039,9 @@ Data Structure
         1008. Construct Binary Search Tree from Preorder Traversal (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/constructBinarySearchTreeFromPreorderTraversal_1008.go)      [ref](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 
+        1020. Number of Enclaves (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/constructBinarySearchTreeFromPreorderTraversal_1008.go)      [ref](https://leetcode.com/problems/number-of-enclaves/description/)
+
         1029. Two City Scheduling (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/twoCityScheduling_1029.go)      [ref](https://leetcode.com/problems/two-city-scheduling/)
 
