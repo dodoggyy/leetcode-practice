@@ -475,6 +475,9 @@ Data Structure
         242. Valid Anagram (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ValidAnagram_242.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/valid_anagram_242.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/validAnagram_242.go)      [ref](https://leetcode.com/problems/valid-anagram/)
 
+        245. Shortest Word Distance III (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/shortestWordDistanceIII_245.go)      [ref](https://leetcode.com/problems/shortest-word-distance-iii/description/)
+
         252. Meeting Rooms (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/meetingRooms_252.go)      [ref](https://leetcode.com/problems/meeting-rooms/)
      
