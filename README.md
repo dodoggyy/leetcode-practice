@@ -1156,6 +1156,9 @@ Data Structure
         2348. Number of Zero-Filled Subarrays (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/numberOfZeroFilledSubarrays_2348.go)      [ref](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/)
 
+        2390. Removing Stars From a String (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/removingStarsFromAString_2390.go)      [ref](https://leetcode.com/problems/removing-stars-from-a-string/description/)
+
         2405. Optimal Partition of String (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/optimalPartitionOfString_2405.go)      [ref](https://leetcode.com/problems/optimal-partition-of-string/description/)
 
