@@ -938,7 +938,7 @@ Data Structure
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findPivotIndex_724.go)      [ref](https://leetcode.com/problems/find-pivot-index/description/)
      
         725. Split Linked List in Parts (Medium)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/SplitLinkedListInParts_725.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/split_linked_list_in_parts_725.cc)      [ref](https://leetcode.com/problems/split-linked-list-in-parts/)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/SplitLinkedListInParts_725.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/split_linked_list_in_parts_725.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/splitLinkedListInParts_725.go)      [ref](https://leetcode.com/problems/split-linked-list-in-parts/)
 
         729. My Calendar I (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/myCalendarI_729.go)      [ref](https://leetcode.com/problems/my-calendar-i/description/)
