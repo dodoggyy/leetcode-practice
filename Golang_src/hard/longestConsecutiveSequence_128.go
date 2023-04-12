@@ -38,3 +38,33 @@ func max(a, b int) int {
 	}
 	return b
 }
+
+// Use hashmap:
+// Time Complexity: O(n)
+// Space Complexity:O(n)
+// Runtime: 71 ms, faster than 79.6%
+// Memory Usage: 10.2 MB, less than 72.89%
+func longestConsecutive2(nums []int) int {
+	hashset := map[int]bool{}
+
+	for _, v := range nums {
+		hashset[v] = true
+	}
+	result := 0
+
+	for k := range hashset {
+		if !hashset[k-1] {
+			cur := k
+			tmp := 1
+			for hashset[cur+1] {
+				cur++
+				tmp++
+			}
+			if result < tmp {
+				result = tmp
+			}
+		}
+	}
+
+	return result
+}
