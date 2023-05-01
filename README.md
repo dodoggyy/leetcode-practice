@@ -1111,6 +1111,9 @@ Data Structure
         1480. Running Sum of 1d Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/runningSumOf1dArray_1480.go)      [ref](https://leetcode.com/problems/running-sum-of-1d-array/description/)
 
+        1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/averageSalaryExcludingTheMinimumAndMaximumSalary_1491.go)      [ref](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/)
+
         1544. Make The String Great (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/makeTheStringGreat_1544.go)      [ref](https://leetcode.com/problems/make-the-string-great/description/)
 
