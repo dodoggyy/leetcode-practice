@@ -19,6 +19,32 @@ func uniquePaths(m int, n int) int {
 	return int(result)
 }
 
+// Use Permutation formula 2:
+// uniquePaths(m,n) = C((m+n-2), (n-1))
+// Time Complexity: O(min(m,n))
+// Space Complexity:O(1)
+// Runtime: 1 ms, faster than 62.25%
+// Memory Usage: 2 MB, less than 89.40%
+func uniquePaths3(m int, n int) int {
+	min := func(a, b int) int {
+		if a < b {
+			return a
+		}
+		return b
+	}
+
+	top, bot := m-1+n-1, min(m-1, n-1)
+
+	result := 1
+	cnt := 1
+	for i := top; i > top-bot; i-- {
+		result = result * i / cnt
+		cnt++
+	}
+
+	return result
+}
+
 // Use DP:
 // Time Complexity: O(m*n)
 // Space Complexity:O(m*n)
