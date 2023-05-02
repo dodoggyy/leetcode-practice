@@ -1138,6 +1138,9 @@ Data Structure
         1721. Swapping Nodes in a Linked List (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/swappingNodesInALinkedList_1721.go)      [ref](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
+        1822. Sign of the Product of an Array (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/signOfTheProductOfAnArray_1822.go)      [ref](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)
+
         1832. Check if the Sentence Is Pangram (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/maximumUnitsOnATruck_1710.go)      [ref](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)
 
