@@ -75,3 +75,35 @@ func dfsRob(root *TreeNode) {
 
 	hashmapNotRob[root] = max(hashmapRob[root.Left], hashmapNotRob[root.Left]) + max(hashmapRob[root.Right], hashmapNotRob[root.Right])
 }
+
+// Use DFS:
+// Time Complexity: O(n)
+// Space Complexity:O(n)
+// Runtime: 6 ms, faster than 58.33%
+// Memory Usage: 5.5 MB, less than 51.4%
+func rob6(root *TreeNode) int {
+	max := func(a, b int) int {
+		if a > b {
+			return a
+		}
+		return b
+	}
+
+	var helper func(cur *TreeNode) []int
+	helper = func(cur *TreeNode) []int {
+		if cur == nil {
+			return []int{0, 0}
+		}
+		l, r := helper(cur.Left), helper(cur.Right)
+
+		// 0: not rob, 1: rob
+		rob := cur.Val + l[0] + r[0]
+		noRob := max(l[0], l[1]) + max(r[0], r[1])
+
+		return []int{noRob, rob}
+	}
+
+	result := helper(root)
+
+	return max(result[0], result[1])
+}
