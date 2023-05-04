@@ -871,6 +871,9 @@ Data Structure
         647. Palindromic Substrings (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/PalindromicSubstrings_647.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/palindromic_substrings_647.cc)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/palindromicSubstrings_647.go)      [ref](https://leetcode.com/problems/palindromic-substrings/)
 
+        649. Dota2 Senate (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/dota2Senate_649.go)      [ref](https://leetcode.com/problems/dota2-senate/description/)
+
         653. Two Sum IV - Input is a BST (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/twoSumIV_653.go)      [ref](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 
