@@ -31,3 +31,24 @@ func isPerfectSquare2(num int) bool {
 	}
 	return false
 }
+
+// Use binary search:
+// Time Complexity: O(logn)
+// Space Complexity:O(1)
+// Runtime: 2 ms, faster than 47.49%
+// Memory Usage: 1.9 MB, less than 97.77%
+func isPerfectSquare3(num int) bool {
+	l, r := 1, num
+	for l <= r {
+		mid := l + (r-l)/2
+		cur := mid * mid
+		if cur == num {
+			return true
+		} else if cur < num {
+			l = mid + 1
+		} else {
+			r = mid - 1
+		}
+	}
+	return false
+}
