@@ -1159,6 +1159,9 @@ Data Structure
         2011. Final Value of Variable After Performing Operations (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/finalValueOfVariableAfterPerformingOperations_2011.go)      [ref](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
 
+        2181. Merge Nodes in Between Zeros (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/mergeNodesInBetweenZeros_2181.go)      [ref](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)
+
         2215. Find the Difference of Two Arrays (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/finalValueOfVariableAfterPerformingOperations_2011.go)      [ref](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
 
