@@ -292,6 +292,9 @@ Data Structure
         137. Single Number II (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/SingleNumberII_137.java)      [ref](https://leetcode.com/problems/single-number-ii/)
 
+        138. Copy List with Random Pointer (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/copyListWithRandomPointer_138.go)      [ref](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
+
         139. Word Break (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/wordBreak_139.go)      [ref](https://leetcode.com/problems/word-break/)
 
