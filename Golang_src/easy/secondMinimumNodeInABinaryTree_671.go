@@ -1,5 +1,7 @@
 package easy
 
+import "sort"
+
 // Use DFS:
 // Time Complexity: O(n)
 // Space Complexity:O(n)
@@ -29,4 +31,36 @@ func dfs2(root *TreeNode, target int) int {
 	}
 
 	return min(left, right)
+}
+
+// Use inorder traversal + sort:
+// Time Complexity: O(n+nlogn)
+// Space Complexity:O(n)
+// Runtime: 2 ms, faster than 18.18%
+// Memory Usage: 2 MB, less than 63.64%
+func findSecondMinimumValue2(root *TreeNode) int {
+	arr := inorder(root)
+	sort.Ints(arr)
+
+	var inorder func(root *TreeNode) []int
+	inorder = func(root *TreeNode) []int {
+		result := []int{}
+		if root == nil {
+			return result
+		}
+		result = append(result, inorder(root.Left)...)
+		result = append(result, root.Val)
+		result = append(result, inorder(root.Right)...)
+
+		return result
+	}
+
+	min := arr[0]
+	for _, v := range arr {
+		if v > min {
+			return v
+		}
+	}
+
+	return -1
 }
