@@ -920,7 +920,7 @@ Data Structure
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/CountBinarySubstrings_696.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/count_binary_substrings_696.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/countBinarySubstrings_696.go)      [ref](https://leetcode.com/problems/count-binary-substrings/)
      
         697. Degree of an Array(Easy)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/DegreeOfAnArray_697.java)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/DegreeOfAnArray_697.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/degreeOfAnArray_697.go)      [ref](https://leetcode.com/problems/degree-of-an-array/description/)
 
         700. Search in a Binary Search Tree (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/searchInABinarySearchTree_700.go)      [ref](https://leetcode.com/problems/search-in-a-binary-search-tree/)
