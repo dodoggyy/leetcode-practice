@@ -2,31 +2,33 @@ package medium
 
 // Use DFS:
 // Time Complexity: O(E+V)
-// Space Complexity:O(E+V)
-// Runtime: 20 ms, faster than 100.00%
-// Memory Usage: 6.1 MB, less than 92.41%
+// Space Complexity:O(V)
+// Runtime: 17 ms, faster than 90.41%
+// Memory Usage: 6.9 MB, less than 52.5%
 func isBipartite(graph [][]int) bool {
 	// 0: unknown, 1: red, -1: blue
 	colors := make([]int, len(graph))
 
-	for i := 0; i < len(graph); i++ {
-		if colors[i] == 0 && !dfsBipartite(i, 1, &colors, &graph) {
-			return false
+	var dfs func(curNode, color int) bool
+	dfs = func(curNode, color int) bool {
+		if colors[curNode] != 0 {
+			return colors[curNode] == color
 		}
+		colors[curNode] = color
+		for _, v := range graph[curNode] {
+			if !dfs(v, -color) {
+				return false
+			}
+		}
+		return true
 	}
-	return true
-}
 
-func dfsBipartite(curNode, curColor int, colors *[]int, graph *[][]int) bool {
-	if (*colors)[curNode] != 0 {
-		return (*colors)[curNode] == curColor
-	}
-	(*colors)[curNode] = curColor
-	for _, nextNode := range (*graph)[curNode] {
-		if !dfsBipartite(nextNode, -curColor, colors, graph) {
+	for i := range graph {
+		if colors[i] == 0 && !dfs(i, 1) {
 			return false
 		}
 	}
+
 	return true
 }
 
