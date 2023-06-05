@@ -1090,6 +1090,9 @@ Data Structure
         1207. Unique Number of Occurrences (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/uniqueNumberOfOccurrences_1207.go)      [ref](https://leetcode.com/problems/unique-number-of-occurrences/description/)
 
+        1232. Check If It Is a Straight Line (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/checkIfItIsAStraightLine_1232.go)      [ref](https://leetcode.com/problems/check-if-it-is-a-straight-line/description/)
+
         1239. Maximum Length of a Concatenated String with Unique Characters (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumLengthOfAConcatenatedStringWithUniqueCharacters_1239.go)      [ref](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/)
 
