@@ -447,779 +447,782 @@ Data Structure
      
         226. Invert Binary Tree (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/InvertBinaryTree_226.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/invert_binary_tree_226.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/invertBinaryTree_226.go)      [ref](https://leetcode.com/problems/invert-binary-tree/)
+
+        228. Summary Ranges (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/invertBinaryTree_226.go)      [ref](https://leetcode.com/problems/summary-ranges/description/)
      
-        230. Kth Smallest Element in a BST (Medium)
+        229. Kth Smallest Element in a BST (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/KthSmallestElementInABST_230.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/kthSmallestElementInABST_230.go)      [ref](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
      
-        231. Power of Two (Easy)
+        230. Power of Two (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/PowerofTwo_231.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/power_of_two_231.cc)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/powerOfTwo_231.go)      [ref](https://leetcode.com/problems/power-of-two/)
      
-        232. Implement Queue using Stacks (Easy)
+        231. Implement Queue using Stacks (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ImplementQueueUsingStacks_232.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/implementQueueUsingStacks_232.go)      [ref](https://leetcode.com/problems/implement-queue-using-stacks/)
      
-        234. Palindrome Linked List (Easy)
+        232. Palindrome Linked List (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/PalindromeLinkedList_234.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/palindrome_linked_list_234.cc)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/palindromeLinkedList_234.go)      [ref](https://leetcode.com/problems/palindrome-linked-list/)
      
-        235. Lowest Common Ancestor of a Binary Search Tree (Easy)
+        233. Lowest Common Ancestor of a Binary Search Tree (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/LowestCommonAncestorOfABinarySearchTree_235.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/lowestCommonAncestorOfABinarySearchTree_235.go)      [ref](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
      
-        236. Lowest Common Ancestor of a Binary Tree (Medium)
+        234. Lowest Common Ancestor of a Binary Tree (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/LowestCommonAncestorOfABinaryTree_236.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/lowestCommonAncestorOfABinaryTree_236.go)     [ref](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
      
-        237. Delete Node in a Linked List (Easy)
+        235. Delete Node in a Linked List (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/DeleteNodeInALinkedList_237.java)
      
-        238. Product of Array Except Self (Medium)
+        236. Product of Array Except Self (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/ProductOfArrayExceptSelf_238.java)      [C](https://github.com/dodoggyy/leetcode-practice/blob/master/C_src/Medium/238_Product_of_Array_Except_Self/ProductOfArrayExceptSelf_238.c)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/product_of_array_except_self_238.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/productOfArrayExceptSelf_238.go)      [ref](https://leetcode.com/problems/product-of-array-except-self/)
 
-        241. Different Ways to Add Parentheses (Medium)
+        237. Different Ways to Add Parentheses (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/differentWaysToAddParentheses_241.go)      [ref](https://leetcode.com/problems/different-ways-to-add-parentheses/)
      
-        240. Search a 2D Matrix II (Medium)
+        238. Search a 2D Matrix II (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/Searcha2DMatrixII_240.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/search_a_2D_matrix_II_240.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/searchA2DMatrixII_240.go)      [ref](https://leetcode.com/problems/search-a-2d-matrix-ii/)
      
-        242. Valid Anagram (Easy)
+        239. Valid Anagram (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ValidAnagram_242.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/valid_anagram_242.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/validAnagram_242.go)      [ref](https://leetcode.com/problems/valid-anagram/)
 
-        245. Shortest Word Distance III (Medium)
+        240. Shortest Word Distance III (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/shortestWordDistanceIII_245.go)      [ref](https://leetcode.com/problems/shortest-word-distance-iii/description/)
 
-        252. Meeting Rooms (Easy)
+        241. Meeting Rooms (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/meetingRooms_252.go)      [ref](https://leetcode.com/problems/meeting-rooms/)
      
-        257. Binary Tree Paths (Easy)
+        242. Binary Tree Paths (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/BinaryTreePaths_257.java)
      
-        258. Add Digits (Easy)
+        243. Add Digits (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/AddDigits_258.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/addDigits_258.go)      [ref](https://leetcode.com/problems/add-digits/)
      
-        260. Single Number III (Medium)
+        244. Single Number III (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/SingleNumberIII_260.java)      [C](https://github.com/dodoggyy/leetcode-practice/blob/master/C_src/Easy/260_Single_Number_III/SingleNumberIII_260.c)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/single_number_III_260.cc)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/singleNumberIII_260.go)      [ref](https://leetcode.com/problems/single-number-iii/)
      
-        263. Ugly Number (Easy)
+        245. Ugly Number (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/UglyNumber_263.java)
      
-        266. Palindrome Permutation (Easy)
+        246. Palindrome Permutation (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/palindromePermutation_266.go)      [ref](https://leetcode.com/problems/palindrome-permutation/)
 
-        268. Missing Number (Easy)
+        247. Missing Number (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/MissingNumber_268.java)      [C](https://github.com/dodoggyy/leetcode-practice/blob/master/C_src/Easy/268_Missing_Number/MissingNumber_268.c)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/missing_number_268.cc)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/missingNumber_268.go)      [ref](https://leetcode.com/problems/missing-number/)
      
-        278. First Bad Version (Easy)
+        248. First Bad Version (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/FirstBadVersion_278.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/firstBadVersion_278.go)      [ref](https://leetcode.com/problems/first-bad-version/)
      
-        279. Perfect Squares (Medium)
+        249. Perfect Squares (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/PerfectSquares_279.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/perfectSquares_279.go)      [ref](https://leetcode.com/problems/perfect-squares/)
      
-        283. Move Zeroes (Easy)
+        250. Move Zeroes (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/MoveZeroes_283.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/move_zeroes_283.cc)      [ref](https://leetcode.com/problems/move-zeroes/)
      
-        287. Find the Duplicate Number (Medium)
+        251. Find the Duplicate Number (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/FindTheDuplicateNumber_287.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findTheDuplicateNumber_287.go)      [ref](https://leetcode.com/problems/find-the-duplicate-number/)
 
-        289. Game of Life (Medium)
+        252. Game of Life (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/gameOfLife_289.go)      [ref](https://leetcode.com/problems/game-of-life/)
      
-        292. Nim Game (Easy)
+        253. Nim Game (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NimGame_292.java)
      
-        297. Serialize and Deserialize Binary Tree (Hard)
+        254. Serialize and Deserialize Binary Tree (Hard)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/hard/SerializeAndDeserializeBinaryTree_297.java)
      
-        300. Longest Increasing Subsequence (Medium)
+        255. Longest Increasing Subsequence (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/LongestIncreasingSubsequence_300.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/longestIncreasingSubsequence_300.go)      [ref](https://leetcode.com/problems/longest-increasing-subsequence/)
      
-        303. Range Sum Query - Immutable (Easy)
+        256. Range Sum Query - Immutable (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/RangeSumQuery_303.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/rangeSumQueryImmutable_303.go)      [ref](https://leetcode.com/problems/range-sum-query-immutable/)
      
-        318. Maximum Product of Word Lengths (Medium)
+        257. Maximum Product of Word Lengths (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/MaximumProductofWordLengths_318.java)      [C](https://github.com/dodoggyy/leetcode-practice/blob/master/C_src/Medium/318_Maximum_Product_of_Word_Lengths/MaximumProductofWordLengths_318.c)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/maximum_product_of_word_lengths_318.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumProductOfWordLengths_318.go)      [ref](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 
-        322. Coin Change (Medium)
+        258. Coin Change (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/oddEvenLinkedList_328.go)      [ref](https://leetcode.com/problems/coin-change/)
      
-        326. Power of Three (Easy)
+        259. Power of Three (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/Easy/PowerOfThree_326.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/powerOfThree_326.go)      [ref](https://leetcode.com/problems/path-sum-iii/)
      
-        328. Odd Even Linked List (Medium)
+        260. Odd Even Linked List (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/OddEvenLinkedList_328.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/oddEvenLinkedList_328.go)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/odd_even_linked_list_328.cc)      [ref](https://leetcode.com/problems/odd-even-linked-list/)
 
-        334. Increasing Triplet Subsequence (Medium)
+        261. Increasing Triplet Subsequence (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/increasingTripletSubsequence_334.go)      [ref](https://leetcode.com/problems/increasing-triplet-subsequence/)
      
-        337. House Robber III (Medium)
+        262. House Robber III (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/HouseRobberIII_337.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/houseRobberIII_337.go)      [ref](https://leetcode.com/problems/house-robber-iii/)
      
-        338. Counting Bits (Medium)
+        263. Counting Bits (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/CountingBits_338.java)      [C](https://github.com/dodoggyy/leetcode-practice/blob/master/C_src/Medium/338_Counting_Bits/CountingBits_338.c)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/counting_bits_338.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/countingBits_338.go)      [ref](https://leetcode.com/problems/counting-bits/)
      
-        342. Power of Four (Easy)
+        264. Power of Four (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/PowerofFour_342.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/power_of_four_342.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/powerOfFour_342.go)      [ref](https://leetcode.com/problems/power-of-four/)
      
-        343. Integer Break (Medium)
+        265. Integer Break (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/IntegerBreak_343.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/integerBreak_343.go)      [ref](https://leetcode.com/problems/integer-break/)
      
-        344. Reverse String (Easy)
+        266. Reverse String (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ReverseString_344.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/reverse_string_344.cc)      [ref](https://leetcode.com/problems/reverse-string/)
 
-        345. Reverse Vowels of a String (Easy)
+        267. Reverse Vowels of a String (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ReverseVowelsOfAString_345.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/reverseVowelsOfAString_345.go)      [ref](https://leetcode.com/problems/reverse-vowels-of-a-string/)
      
-        347. Top K Frequent Elements (Medium)
+        268. Top K Frequent Elements (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/TopKFrequentElements_347.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/topKFrequentElements_347.go)      [ref](https://leetcode.com/problems/top-k-frequent-elements/)
      
-        349. Intersection of Two Arrays (Easy)
+        269. Intersection of Two Arrays (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/IntersectionOfTwoArrays_349.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/intersectionOfTwoArrays_349.go)      [ref](https://leetcode.com/problems/intersection-of-two-arrays/)
      
-        350. Intersection of Two Arrays II (Easy)
+        270. Intersection of Two Arrays II (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/IntersectionOfTwoArraysII_350.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/intersectionOfTwoArraysII_350.go)      [ref](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
      
-        367. Valid Perfect Square (Easy)
+        271. Valid Perfect Square (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ValidPerfectSquare_367.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/valid_perfect_square_367.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/validPerfectSquare_367.go)      [ref](https://leetcode.com/problems/valid-perfect-square/)
      
-        371. Sum of Two Integers (Medium)
+        272. Sum of Two Integers (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/SumofTwoIntegers_371.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/sum_of_two_integers_371.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/sumOfTwoIntegers_371.go)      [ref](https://leetcode.com/problems/sum-of-two-integers/)
      
-        374. Guess Number Higher or Lower (Easy)
+        273. Guess Number Higher or Lower (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/GuessNumberHigherOrLower_374.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/guessNumberHigherOrLower_374.go)      [ref](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
 
-        376. Wiggle Subsequence (Medium)
+        274. Wiggle Subsequence (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/wiggleSubsequence_376.go)      [ref](https://leetcode.com/problems/wiggle-subsequence/)
 
-        377. Combination Sum IV (Medium)
+        275. Combination Sum IV (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/combinationSumIV_377.go)      [ref](https://leetcode.com/problems/combination-sum-iv/)
      
-        378. Kth Smallest Element in a Sorted Matrix (Medium)
+        276. Kth Smallest Element in a Sorted Matrix (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/KthSmallestElementinaSortedMatrix_378.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/kthSmallestElementInASortedMatrix_378.go)      [ref](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
      
-        383. Ransom Note (Easy)
+        277. Ransom Note (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/RansomNote_383.java)
 
-        384. Shuffle an Array (Medium)
+        278. Shuffle an Array (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/shuffleAnArray_384.go)      [ref](https://leetcode.com/problems/shuffle-an-array/)
      
-        387. First Unique Character in a String (Easy)
+        279. First Unique Character in a String (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/FirstUniqueCharacterInAString_387.java)
      
-        389. Find the Difference (Easy)
+        280. Find the Difference (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/FindTheDifference_389.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findTheDifference_389.go)      [ref](https://leetcode.com/problems/find-the-difference/)
 
-        392. Is Subsequence (Easy)
+        281. Is Subsequence (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/isSubsequence_392.go)      [ref](https://leetcode.com/problems/is-subsequence/)
 
-        393. UTF-8 Validation (Medium)
+        282. UTF-8 Validation (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/utf8Validation_393.go)      [ref](https://leetcode.com/problems/utf-8-validation/)
 
-        394. Decode String (Medium)
+        283. Decode String (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/decodeString_394.go)      [ref](https://leetcode.com/problems/decode-string/)
      
-        400. Nth Digit (Easy)
+        284. Nth Digit (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NthDigit_400.java)
      
-        401. Binary Watch (Easy)
+        285. Binary Watch (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/BinaryWatch_401.java)
      
-        404. Sum of Left Leaves (Easy)
+        286. Sum of Left Leaves (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/SumOfLeftLeaves_404.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/sumOfLeftLeaves_404.go)      [ref](https://leetcode.com/problems/sum-of-left-leaves/)
      
-        405. Convert a Number to Hexadecimal (Easy)
+        287. Convert a Number to Hexadecimal (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ConvertANumberToHexadecimal_405.java)      [C](https://github.com/dodoggyy/leetcode-practice/blob/master/C_src/Easy/405_Convert_a_Number_to_Hexadecimal/ConvertaNumberToHexadecimal_405.c)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/convert_a_number_to_hexadecimal_405.cc)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/convertANumberToHexadecimal_405.go)      [ref](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
 
-        406. Queue Reconstruction by Height (Medium)
+        288. Queue Reconstruction by Height (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/queueReconstructionByHeight_406.go)      [ref](https://leetcode.com/problems/queue-reconstruction-by-height/)
      
-        409. Longest Palindrome (Easy)
+        289. Longest Palindrome (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/LongestPalindrome_409.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/longest_palindrome_409.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/longestPalindrome_409.go)      [ref](https://leetcode.com/problems/longest-palindrome/)
      
-        412. Fizz Buzz (Easy)
+        290. Fizz Buzz (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/FizzBuzz_412.java)      [ref](https://leetcode.com/problems/path-sum-iii/)
      
-        413. Arithmetic Slices (Medium)
+        291. Arithmetic Slices (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/ArithmeticSlices_413.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/arithmeticSlices_413.go)      [ref](https://leetcode.com/problems/arithmetic-slices/)
      
-        415. Add Strings (Easy)
+        292. Add Strings (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/AddStrings_415.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/addStrings_415.go)      [ref](https://leetcode.com/problems/add-strings/)
 
-        416. Partition Equal Subset Sum (Medium)
+        293. Partition Equal Subset Sum (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/partitionEqualSubsetSum_416.go)      [ref](https://leetcode.com/problems/partition-equal-subset-sum/)
      
-        429. N-ary Tree Level Order Traversal (Medium)
+        294. N-ary Tree Level Order Traversal (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NaryTreeLevelOrderTraversal_429.java)    [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/naryTreeLevelOrderTraversal_429.go)      [ref](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
      
-        434. Number of Segments in a String (Easy)
+        295. Number of Segments in a String (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NumberOfSegmentsInAString_434.java)
      
-        435. Non-overlapping Intervals (Medium)
+        296. Non-overlapping Intervals (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/NonOverlappingIntervals_435.java)    [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/NonOverlappingIntervals_435.go)      [ref](https://leetcode.com/problems/non-overlapping-intervals/)
      
-        437. Path Sum III (Medium)
+        297. Path Sum III (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/PathSumIII_437.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/pathSumIII_437.go)      [ref](https://leetcode.com/problems/path-sum-iii/)
      
-        438. Find All Anagrams in a String (Easy)
+        298. Find All Anagrams in a String (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/FindAllAnagramsInAString_438.java)
      
-        441. Arranging Coins (Easy)
+        299. Arranging Coins (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ArrangingCoins_441.java)
      
-        443. String Compression (Easy)
+        300. String Compression (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/StringCompression_443.java)
      
-        445. Add Two Numbers II (Medium)
+        301. Add Two Numbers II (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/AddTwoNumbersII_445.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/add_two_numbers_II_445.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/addTwoNumbersII_445.go)      [ref](https://leetcode.com/problems/add-two-numbers-ii/)
      
-        448. Find All Numbers Disappeared in an Array (Easy)
+        302. Find All Numbers Disappeared in an Array (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/FindAllNumbersDisappearedInAnArray_448.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/find_all_numbers_disappeared_in_an_array_448.cc)      [ref](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
      
-        449. Serialize and Deserialize BST (Medium)
+        303. Serialize and Deserialize BST (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/SerializeAndDeserializeBST_449.java)
      
-        451. Sort Characters By Frequency (Medium)
+        304. Sort Characters By Frequency (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/SortCharactersByFrequency_451.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/sortCharactersByFrequency_451.go)      [ref](https://leetcode.com/problems/sort-characters-by-frequency/)
 
-        452. Minimum Number of Arrows to Burst Balloons (Medium)
+        305. Minimum Number of Arrows to Burst Balloons (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumNumberOfArrowsToBurstBalloons_452.go)      [ref](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 
-        454. 4Sum II (Medium)
+        306. 4Sum II (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/4SumII_454.go)      [ref](https://leetcode.com/problems/4sum-ii/)
      
-        455. Assign Cookies (Easy)
+        307. Assign Cookies (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/AssignCookies_455.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/assignCookies_455.go)      [ref](https://leetcode.com/problems/assign-cookies/)
      
-        459. Repeated Substring Pattern (Easy)
+        308. Repeated Substring Pattern (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/RepeatedSubstringPattern_459.java)
      
-        461. Hamming Distance (Easy)
+        309. Hamming Distance (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/HammingDistance_461.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/hamming_distance_461.cc)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/hammingDistance_461.go)      [ref](https://leetcode.com/problems/hamming-distance/)
 
-        462. Minimum Moves to Equal Array Elements II (Medium)
+        310. Minimum Moves to Equal Array Elements II (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumMovesToEqualArrayElementsII_462.go)      [ref](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
      
-        463. Island Perimeter (Easy)
+        311. Island Perimeter (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/IslandPerimeter_463.java)
 
-        470. Implement Rand10() Using Rand7() (Medium)
+        312. Implement Rand10() Using Rand7() (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/implementRand10UsingRand7_470.go)      [ref](https://leetcode.com/problems/implement-rand10-using-rand7/)
 
-        473. Matchsticks to Square (Medium)
+        313. Matchsticks to Square (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/matchsticksToSquare_473.go)      [ref](https://leetcode.com/problems/matchsticks-to-square/)
      
-        475. Heaters (Easy)
+        314. Heaters (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/Heaters_475.java)
      
-        476. Number Complement (Easy)
+        315. Number Complement (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NumberComplement_476.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/number_complement_476.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/numberComplement_476.go)      [ref](https://leetcode.com/problems/number-complement/)
      
-        482. License Key Formatting (Easy)
+        316. License Key Formatting (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/LicenseKeyFormatting_482.java)
      
-        485. Max Consecutive Ones (Easy)
+        317. Max Consecutive Ones (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/MaxConsecutiveOnes_485.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/max_consecutive_ones_485.cc)      [ref](https://leetcode.com/problems/max-consecutive-ones/)
      
-        492. Construct the Rectangle (Easy)
+        318. Construct the Rectangle (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ConstructTheRectangle_492.java)
      
-        496. Next Greater Element I (Easy)
+        319. Next Greater Element I (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NextGreaterElementI_496.java)
      
-        500. Keyboard Row (Easy)
+        320. Keyboard Row (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/KeyboardRow_500.java)
      
-        501. Find Mode in Binary Search Tree (Easy)
+        321. Find Mode in Binary Search Tree (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/FindModeInBinarySearchTree_501.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findModeInBinarySearchTree_501.go)      [ref](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
      
-        503. Next Greater Element II (Medium)
+        322. Next Greater Element II (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/NextGreaterElementII_503.java)
      
-        504. Base 7 (Easy)
+        323. Base 7 (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/Base7_504.java)      [C](https://github.com/dodoggyy/leetcode-practice/blob/master/C_src/Easy/504_Base_7/Base_7_504.c)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/base_7_504.cc)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/base7_504.go)      [ref](https://leetcode.com/problems/base-7/)
      
-        506. Relative Ranks (Easy)
+        324. Relative Ranks (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/RelativeRanks_506.java)
      
-        507. Perfect Number (Easy)
+        325. Perfect Number (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/PerfectNumber_507.java)
      
-        509. Fibonacci Number (Easy)
+        326. Fibonacci Number (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/FibonacciNumber_509.java)
      
-        513. Find Bottom Left Tree Value (Medium)
+        327. Find Bottom Left Tree Value (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/FindBottomLeftTreeValue_513.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findBottomLeftTreeValue_513.go)      [ref](https://leetcode.com/problems/find-bottom-left-tree-value/)
 
-        518. Coin Change 2 (Medium)
+        328. Coin Change 2 (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/coinChange2_518.go)      [ref](https://leetcode.com/problems/coin-change-2/)
      
-        520. Detect Capital (Easy)
+        329. Detect Capital (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/DetectCapital_520.java)
      
-        521. Longest Uncommon Subsequence I (Easy)
+        330. Longest Uncommon Subsequence I (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/LongestUncommonSubsequenceI_521.java)
 
-        523. Continuous Subarray Sum (Medium)
+        331. Continuous Subarray Sum (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/continuousSubarraySum_523.go)      [ref](https://leetcode.com/problems/continuous-subarray-sum/description/)
 
-        524. Longest Word in Dictionary through Deleting (Medium)
+        332. Longest Word in Dictionary through Deleting (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/LongestWordinDictionarythroughDeleting_524.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/LongestWordInDictionaryThroughDeleting_524.go)      [ref](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
      
-        530. Minimum Absolute Difference in BST (Easy)
+        333. Minimum Absolute Difference in BST (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/MinimumAbsoluteDifferenceInBST_530.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/minimumAbsoluteDifferenceInBST_530.go)      [ref](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
      
-        532. K-diff Pairs in an Array (Easy)
+        334. K-diff Pairs in an Array (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/KDiffPairsInAnArray_532.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/kDiffPairsInAnArray_532.go)      [ref](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
      
-        538. Convert BST to Greater Tree (Medium)
+        335. Convert BST to Greater Tree (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ConvertBSTtoGreaterTree_538.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/convertBSTToGreaterTree_538.go)      [ref](https://leetcode.com/problems/power-of-two/)
 
-        540. Single Element in a Sorted Array (Medium)
+        336. Single Element in a Sorted Array (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/SingleElementInASortedArray_540.java)      [ref](https://leetcode.com/problems/single-element-in-a-sorted-array/)
      
-        541. Reverse String II (Easy)
+        337. Reverse String II (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ReverseStringII_541.java)
 
-        542. 01 Matrix (Medium)
+        338. 01 Matrix (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/zeroOneMatrix_542.go)      [ref](https://leetcode.com/problems/01-matrix/)
      
-        543. Diameter of Binary Tree (Easy)
+        339. Diameter of Binary Tree (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/DiameterofBinaryTree_543.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/diameterOfBinaryTree_543.go)      [ref](https://leetcode.com/problems/diameter-of-binary-tree/)
      
-        551. Student Attendance Record I (Easy)
+        340. Student Attendance Record I (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/StudentAttendanceRecordI_551.java)
      
-        557. Reverse Words in a String III (Easy)
+        341. Reverse Words in a String III (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ReverseWordsInAStringIII_557.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/reverseWordsInAString_557.go)      [ref](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
      
-        558. Quad Tree Intersection (Easy)
+        342. Quad Tree Intersection (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/QuadTreeIntersection_558.java)
      
-        559. Maximum Depth of N-ary Tree (Easy)
+        343. Maximum Depth of N-ary Tree (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/MaximumDepthOfNAryTree_559.java)
 
-        560. Subarray Sum Equals K (Medium)
+        344. Subarray Sum Equals K (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/subarraySumEqualsK_560.go)      [ref](https://leetcode.com/problems/subarray-sum-equals-k/)
      
-        561. Array Partition I (Easy)
+        345. Array Partition I (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ArrayPartitionI_561.java)
      
-        563. Binary Tree Tilt (Easy)
+        346. Binary Tree Tilt (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/BinaryTreeTilt_563.java)
      
-        566. Reshape the Matrix (Easy)
+        347. Reshape the Matrix (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ReshapeTheMatrix_566.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/reshape_the_matrix_566.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/reshapeTheMatrix_566.go)      [ref](https://leetcode.com/problems/reshape-the-matrix/)
      
-        572. Subtree of Another Tree (Easy)
+        348. Subtree of Another Tree (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/SubtreeOfAnotherTree_572.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/subtreeOfAnotherTree_572.go)      [ref](https://leetcode.com/problems/subtree-of-another-tree/)
      
-        575. Distribute Candies (Easy)
+        349. Distribute Candies (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/DistributeCandies_575.java)
      
-        581. Shortest Unsorted Continuous Subarray (Easy)
+        350. Shortest Unsorted Continuous Subarray (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ShortestUnsortedContinuousSubarray_581.java)
 
-        583. Delete Operation for Two Strings (Medium)
+        351. Delete Operation for Two Strings (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/deleteOperationForTwoStrings_583.go)      [ref](https://leetcode.com/problems/delete-operation-for-two-strings/submissions/)
      
-        589. N-ary Tree Preorder Traversal (Easy)
+        352. N-ary Tree Preorder Traversal (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NaryTreePreorderTraversal_589.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/nAryTreePreorderTraversal_589.go)      [ref](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)
      
-        590. N-ary Tree Postorder Traversal (Easy)
+        353. N-ary Tree Postorder Traversal (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NaryTreePostorderTraversal_590.java)
      
-        594. Longest Harmonious Subsequence (Easy)
+        354. Longest Harmonious Subsequence (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/LongestHarmoniousSubsequence_594.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/longestHarmoniousSubsequence_594.go)      [ref](https://leetcode.com/problems/longest-harmonious-subsequence/)
      
-        595. Big Countries (Easy)
+        355. Big Countries (Easy)
      [mysql](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/BigCountries_595.sql)      [ref](https://leetcode.com/problems/big-countries/)
 
-        596. Classes More Than 5 Students (Easy)
+        356. Classes More Than 5 Students (Easy)
      [mysql](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ClassesMoreThan5Students_596.sql)      [ref](https://leetcode.com/problems/classes-more-than-5-students/)
      
-        598. Range Addition II (Easy)
+        357. Range Addition II (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/RangeAdditionII_598.java)
      
-        599. Minimum Index Sum of Two Lists (Easy)
+        358. Minimum Index Sum of Two Lists (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/MinimumIndexSumOfTwoLists_599.java)
      
-        605. Can Place Flowers (Easy)
+        359. Can Place Flowers (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/CanPlaceFlowers_605.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/canPlaceFlowers_605.go)      [ref](https://leetcode.com/problems/can-place-flowers/)
      
-        606. Construct String from Binary Tree (Easy)
+        360. Construct String from Binary Tree (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ConstructStringFromBinaryTree_606.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/constructStringFromBinaryTree_606.go)      [ref](https://leetcode.com/problems/construct-string-from-binary-tree/)
      
-        617. Merge Two Binary Trees (Easy)
+        361. Merge Two Binary Trees (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/MergeTwoBinaryTrees_617.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/mergeTwoBinaryTrees_617.go)      [ref](https://leetcode.com/problems/merge-two-binary-trees/)
 
-        620. Not Boring Movies (Easy)
+        362. Not Boring Movies (Easy)
      [mysql](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NotBoringMovies_620.sql)      [ref](https://leetcode.com/problems/not-boring-movies/)
      
-        622. Design Circular Queue (Medium)
+        363. Design Circular Queue (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/DesignCircularQueue_622.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/designCircularQueue_622.go)      [ref](https://leetcode.com/problems/design-circular-queue/)
 
-        623. Add One Row to Tree (Medium)
+        364. Add One Row to Tree (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/addOneRowToTree_623.go)      [ref](https://leetcode.com/problems/add-one-row-to-tree/description/)
      
-        627.   Swap Salary (Easy)
+        365.   Swap Salary (Easy)
      [mysql](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/SwapSalary_627.sql)      [ref](https://leetcode.com/problems/swap-salary/)
      
-        628.   Maximum Product of Three Numbers (Easy)
+        366.   Maximum Product of Three Numbers (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/MajorityElement_169.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/maximum_product_of_three_numbers_628.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/maximumProductOfThreeNumbers_628.go)      [ref](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 
-        633. Sum of Square Numbers (Easy)
+        367. Sum of Square Numbers (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/SumOfSquareNumbers_633.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/sumOfSquareNumbers_633.go)      [ref](https://leetcode.com/problems/sum-of-square-numbers/)
      
-        637. Average of Levels in Binary Tree (Easy)
+        368. Average of Levels in Binary Tree (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/AverageOfLevelsInBinaryTree_637.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/averageOfLevelsInBinaryTree_637.go)      [ref](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
      
-        643. Maximum Average Subarray I (Easy)
+        369. Maximum Average Subarray I (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/setMismatch_645.go)      [ref](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 
-        645. Set Mismatch (Easy)
+        370. Set Mismatch (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/SetMismatch_645.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/setMismatch_645.go)      [ref](https://leetcode.com/problems/set-mismatch/)
      
-        647. Palindromic Substrings (Medium)
+        371. Palindromic Substrings (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/PalindromicSubstrings_647.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/palindromic_substrings_647.cc)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/palindromicSubstrings_647.go)      [ref](https://leetcode.com/problems/palindromic-substrings/)
 
-        649. Dota2 Senate (Medium)
+        372. Dota2 Senate (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/dota2Senate_649.go)      [ref](https://leetcode.com/problems/dota2-senate/description/)
 
-        653. Two Sum IV - Input is a BST (Easy)
+        373. Two Sum IV - Input is a BST (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/twoSumIV_653.go)      [ref](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 
-        662. Maximum Width of Binary Tree (Medium)
+        374. Maximum Width of Binary Tree (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumWidthOfBinaryTree_662.go)      [ref](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 
-        662. Non-decreasing Array (Easy)
+        375. Non-decreasing Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/maximumWidthOfBinaryTree_662.go)      [ref](https://leetcode.com/problems/non-decreasing-array/)
      
-        669. Trim a Binary Search Tree (Easy)
+        376. Trim a Binary Search Tree (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/TrimABinarySearchTree_669.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/trimABinarySearchTree_669.go)      [ref](https://leetcode.com/problems/trim-a-binary-search-tree/)
      
-        671. Second Minimum Node In a Binary Tree (Easy)
+        377. Second Minimum Node In a Binary Tree (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/SecondMinimumNodeInABinaryTree_671.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/secondMinimumNodeInABinaryTree_671.go)      [ref](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
 
-        677. Map Sum Pairs (Medium)
+        378. Map Sum Pairs (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/mapSumPairs_677.go)      [ref](https://leetcode.com/problems/map-sum-pairs/)
 
-        680. Valid Palindrome II (Easy)
+        379. Valid Palindrome II (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ValidPalindromeII_680.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/validPalindromeII_680.go)      [ref](https://leetcode.com/problems/valid-palindrome-ii/)
 
-        682. Baseball Game (Easy)
+        380. Baseball Game (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/baseballGame_682.go)      [ref](https://leetcode.com/problems/baseball-game/)
 
-        684. Redundant Connection (Medium)
+        381. Redundant Connection (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/redundantConnection_684.go)      [ref](https://leetcode.com/problems/redundant-connection/)
      
-        687. Longest Univalue Path (Medium)
+        382. Longest Univalue Path (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/LongestUnivaluePath_687.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/longestUnivaluePath_687.go)      [ref](https://leetcode.com/problems/longest-univalue-path/)
 
-        692. Top K Frequent Words (Medium)
+        383. Top K Frequent Words (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/topKFrequentWords_692.go)      [ref](https://leetcode.com/problems/top-k-frequent-words/)
      
-        693. Binary Number with Alternating Bits (Easy)
+        384. Binary Number with Alternating Bits (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/BinaryNumberwithAlternatingBits_693.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/binary_number_with_alternating_bits_693.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/binaryNumberWithAlternatingBits_693.go)      [ref](https://leetcode.com/problems/binary-number-with-alternating-bits/)
 
-        695. Max Area of Island (Medium)
+        385. Max Area of Island (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maxAreaOfIsland_695.go)      [ref](https://leetcode.com/problems/max-area-of-island/)
      
-        696. Count Binary Substrings (Easy)
+        386. Count Binary Substrings (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/CountBinarySubstrings_696.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/count_binary_substrings_696.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/countBinarySubstrings_696.go)      [ref](https://leetcode.com/problems/count-binary-substrings/)
      
-        697. Degree of an Array(Easy)
+        387. Degree of an Array(Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/DegreeOfAnArray_697.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/degreeOfAnArray_697.go)      [ref](https://leetcode.com/problems/degree-of-an-array/description/)
 
-        700. Search in a Binary Search Tree (Easy)
+        388. Search in a Binary Search Tree (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/searchInABinarySearchTree_700.go)      [ref](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 
-        703. Kth Largest Element in a Stream (Easy)
+        389. Kth Largest Element in a Stream (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/kthLargestElementInAStream_703.go)      [ref](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 
-        704. Binary Search (Easy)
+        390. Binary Search (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/BinarySearch_704.java)
      
-        705. Design HashSet (Easy)
+        391. Design HashSet (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/DesignHashSet_705.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/designHashSet_705.go)      [ref](https://leetcode.com/problems/design-hashset/)
 
-        706. Design HashMap (Easy)
+        392. Design HashMap (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/designHashMap_706.go)      [ref](https://leetcode.com/problems/design-hashmap/)
      
-        707. Design Linked List (Easy)
+        393. Design Linked List (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/DesignLinkedList_707.java)
 
-        724. Find Pivot Index (Easy)
+        394. Find Pivot Index (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findPivotIndex_724.go)      [ref](https://leetcode.com/problems/find-pivot-index/description/)
      
-        725. Split Linked List in Parts (Medium)
+        395. Split Linked List in Parts (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/SplitLinkedListInParts_725.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/split_linked_list_in_parts_725.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/splitLinkedListInParts_725.go)      [ref](https://leetcode.com/problems/split-linked-list-in-parts/)
 
-        729. My Calendar I (Medium)
+        396. My Calendar I (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/myCalendarI_729.go)      [ref](https://leetcode.com/problems/my-calendar-i/description/)
 
-        733. Flood Fill (Easy)
+        397. Flood Fill (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/floodFill_733.go)      [ref](https://leetcode.com/problems/flood-fill/description/)
      
-        739. Daily Temperatures (Medium)
+        398. Daily Temperatures (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/DailyTemperatures_739.java)
 
-        744. Find Smallest Letter Greater Than Target (Easy)
+        399. Find Smallest Letter Greater Than Target (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/FindSmallestLetterGreaterThanTarget_744.java)      [ref](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 
-        746. Min Cost Climbing Stairs (Easy)
+        400. Min Cost Climbing Stairs (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/minCostClimbingStairs_746.go)      [ref](https://leetcode.com/problems/min-cost-climbing-stairs/)
 
-        760. Find Anagram Mappings (Easy)
+        401. Find Anagram Mappings (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findAnagramMappings_760.go)      [ref](https://leetcode.com/problems/find-anagram-mappings/description/)
 
-        763. Partition Labels (Medium)
+        402. Partition Labels (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/partitionLabels_763.go)      [ref](https://leetcode.com/problems/partition-labels/)
 
-        785. Is Graph Bipartite? (Medium)
+        403. Is Graph Bipartite? (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/isGraphBipartite_785.go)      [ref](https://leetcode.com/problems/is-graph-bipartite/)
 
-        814. Binary Tree Pruning (Medium)
+        404. Binary Tree Pruning (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/binaryTreePruning_814.go)      [ref](https://leetcode.com/problems/binary-tree-pruning/submissions/)
 
-        838. Push Dominoes (Medium)
+        405. Push Dominoes (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/pushDominoes_838.go)      [ref](https://leetcode.com/problems/push-dominoes/)
 
-        844. Backspace String Compare (Easy)
+        406. Backspace String Compare (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/backspaceStringCompare_844.go)      [ref](https://leetcode.com/problems/backspace-string-compare/description/?envType=study-plan&id=level-1)
 
-        872. Leaf-Similar Trees (Easy)
+        407. Leaf-Similar Trees (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/leafSimilarTrees_872.go)      [ref](https://leetcode.com/problems/leaf-similar-trees/description/)
 
-        876. Possible Bipartition (Easy)
+        408. Possible Bipartition (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/middleOfTheLinkedList_876.go)      [ref](https://leetcode.com/problems/middle-of-the-linked-list/)
 
-        881. Boats to Save People (Medium)
+        409. Boats to Save People (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/boatsToSavePeople_881.go)      [ref](https://leetcode.com/problems/boats-to-save-people/)
 
-        886. Possible Bipartition (Medium)
+        410. Possible Bipartition (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/possibleBipartition_886.go)      [ref](https://leetcode.com/problems/possible-bipartition/)
 
-        889. Construct Binary Tree from Preorder and Postorder Traversal (Medium)
+        411. Construct Binary Tree from Preorder and Postorder Traversal (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/constructBinaryTreeFromPreorderAndPostorderTraversal_889.go)      [ref](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
 
-        890. Find and Replace Pattern (Medium)
+        412. Find and Replace Pattern (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findAndReplacePattern_890.go)      [ref](https://leetcode.com/problems/find-and-replace-pattern/)
 
-        897. Increasing Order Search Tree (Easy)
+        413. Increasing Order Search Tree (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/increasingOrderSearchTree_897.go)      [ref](https://leetcode.com/problems/increasing-order-search-tree/)
 
-        904. Fruit Into Baskets (Medium)
+        414. Fruit Into Baskets (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/fruitIntoBaskets_904.go)      [ref](https://leetcode.com/problems/fruit-into-baskets/description/)
 
-        912. Sort an Array (Medium)
+        415. Sort an Array (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/sortAnArray_912.go)      [ref](https://leetcode.com/problems/sort-an-array/)
 
-        914. X of a Kind in a Deck of Cards (Easy)
+        416. X of a Kind in a Deck of Cards (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/xOfAKindInADeckOfCards_914.go)      [ref](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/)
 
-        918. Maximum Sum Circular Subarray (Medium)
+        417. Maximum Sum Circular Subarray (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumSumCircularSubarray_918.go)      [ref](https://leetcode.com/problems/maximum-sum-circular-subarray/description/)
 
-        923. 3Sum With Multiplicity (Medium)
+        418. 3Sum With Multiplicity (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/3SumWithMultiplicity_923.go)      [ref](https://leetcode.com/problems/3sum-with-multiplicity/)
 
-        946. Validate Stack Sequences (Medium)
+        419. Validate Stack Sequences (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/validateStackSequences_946.go)      [ref](https://leetcode.com/problems/validate-stack-sequences/description/)
 
-        948. Bag of Tokens (Medium)
+        420. Bag of Tokens (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/bagOfTokens_948.go)      [ref](https://leetcode.com/problems/bag-of-tokens/)
 
-        958. Check Completeness of a Binary Tree (Medium)
+        421. Check Completeness of a Binary Tree (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/checkCompletenessOfABinaryTree_958.go)      [ref](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
 
-        973. K Closest Points to Origin (Medium)
+        422. K Closest Points to Origin (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/kClosetPointsToOrigin_973.go)      [ref](https://leetcode.com/problems/k-closest-points-to-origin/)
 
-        976. Largest Perimeter Triangle (Easy)
+        423. Largest Perimeter Triangle (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/largestPerimeterTriangle_976.go)      [ref](https://leetcode.com/problems/largest-perimeter-triangle/description/)
 
-        977. Squares of a Sorted Array (Easy)
+        424. Squares of a Sorted Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/squaresOfASortedArray_977.go)      [ref](https://leetcode.com/problems/squares-of-a-sorted-array/)
      
-        983. Minimum Cost For Tickets (Medium)
+        425. Minimum Cost For Tickets (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/MinimumCostForTickets_983.java)
 
-        985. Sum of Even Numbers After Queries (Medium)
+        426. Sum of Even Numbers After Queries (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/sumOfEvenNumbersAfterQueries_985.go)      [ref](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
 
-        991. Broken Calculator (Medium)
+        427. Broken Calculator (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/brokenCalculator_991.go)      [ref](https://leetcode.com/problems/broken-calculator/)
 
-        994. Rotting Oranges (Medium)
+        428. Rotting Oranges (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/rottingOranges_994.go)      [ref](https://leetcode.com/problems/rotting-oranges/)
 
-        997. Find the Town Judge (Easy)
+        429. Find the Town Judge (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findTheTownJudge_997.go)      [ref](https://leetcode.com/problems/find-the-town-judge/)
 
-        1002. Find Common Characters (Easy)
+        430.  Find Common Characters (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findCommonCharacters_1002.go)      [ref](https://leetcode.com/problems/find-common-characters/)
 
-        1007. Minimum Domino Rotations For Equal Row (Medium)
+        431.  Minimum Domino Rotations For Equal Row (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumDominoRotationsForEqualRow_1007.go)      [ref](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
 
-        1008. Construct Binary Search Tree from Preorder Traversal (Medium)
+        432.  Construct Binary Search Tree from Preorder Traversal (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/constructBinarySearchTreeFromPreorderTraversal_1008.go)      [ref](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 
-        1020. Number of Enclaves (Medium)
+        433.  Number of Enclaves (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/constructBinarySearchTreeFromPreorderTraversal_1008.go)      [ref](https://leetcode.com/problems/number-of-enclaves/description/)
 
-        1029. Two City Scheduling (Medium)
+        434.  Two City Scheduling (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/twoCityScheduling_1029.go)      [ref](https://leetcode.com/problems/two-city-scheduling/)
 
-        1046. Last Stone Weight (Easy)
+        435.  Last Stone Weight (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/lastStoneWeight_1046.go)      [ref](https://leetcode.com/problems/last-stone-weight/)
 
-        1048. Longest String Chain (Medium)
+        436.  Longest String Chain (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/longestStringChain_1048.go)      [ref](https://leetcode.com/problems/longest-string-chain/)
 
-        1091. Shortest Path in Binary Matrix (Medium)
+        437.  Shortest Path in Binary Matrix (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/shortestPathInBinaryMatrix_1091.go)      [ref](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 
-        1122. Relative Sort Array (Easy)
+        438.  Relative Sort Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/relativeSortArray_1122.go)      [ref](https://leetcode.com/problems/relative-sort-array/description/)
 
-        1143. Longest Common Subsequence (Medium)
+        439.  Longest Common Subsequence (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/longestCommonSubsequence_1143.go)      [ref](https://leetcode.com/problems/longest-common-subsequence/)
 
-        1155. Number of Dice Rolls With Target Sum (Medium)
+        440.  Number of Dice Rolls With Target Sum (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/numberOfDiceRollsWithTargetSum_1155.go)      [ref](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum)
 
-        1176. Diet Plan Performance (Easy)
+        441.  Diet Plan Performance (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/dietPlanPerformance_1176.go)      [ref](https://leetcode.com/problems/diet-plan-performance/description/)
 
-        1207. Unique Number of Occurrences (Easy)
+        442.  Unique Number of Occurrences (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/uniqueNumberOfOccurrences_1207.go)      [ref](https://leetcode.com/problems/unique-number-of-occurrences/description/)
 
-        1232. Check If It Is a Straight Line (Easy)
+        443.  Check If It Is a Straight Line (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/checkIfItIsAStraightLine_1232.go)      [ref](https://leetcode.com/problems/check-if-it-is-a-straight-line/description/)
 
-        1239. Maximum Length of a Concatenated String with Unique Characters (Medium)
+        444.  Maximum Length of a Concatenated String with Unique Characters (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumLengthOfAConcatenatedStringWithUniqueCharacters_1239.go)      [ref](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/)
 
-         1254. Number of Closed Islands (Medium)
+         445.  Number of Closed Islands (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/numberOfClosedIslands_1254.go)      [ref](https://leetcode.com/problems/number-of-closed-islands/description/)
 
-        1260. Shift 2D Grid (Easy)
+        445.  Shift 2D Grid (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/shift2DGrid_1260.go)      [ref](https://leetcode.com/problems/shift-2d-grid/)
 
-        1328. Break a Palindrome (Medium)
+        446.  Break a Palindrome (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/breakAPalindrome_1328.go)      [ref](https://leetcode.com/problems/break-a-palindrome/description/m)
 
-        1337. The K Weakest Rows in a Matrix (Easy)
+        447.  The K Weakest Rows in a Matrix (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/theKWeakestRowsInAMatrix_1337.go)      [ref](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 
-        1338. Reduce Array Size to The Half (Medium)
+        448.  Reduce Array Size to The Half (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/reduceArraySizeToTheHalf_1338.go)      [ref](https://leetcode.com/problems/reduce-array-size-to-the-half/)
      
-        1351. Count Negative Numbers in a Sorted Matrix (Easy)
+        449.  Count Negative Numbers in a Sorted Matrix (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/CountNegativeNumbersInASortedMatrix_1351.java)      [ref](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/m/problems/find-smallest-letter-greater-than-target/)
      
-        1365. How Many Numbers Are Smaller Than the Current Number (Easy)
+        450.  How Many Numbers Are Smaller Than the Current Number (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/HowManyNumbersAreSmallerThanTheCurrentNumber_1365.java)      [ref](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 
-        1448. Count Good Nodes in Binary Tree (Medium)
+        451.  Count Good Nodes in Binary Tree (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/countGoodNodesInBinaryTree_1448.go)      [ref](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 
-        1456. Maximum Number of Vowels in a Substring of Given Length (Medium)
+        452.  Maximum Number of Vowels in a Substring of Given Length (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumNumberOfVowelsInASubstringOfGivenLength_1456.go)      [ref](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)
 
-        1480. Running Sum of 1d Array (Easy)
+        453.  Running Sum of 1d Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/runningSumOf1dArray_1480.go)      [ref](https://leetcode.com/problems/running-sum-of-1d-array/description/)
 
-        1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)
+        454.  Average Salary Excluding the Minimum and Maximum Salary (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/averageSalaryExcludingTheMinimumAndMaximumSalary_1491.go)      [ref](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/)
 
-        1544. Make The String Great (Easy)
+        455.  Make The String Great (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/makeTheStringGreat_1544.go)      [ref](https://leetcode.com/problems/make-the-string-great/description/)
 
-        1572. Matrix Diagonal Sum (Easy)
+        456.  Matrix Diagonal Sum (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/matrixDiagonalSum_1572.go)      [ref](https://leetcode.com/problems/matrix-diagonal-sum/description/)
 
-        1578. Minimum Time to Make Rope Colorful (Medium)
+        457.  Minimum Time to Make Rope Colorful (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumTimeToMakeRopeColorful_1578.go)      [ref](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/)
 
-        1646. Get Maximum in Generated Array (Easy)
+        458.  Get Maximum in Generated Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/getMaximumInGeneratedArray_1646.go)      [ref](https://leetcode.com/problems/get-maximum-in-generated-array/)
 
-        1658. Minimum Operations to Reduce X to Zero (Medium)
+        459.  Minimum Operations to Reduce X to Zero (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumOperationsToReduceXToZero_1658.go)      [ref](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 
-        1662. Check If Two String Arrays are Equivalent (Easy)
+        460.  Check If Two String Arrays are Equivalent (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/checkIfTwoStringArraysAreEquivalent_1662.go)      [ref](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/)
 
-        1695. Maximum Erasure Value (Medium)
+        461.  Maximum Erasure Value (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumErasureValue_1695.go)      [ref](https://leetcode.com/problems/maximum-erasure-value/)
 
-        1710. Maximum Units on a Truck (Easy)
+        462.  Maximum Units on a Truck (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/maximumUnitsOnATruck_1710.go)      [ref](https://leetcode.com/problems/maximum-units-on-a-truck/)
 
-        1721. Swapping Nodes in a Linked List (Medium)
+        463.  Swapping Nodes in a Linked List (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/swappingNodesInALinkedList_1721.go)      [ref](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
-        1822. Sign of the Product of an Array (Easy)
+        464.  Sign of the Product of an Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/signOfTheProductOfAnArray_1822.go)      [ref](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)
 
-        1832. Check if the Sentence Is Pangram (Easy)
+        465.  Check if the Sentence Is Pangram (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/maximumUnitsOnATruck_1710.go)      [ref](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)
 
-        1905. Count Sub Islands (Medium)
+        466.  Count Sub Islands (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/countSubIslands_1905.go)      [ref](https://leetcode.com/problems/count-sub-islands/)
 
-        2007. Find Original Array From Doubled Array (Medium)
+        467.  Find Original Array From Doubled Array (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findOriginalArrayFromDoubledArray_2007.go)      [ref](https://leetcode.com/problems/find-original-array-from-doubled-array/)
 
-        2011. Final Value of Variable After Performing Operations (Easy)
+        468.  Final Value of Variable After Performing Operations (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/finalValueOfVariableAfterPerformingOperations_2011.go)      [ref](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
 
-        2140. Solving Questions With Brainpower (Medium)
+        469.  Solving Questions With Brainpower (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/solvingQuestionsWithBrainpower_2140.go)      [ref](https://leetcode.com/problems/solving-questions-with-brainpower/description/)
 
-        2181. Merge Nodes in Between Zeros (Medium)
+        470.  Merge Nodes in Between Zeros (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/mergeNodesInBetweenZeros_2181.go)      [ref](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)
 
-        2215. Find the Difference of Two Arrays (Easy)
+        471.  Find the Difference of Two Arrays (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/finalValueOfVariableAfterPerformingOperations_2011.go)      [ref](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
 
-        2300. Successful Pairs of Spells and Potions (Medium)
+        472.  Successful Pairs of Spells and Potions (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findTheDifferenceOfTwoArrays_2215.go)      [ref](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/)
 
-        2337. Move Pieces to Obtain a String (Medium)
+        473.  Move Pieces to Obtain a String (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/movePiecesToObtainAString_2337.go)      [ref](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)
 
-        2341. Maximum Number of Pairs in Array (Easy)
+        474.  Maximum Number of Pairs in Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/maximumNumberOfPairsInArray_2341.go)      [ref](https://leetcode.com/problems/maximum-number-of-pairs-in-array/description/)
 
-        2348. Number of Zero-Filled Subarrays (Medium)
+        475.  Number of Zero-Filled Subarrays (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/numberOfZeroFilledSubarrays_2348.go)      [ref](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/)
 
-        2390. Removing Stars From a String (Medium)
+        476.  Removing Stars From a String (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/removingStarsFromAString_2390.go)      [ref](https://leetcode.com/problems/removing-stars-from-a-string/description/)
 
-        2405. Optimal Partition of String (Medium)
+        477.  Optimal Partition of String (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/optimalPartitionOfString_2405.go)      [ref](https://leetcode.com/problems/optimal-partition-of-string/description/)
 
-        2441. Largest Positive Integer That Exists With Its Negative (Easy)
+        478.  Largest Positive Integer That Exists With Its Negative (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/largestPositiveIntegerThatExistsWithItsNegative_2441.go)      [ref](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/)
 
-        2515. Shortest Distance to Target String in a Circular Array (Easy)
+        479.  Shortest Distance to Target String in a Circular Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/shortestDistanceToTargetStringInACircularArray_2515.go)      [ref](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/description/)
 
-        2553. Separate the Digits in an Array (Easy)
+        480.  Separate the Digits in an Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/separateTheDigitsInAnArray_2553.go)      [ref](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)
 
-        2570. Merge Two 2D Arrays by Summing Values (Easy)
+        481.  Merge Two 2D Arrays by Summing Values (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/mergeTwo2DArraysBySummingValues_2570.go)      [ref](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/)
 
-        2586. Count the Number of Vowel Strings in Range (Easy)
+        482.  Count the Number of Vowel Strings in Range (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/countTheNumberOfVowelStringsInRange_2586.go)      [ref](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/description/)
 
-        2595. Number of Even and Odd Bits (Easy)
+        483.  Number of Even and Odd Bits (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/numberOfEvenAndOddBits_2595.go)      [ref](https://leetcode.com/problems/number-of-even-and-odd-bits/)
 
-        2600. K Items With the Maximum Sum (Easy)
+        484.  K Items With the Maximum Sum (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/kItemsWithTheMaximumSum_2600.go)      [ref](https://leetcode.com/problems/k-items-with-the-maximum-sum/description/)
 
-        2605. Form Smallest Number From Two Digit Arrays (Easy)
+        485.  Form Smallest Number From Two Digit Arrays (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/formSmallestNumberFromTwoDigitArrays_2605.go)      [ref](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/description/)
     
     
