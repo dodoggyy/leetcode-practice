@@ -447,6 +447,9 @@ Data Structure
      
         226. Invert Binary Tree (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/InvertBinaryTree_226.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/invert_binary_tree_226.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/invertBinaryTree_226.go)      [ref](https://leetcode.com/problems/invert-binary-tree/)
+
+        228. Furthest Point From Origin (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/summaryRanges_228.go)      [ref](https://leetcode.com/problems/summary-ranges/)
      
         230. Kth Smallest Element in a BST (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/KthSmallestElementInABST_230.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/kthSmallestElementInABST_230.go)      [ref](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
@@ -1221,6 +1224,9 @@ Data Structure
 
         2605. Form Smallest Number From Two Digit Arrays (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/formSmallestNumberFromTwoDigitArrays_2605.go)      [ref](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/description/)
+
+        2833. Furthest Point From Origin (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/furthestPointFromOrigin_2833.go)      [ref](https://leetcode.com/problems/furthest-point-from-origin/description/)
     
     
 *   **Design Pattern :**
