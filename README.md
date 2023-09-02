@@ -1230,6 +1230,9 @@ Data Structure
 
         2833. Furthest Point From Origin (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/furthestPointFromOrigin_2833.go)      [ref](https://leetcode.com/problems/furthest-point-from-origin/description/)
+
+        2839. Check if Strings Can be Made Equal With Operations I (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/checkIfStringsCanBeMadeEqualWithOperationsI_2839.go)      [ref](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/)
     
     
 *   **Design Pattern :**
