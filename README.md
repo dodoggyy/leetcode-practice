@@ -1225,6 +1225,9 @@ Data Structure
         2605. Form Smallest Number From Two Digit Arrays (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/formSmallestNumberFromTwoDigitArrays_2605.go)      [ref](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/description/)
 
+        2828. Check if a String Is an Acronym of Words (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/checkIfAStringIsAnAcronymOfWords_2828.go)      [ref](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/description/)
+
         2833. Furthest Point From Origin (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/furthestPointFromOrigin_2833.go)      [ref](https://leetcode.com/problems/furthest-point-from-origin/description/)
     
