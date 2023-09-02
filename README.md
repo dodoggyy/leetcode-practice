@@ -1225,6 +1225,9 @@ Data Structure
         2605. Form Smallest Number From Two Digit Arrays (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/formSmallestNumberFromTwoDigitArrays_2605.go)      [ref](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/description/)
 
+        2824. Count Pairs Whose Sum is Less than Target (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/countPairsWhoseSumIsLessThanTarget_2824.go)      [ref](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)
+
         2828. Check if a String Is an Acronym of Words (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/checkIfAStringIsAnAcronymOfWords_2828.go)      [ref](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/description/)
 
