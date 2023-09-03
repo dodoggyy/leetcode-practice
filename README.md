@@ -1236,6 +1236,9 @@ Data Structure
 
         2839. Check if Strings Can be Made Equal With Operations I (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/checkIfStringsCanBeMadeEqualWithOperationsI_2839.go)      [ref](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/)
+
+        2843. Count Symmetric Integers (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/countSymmetricIntegers_2843.go)      [ref](https://leetcode.com/problems/count-symmetric-integers/description/)
     
     
 *   **Design Pattern :**
