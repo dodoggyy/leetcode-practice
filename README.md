@@ -1225,6 +1225,9 @@ Data Structure
         2605. Form Smallest Number From Two Digit Arrays (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/formSmallestNumberFromTwoDigitArrays_2605.go)      [ref](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/description/)
 
+        2810. Faulty Keyboard (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/faultyKeyboard_2810.go)      [ref](https://leetcode.com/problems/faulty-keyboard/description/)
+
         2815. Max Pair Sum in an Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/maxPairSumInAnArray_2815.go)      [ref](https://leetcode.com/problems/max-pair-sum-in-an-array/description/)
 
