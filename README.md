@@ -1225,6 +1225,9 @@ Data Structure
         2605. Form Smallest Number From Two Digit Arrays (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/formSmallestNumberFromTwoDigitArrays_2605.go)      [ref](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/description/)
 
+        2806. Account Balance After Rounded Purchase (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/accountBalanceAfterRoundedPurchase_2806.go)      [ref](https://leetcode.com/problems/account-balance-after-rounded-purchase/description/)
+
         2810. Faulty Keyboard (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/faultyKeyboard_2810.go)      [ref](https://leetcode.com/problems/faulty-keyboard/description/)
 
