@@ -1225,6 +1225,9 @@ Data Structure
         2605. Form Smallest Number From Two Digit Arrays (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/formSmallestNumberFromTwoDigitArrays_2605.go)      [ref](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/description/)
 
+        2784. Check if Array is Good (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/checkIfArrayIsGood_2784.go)      [ref](https://leetcode.com/problems/check-if-array-is-good/description/)
+
         2788. Split Strings by Separator (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/splitStringsBySeparator_2788.go)      [ref](https://leetcode.com/problems/split-strings-by-separator/description/)
 
