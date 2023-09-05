@@ -1225,6 +1225,9 @@ Data Structure
         2605. Form Smallest Number From Two Digit Arrays (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/formSmallestNumberFromTwoDigitArrays_2605.go)      [ref](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/description/)
 
+        2769. Find the Maximum Achievable Number (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findTheMaximumAchievableNumber_2769.go)      [ref](https://leetcode.com/problems/find-the-maximum-achievable-number/description/)
+
         2778. Sum of Squares of Special Elements (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/sumOfSquaresOfSpecialElements_2778.go)      [ref](https://leetcode.com/problems/check-if-array-is-good/description/)
 
