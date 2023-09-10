@@ -1225,6 +1225,9 @@ Data Structure
         2605. Form Smallest Number From Two Digit Arrays (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/formSmallestNumberFromTwoDigitArrays_2605.go)      [ref](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/description/)
 
+        2748. Number of Beautiful Pairs (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/numberOfBeautifulPairs_2748.go)      [ref](https://leetcode.com/problems/number-of-beautiful-pairs/description/)
+
         2760. Longest Even Odd Subarray With Threshold (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/longestEvenOddSubarrayWithThreshold_2760.go)      [ref](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/description/)
 
