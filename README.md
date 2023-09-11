@@ -1105,175 +1105,178 @@ Data Structure
         1260. Shift 2D Grid (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/shift2DGrid_1260.go)      [ref](https://leetcode.com/problems/shift-2d-grid/)
 
-        1328. Break a Palindrome (Medium)
+        1282. Group the People Given the Group Size They Belong To (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/groupThePeopleGivenTheGroupSizeTheyBelongTo_1282.go)      [ref](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/)
+
+        1283. Break a Palindrome (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/breakAPalindrome_1328.go)      [ref](https://leetcode.com/problems/break-a-palindrome/description/m)
 
-        1337. The K Weakest Rows in a Matrix (Easy)
+        1284. The K Weakest Rows in a Matrix (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/theKWeakestRowsInAMatrix_1337.go)      [ref](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 
-        1338. Reduce Array Size to The Half (Medium)
+        1285. Reduce Array Size to The Half (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/reduceArraySizeToTheHalf_1338.go)      [ref](https://leetcode.com/problems/reduce-array-size-to-the-half/)
      
-        1351. Count Negative Numbers in a Sorted Matrix (Easy)
+        1286. Count Negative Numbers in a Sorted Matrix (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/CountNegativeNumbersInASortedMatrix_1351.java)      [ref](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/m/problems/find-smallest-letter-greater-than-target/)
      
-        1365. How Many Numbers Are Smaller Than the Current Number (Easy)
+        1287. How Many Numbers Are Smaller Than the Current Number (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/HowManyNumbersAreSmallerThanTheCurrentNumber_1365.java)      [ref](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 
-        1448. Count Good Nodes in Binary Tree (Medium)
+        1288. Count Good Nodes in Binary Tree (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/countGoodNodesInBinaryTree_1448.go)      [ref](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 
-        1456. Maximum Number of Vowels in a Substring of Given Length (Medium)
+        1289. Maximum Number of Vowels in a Substring of Given Length (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumNumberOfVowelsInASubstringOfGivenLength_1456.go)      [ref](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)
 
-        1480. Running Sum of 1d Array (Easy)
+        1290. Running Sum of 1d Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/runningSumOf1dArray_1480.go)      [ref](https://leetcode.com/problems/running-sum-of-1d-array/description/)
 
-        1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)
+        1291. Average Salary Excluding the Minimum and Maximum Salary (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/averageSalaryExcludingTheMinimumAndMaximumSalary_1491.go)      [ref](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/)
 
-        1544. Make The String Great (Easy)
+        1292. Make The String Great (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/makeTheStringGreat_1544.go)      [ref](https://leetcode.com/problems/make-the-string-great/description/)
 
-        1572. Matrix Diagonal Sum (Easy)
+        1293. Matrix Diagonal Sum (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/matrixDiagonalSum_1572.go)      [ref](https://leetcode.com/problems/matrix-diagonal-sum/description/)
 
-        1578. Minimum Time to Make Rope Colorful (Medium)
+        1294. Minimum Time to Make Rope Colorful (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumTimeToMakeRopeColorful_1578.go)      [ref](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/)
 
-        1646. Get Maximum in Generated Array (Easy)
+        1295. Get Maximum in Generated Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/getMaximumInGeneratedArray_1646.go)      [ref](https://leetcode.com/problems/get-maximum-in-generated-array/)
 
-        1658. Minimum Operations to Reduce X to Zero (Medium)
+        1296. Minimum Operations to Reduce X to Zero (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumOperationsToReduceXToZero_1658.go)      [ref](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 
-        1662. Check If Two String Arrays are Equivalent (Easy)
+        1297. Check If Two String Arrays are Equivalent (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/checkIfTwoStringArraysAreEquivalent_1662.go)      [ref](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/)
 
-        1695. Maximum Erasure Value (Medium)
+        1298. Maximum Erasure Value (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumErasureValue_1695.go)      [ref](https://leetcode.com/problems/maximum-erasure-value/)
 
-        1710. Maximum Units on a Truck (Easy)
+        1299. Maximum Units on a Truck (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/maximumUnitsOnATruck_1710.go)      [ref](https://leetcode.com/problems/maximum-units-on-a-truck/)
 
-        1721. Swapping Nodes in a Linked List (Medium)
+        1300. Swapping Nodes in a Linked List (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/swappingNodesInALinkedList_1721.go)      [ref](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
-        1822. Sign of the Product of an Array (Easy)
+        1301. Sign of the Product of an Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/signOfTheProductOfAnArray_1822.go)      [ref](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)
 
-        1832. Check if the Sentence Is Pangram (Easy)
+        1302. Check if the Sentence Is Pangram (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/maximumUnitsOnATruck_1710.go)      [ref](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)
 
-        1905. Count Sub Islands (Medium)
+        1303. Count Sub Islands (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/countSubIslands_1905.go)      [ref](https://leetcode.com/problems/count-sub-islands/)
 
-        2007. Find Original Array From Doubled Array (Medium)
+        1304. Find Original Array From Doubled Array (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findOriginalArrayFromDoubledArray_2007.go)      [ref](https://leetcode.com/problems/find-original-array-from-doubled-array/)
 
-        2011. Final Value of Variable After Performing Operations (Easy)
+        1305. Final Value of Variable After Performing Operations (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/finalValueOfVariableAfterPerformingOperations_2011.go)      [ref](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
 
-        2140. Solving Questions With Brainpower (Medium)
+        1306. Solving Questions With Brainpower (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/solvingQuestionsWithBrainpower_2140.go)      [ref](https://leetcode.com/problems/solving-questions-with-brainpower/description/)
 
-        2181. Merge Nodes in Between Zeros (Medium)
+        1307. Merge Nodes in Between Zeros (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/mergeNodesInBetweenZeros_2181.go)      [ref](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)
 
-        2215. Find the Difference of Two Arrays (Easy)
+        1308. Find the Difference of Two Arrays (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/finalValueOfVariableAfterPerformingOperations_2011.go)      [ref](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
 
-        2300. Successful Pairs of Spells and Potions (Medium)
+        1309. Successful Pairs of Spells and Potions (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findTheDifferenceOfTwoArrays_2215.go)      [ref](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/)
 
-        2337. Move Pieces to Obtain a String (Medium)
+        1310. Move Pieces to Obtain a String (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/movePiecesToObtainAString_2337.go)      [ref](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)
 
-        2341. Maximum Number of Pairs in Array (Easy)
+        1311. Maximum Number of Pairs in Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/maximumNumberOfPairsInArray_2341.go)      [ref](https://leetcode.com/problems/maximum-number-of-pairs-in-array/description/)
 
-        2348. Number of Zero-Filled Subarrays (Medium)
+        1312. Number of Zero-Filled Subarrays (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/numberOfZeroFilledSubarrays_2348.go)      [ref](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/)
 
-        2390. Removing Stars From a String (Medium)
+        1313. Removing Stars From a String (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/removingStarsFromAString_2390.go)      [ref](https://leetcode.com/problems/removing-stars-from-a-string/description/)
 
-        2405. Optimal Partition of String (Medium)
+        1314. Optimal Partition of String (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/optimalPartitionOfString_2405.go)      [ref](https://leetcode.com/problems/optimal-partition-of-string/description/)
 
-        2441. Largest Positive Integer That Exists With Its Negative (Easy)
+        1315. Largest Positive Integer That Exists With Its Negative (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/largestPositiveIntegerThatExistsWithItsNegative_2441.go)      [ref](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/)
 
-        2515. Shortest Distance to Target String in a Circular Array (Easy)
+        1316. Shortest Distance to Target String in a Circular Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/shortestDistanceToTargetStringInACircularArray_2515.go)      [ref](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/description/)
 
-        2553. Separate the Digits in an Array (Easy)
+        1317. Separate the Digits in an Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/separateTheDigitsInAnArray_2553.go)      [ref](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)
 
-        2570. Merge Two 2D Arrays by Summing Values (Easy)
+        1318. Merge Two 2D Arrays by Summing Values (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/mergeTwo2DArraysBySummingValues_2570.go)      [ref](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/)
 
-        2586. Count the Number of Vowel Strings in Range (Easy)
+        1319. Count the Number of Vowel Strings in Range (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/countTheNumberOfVowelStringsInRange_2586.go)      [ref](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/description/)
 
-        2595. Number of Even and Odd Bits (Easy)
+        1320. Number of Even and Odd Bits (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/numberOfEvenAndOddBits_2595.go)      [ref](https://leetcode.com/problems/number-of-even-and-odd-bits/)
 
-        2600. K Items With the Maximum Sum (Easy)
+        1321. K Items With the Maximum Sum (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/kItemsWithTheMaximumSum_2600.go)      [ref](https://leetcode.com/problems/k-items-with-the-maximum-sum/description/)
 
-        2605. Form Smallest Number From Two Digit Arrays (Easy)
+        1322. Form Smallest Number From Two Digit Arrays (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/formSmallestNumberFromTwoDigitArrays_2605.go)      [ref](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/description/)
 
-        2744. Find Maximum Number of String Pairs (Easy)
+        1323. Find Maximum Number of String Pairs (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findMaximumNumberOfStringPairs_2744.go)      [ref](https://leetcode.com/problems/find-maximum-number-of-string-pairs/description/)
 
-        2748. Number of Beautiful Pairs (Easy)
+        1324. Number of Beautiful Pairs (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/numberOfBeautifulPairs_2748.go)      [ref](https://leetcode.com/problems/number-of-beautiful-pairs/description/)
 
-        2760. Longest Even Odd Subarray With Threshold (Easy)
+        1325. Longest Even Odd Subarray With Threshold (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/longestEvenOddSubarrayWithThreshold_2760.go)      [ref](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/description/)
 
-        2765. Longest Alternating Subarray (Easy)
+        1326. Longest Alternating Subarray (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/longestAlternatingSubarray_2765.go)      [ref](https://leetcode.com/problems/longest-alternating-subarray/description/)
 
-        2769. Find the Maximum Achievable Number (Easy)
+        1327. Find the Maximum Achievable Number (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findTheMaximumAchievableNumber_2769.go)      [ref](https://leetcode.com/problems/find-the-maximum-achievable-number/description/)
 
-        2778. Sum of Squares of Special Elements (Easy)
+        1328. Sum of Squares of Special Elements (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/sumOfSquaresOfSpecialElements_2778.go)      [ref](https://leetcode.com/problems/sum-of-squares-of-special-elements/)
 
-        2784. Check if Array is Good (Easy)
+        1329. Check if Array is Good (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/checkIfArrayIsGood_2784.go)      [ref](https://leetcode.com/problems/check-if-array-is-good/description/)
 
-        2788. Split Strings by Separator (Easy)
+        1330. Split Strings by Separator (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/splitStringsBySeparator_2788.go)      [ref](https://leetcode.com/problems/split-strings-by-separator/description/)
 
-        2798. Number of Employees Who Met the Target (Easy)
+        1331. Number of Employees Who Met the Target (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/numberOfEmployeesWhoMetTheTarget_2798.go)      [ref](https://leetcode.com/problems/number-of-employees-who-met-the-target/)
 
-        2806. Account Balance After Rounded Purchase (Easy)
+        1332. Account Balance After Rounded Purchase (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/accountBalanceAfterRoundedPurchase_2806.go)      [ref](https://leetcode.com/problems/account-balance-after-rounded-purchase/description/)
 
-        2810. Faulty Keyboard (Easy)
+        1333. Faulty Keyboard (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/faultyKeyboard_2810.go)      [ref](https://leetcode.com/problems/faulty-keyboard/description/)
 
-        2815. Max Pair Sum in an Array (Easy)
+        1334. Max Pair Sum in an Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/maxPairSumInAnArray_2815.go)      [ref](https://leetcode.com/problems/max-pair-sum-in-an-array/description/)
 
-        2824. Count Pairs Whose Sum is Less than Target (Easy)
+        1335. Count Pairs Whose Sum is Less than Target (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/countPairsWhoseSumIsLessThanTarget_2824.go)      [ref](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)
 
-        2828. Check if a String Is an Acronym of Words (Easy)
+        1336. Check if a String Is an Acronym of Words (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/checkIfAStringIsAnAcronymOfWords_2828.go)      [ref](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/description/)
 
-        2833. Furthest Point From Origin (Easy)
+        1337. Furthest Point From Origin (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/furthestPointFromOrigin_2833.go)      [ref](https://leetcode.com/problems/furthest-point-from-origin/description/)
 
-        2839. Check if Strings Can be Made Equal With Operations I (Easy)
+        1338. Check if Strings Can be Made Equal With Operations I (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/checkIfStringsCanBeMadeEqualWithOperationsI_2839.go)      [ref](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/)
 
-        2843. Count Symmetric Integers (Easy)
+        1339. Count Symmetric Integers (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/countSymmetricIntegers_2843.go)      [ref](https://leetcode.com/problems/count-symmetric-integers/description/)
     
     
