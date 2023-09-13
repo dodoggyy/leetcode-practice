@@ -1078,6 +1078,9 @@ Data Structure
         1048. Longest String Chain (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/longestStringChain_1048.go)      [ref](https://leetcode.com/problems/longest-string-chain/)
 
+        1071. Greatest Common Divisor of Strings (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/greatestCommonDivisorOfStrings_1071.go)      [ref](https://leetcode.com/problems/greatest-common-divisor-of-strings/description)
+
         1091. Shortest Path in Binary Matrix (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/shortestPathInBinaryMatrix_1091.go)      [ref](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 
