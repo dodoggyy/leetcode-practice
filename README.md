@@ -1177,6 +1177,9 @@ Data Structure
         1721. Swapping Nodes in a Linked List (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/swappingNodesInALinkedList_1721.go)      [ref](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
+        1732. Find the Highest Altitude (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findTheHighestAltitude_1732.go)      [ref](https://leetcode.com/problems/find-the-highest-altitude/description)
+
         1822. Sign of the Product of an Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/signOfTheProductOfAnArray_1822.go)      [ref](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)
 
