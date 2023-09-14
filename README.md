@@ -1165,6 +1165,9 @@ Data Structure
         1662. Check If Two String Arrays are Equivalent (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/checkIfTwoStringArraysAreEquivalent_1662.go)      [ref](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/)
 
+        1679. Max Number of K-Sum Pairs (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maxNumberOfKSumPairs_1679.go)      [ref](https://leetcode.com/problems/max-number-of-k-sum-pairs/description)
+
         1695. Maximum Erasure Value (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumErasureValue_1695.go)      [ref](https://leetcode.com/problems/maximum-erasure-value/)
 
