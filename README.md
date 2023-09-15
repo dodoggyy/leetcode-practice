@@ -667,8 +667,8 @@ Data Structure
         441. Arranging Coins (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ArrangingCoins_441.java)
      
-        443. String Compression (Easy)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/StringCompression_443.java)
+        443. String Compression (Medium)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/StringCompression_443.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/stringCompression_443.go)      [ref](https://leetcode.com/problems/string-compression/description/)
      
         445. Add Two Numbers II (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/AddTwoNumbersII_445.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/add_two_numbers_II_445.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/addTwoNumbersII_445.go)      [ref](https://leetcode.com/problems/add-two-numbers-ii/)
