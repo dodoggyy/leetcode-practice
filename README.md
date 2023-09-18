@@ -1024,6 +1024,9 @@ Data Structure
         923. 3Sum With Multiplicity (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/3SumWithMultiplicity_923.go)      [ref](https://leetcode.com/problems/3sum-with-multiplicity/)
 
+        933. Number of Recent Calls (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/numberOfRecentCalls_933.go)      [ref](https://leetcode.com/problems/number-of-recent-calls/description)
+
         946. Validate Stack Sequences (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/validateStackSequences_946.go)      [ref](https://leetcode.com/problems/validate-stack-sequences/description/)
 
