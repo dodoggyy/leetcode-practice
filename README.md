@@ -1228,6 +1228,9 @@ Data Structure
         2348. Number of Zero-Filled Subarrays (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/numberOfZeroFilledSubarrays_2348.go)      [ref](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/)
 
+        2352. Equal Row And Column Pairs (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/equalRowAndColumnPairs_2352.go)      [ref](https://leetcode.com/problems/equal-row-and-column-pairs/description)
+
         2390. Removing Stars From a String (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/removingStarsFromAString_2390.go)      [ref](https://leetcode.com/problems/removing-stars-from-a-string/description/)
 
