@@ -1168,6 +1168,9 @@ Data Structure
         1647. Minimum Deletions to Make Character Frequencies Unique (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumDeletionsToMakeCharacterFrequenciesUnique_1647.go)      [ref](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description)
 
+        1657. Determine if Two Strings Are Close (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/determineIfTwoStringsAreClose_1657.go)      [ref](https://leetcode.com/problems/determine-if-two-strings-are-close/description/)
+
         1658. Minimum Operations to Reduce X to Zero (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumOperationsToReduceXToZero_1658.go)      [ref](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 
