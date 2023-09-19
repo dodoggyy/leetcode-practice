@@ -1090,6 +1090,9 @@ Data Structure
         1122. Relative Sort Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/relativeSortArray_1122.go)      [ref](https://leetcode.com/problems/relative-sort-array/description/)
 
+        1137. N-th Tribonacci Number (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/nThTribonacciNumber_1137.go)      [ref](https://leetcode.com/problems/n-th-tribonacci-number/description)
+
         1143. Longest Common Subsequence (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/longestCommonSubsequence_1143.go)      [ref](https://leetcode.com/problems/longest-common-subsequence/)
 
