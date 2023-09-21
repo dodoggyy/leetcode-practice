@@ -1210,6 +1210,9 @@ Data Structure
         2011. Final Value of Variable After Performing Operations (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/finalValueOfVariableAfterPerformingOperations_2011.go)      [ref](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
 
+        2095. Delete The Middle Node of a LinkedList (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/deleteTheMiddleNodeOfALinkedList_2095.go)      [ref](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)
+
         2140. Solving Questions With Brainpower (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/solvingQuestionsWithBrainpower_2140.go)      [ref](https://leetcode.com/problems/solving-questions-with-brainpower/description/)
 
