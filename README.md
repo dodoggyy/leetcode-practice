@@ -1216,6 +1216,9 @@ Data Structure
         2095. Delete The Middle Node of a LinkedList (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/deleteTheMiddleNodeOfALinkedList_2095.go)      [ref](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)
 
+        2130. Maximum Twin Sum of s Linked List (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumTwinSumOfALinkedList_2130.go)      [ref](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description)
+
         2140. Solving Questions With Brainpower (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/solvingQuestionsWithBrainpower_2140.go)      [ref](https://leetcode.com/problems/solving-questions-with-brainpower/description/)
 
