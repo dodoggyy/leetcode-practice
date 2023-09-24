@@ -985,6 +985,9 @@ Data Structure
         785. Is Graph Bipartite? (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/isGraphBipartite_785.go)      [ref](https://leetcode.com/problems/is-graph-bipartite/)
 
+        799. Champagne Tower (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/champagneTower_799.go)      [ref](https://leetcode.com/problems/champagne-tower)
+
         814. Binary Tree Pruning (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/binaryTreePruning_814.go)      [ref](https://leetcode.com/problems/binary-tree-pruning/submissions/)
 
