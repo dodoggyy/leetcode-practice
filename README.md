@@ -1138,6 +1138,9 @@ Data Structure
         1282. Group the People Given the Group Size They Belong To (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/groupThePeopleGivenTheGroupSizeTheyBelongTo_1282.go)      [ref](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/)
 
+        1318. Minimum Dlips to Make a or b Equal to c (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumFlipsToMakeAOrBEqualToc_1318.go)      [ref](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c)
+
         1328. Break a Palindrome (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/breakAPalindrome_1328.go)      [ref](https://leetcode.com/problems/break-a-palindrome/description/m)
 
