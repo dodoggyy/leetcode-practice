@@ -537,6 +537,9 @@ Data Structure
      
         303. Range Sum Query - Immutable (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/RangeSumQuery_303.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/rangeSumQueryImmutable_303.go)      [ref](https://leetcode.com/problems/range-sum-query-immutable/)
+
+        316. Remove Duplicate Letters (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/removeDuplicateLetters_316.go)      [ref](https://leetcode.com/problems/remove-duplicate-letters/)
      
         318. Maximum Product of Word Lengths (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/MaximumProductofWordLengths_318.java)      [C](https://github.com/dodoggyy/leetcode-practice/blob/master/C_src/Medium/318_Maximum_Product_of_Word_Lengths/MaximumProductofWordLengths_318.c)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/maximum_product_of_word_lengths_318.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumProductOfWordLengths_318.go)      [ref](https://leetcode.com/problems/maximum-product-of-word-lengths/)
