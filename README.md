@@ -1012,6 +1012,9 @@ Data Structure
         876. Possible Bipartition (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/middleOfTheLinkedList_876.go)      [ref](https://leetcode.com/problems/middle-of-the-linked-list/)
 
+        880. Decoded String at Index (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/decodedStringAtIndex_880.go)      [ref](https://leetcode.com/problems/decoded-string-at-index)
+
         881. Boats to Save People (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/boatsToSavePeople_881.go)      [ref](https://leetcode.com/problems/boats-to-save-people/)
 
