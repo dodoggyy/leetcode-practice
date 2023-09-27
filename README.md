@@ -1141,6 +1141,9 @@ Data Structure
         1260. Shift 2D Grid (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/shift2DGrid_1260.go)      [ref](https://leetcode.com/problems/shift-2d-grid/)
 
+        1268. Search Suggestions System (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/searchSuggestionsSystem_1268.go)      [ref](https://leetcode.com/problems/search-suggestions-system)
+
         1282. Group the People Given the Group Size They Belong To (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/groupThePeopleGivenTheGroupSizeTheyBelongTo_1282.go)      [ref](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/)
 
