@@ -36,3 +36,29 @@ func successfulPairs(spells []int, potions []int, success int64) []int {
 
 	return result
 }
+
+// Use sort + binary search:
+// Time Complexity: O((m+n)*logn)
+// Space Complexity:O(1)
+// Runtime: 191 ms, faster than 72.22%
+// Memory Usage: 12.51 MB, less than 30.86%
+func successfulPairs2(spells []int, potions []int, success int64) []int {
+	sort.Ints(potions)
+	m, n := len(spells), len(potions)
+	result := make([]int, m)
+
+	for i := range spells {
+		l, r := 0, n
+		for l < r {
+			mid := l + (r-l)/2
+			if int64(spells[i])*int64(potions[mid]) < success {
+				l = mid + 1
+			} else {
+				r = mid
+			}
+		}
+		result[i] = n - l
+	}
+
+	return result
+}
