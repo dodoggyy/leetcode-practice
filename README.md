@@ -1036,6 +1036,9 @@ Data Structure
         904. Fruit Into Baskets (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/fruitIntoBaskets_904.go)      [ref](https://leetcode.com/problems/fruit-into-baskets/description/)
 
+        905. Sort Array by Parity (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/sortArrayByParity_905.go)      [ref](https://leetcode.com/problems/sort-array-by-parity/)
+
         912. Sort an Array (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/sortAnArray_912.go)      [ref](https://leetcode.com/problems/sort-an-array/)
 
