@@ -1174,6 +1174,9 @@ Data Structure
         1365. How Many Numbers Are Smaller Than the Current Number (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/HowManyNumbersAreSmallerThanTheCurrentNumber_1365.java)      [ref](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 
+        1372. Longest Zigzag Path in a Binary Tree (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/longestZigzagPathInABinaryTree_1372.go)      [ref](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree)
+
         1431. Kids With the Greatest Number of Candies (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/kidsWithTheGreatestNumberOfCandies_1431.go)      [ref](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description)
 
