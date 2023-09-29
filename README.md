@@ -1030,6 +1030,9 @@ Data Structure
         890. Find and Replace Pattern (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findAndReplacePattern_890.go)      [ref](https://leetcode.com/problems/find-and-replace-pattern/)
 
+        896. Monotonic Array (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/monotonicArray_896.go)      [ref](https://leetcode.com/problems/monotonic-array/description)
+
         897. Increasing Order Search Tree (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/increasingOrderSearchTree_897.go)      [ref](https://leetcode.com/problems/increasing-order-search-tree/)
 
