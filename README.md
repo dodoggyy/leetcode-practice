@@ -44,7 +44,7 @@ Data Structure
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/3SumClosest_16.go)      [ref](https://leetcode.com/problems/3sum-closest/)
      
         17. Letter Combinations of a Phone Number (Medium)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/LetterCombinationsOfAPhoneNumber_17.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/letter_combinations_of_a_phone_number_17.cc)      [ref](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/LetterCombinationsOfAPhoneNumber_17.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/letter_combinations_of_a_phone_number_17.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/letterCombinationsOfAPhoneNumber_17.go)      [ref](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
         18. 4Sum (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/4Sum_18.go)      [ref](https://leetcode.com/problems/4sum/)
