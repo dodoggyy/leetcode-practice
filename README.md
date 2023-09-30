@@ -1135,6 +1135,9 @@ Data Structure
         1155. Number of Dice Rolls With Target Sum (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/numberOfDiceRollsWithTargetSum_1155.go)      [ref](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum)
 
+        1161. Maximum Level Sum of a Binary Tree (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumLevelSumOfABinaryTree_1161.go)      [ref](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)
+
         1176. Diet Plan Performance (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/dietPlanPerformance_1176.go)      [ref](https://leetcode.com/problems/diet-plan-performance/description/)
 
