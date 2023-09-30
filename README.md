@@ -696,6 +696,9 @@ Data Structure
      
         455. Assign Cookies (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/AssignCookies_455.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/assignCookies_455.go)      [ref](https://leetcode.com/problems/assign-cookies/)
+
+        456. 132 Pattern (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/132Pattern_456.go)      [ref](https://leetcode.com/problems/132-pattern)
      
         459. Repeated Substring Pattern (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/RepeatedSubstringPattern_459.java)
