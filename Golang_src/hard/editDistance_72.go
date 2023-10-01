@@ -3,41 +3,39 @@ package hard
 // Use DP:
 // Time Complexity: O(m*n)
 // Space Complexity:O(m*n)
-// Runtime: 16 ms, faster than 89.02%
-// Memory Usage: 6.7 MB, less than 99.19%
+// Runtime: 0 ms, faster than 100.00%
+// Memory Usage: 5.55 MB, less than 79.87%
 func minDistance(word1 string, word2 string) int {
-	size1, size2 := len(word1), len(word2)
-
-	dp := make([][]int, size1+1)
+	m, n := len(word1), len(word2)
+	dp := make([][]int, m+1)
 	for i := range dp {
-		dp[i] = make([]int, size2+1)
+		dp[i] = make([]int, n+1)
 	}
 
-	for i := 1; i <= size1; i++ {
+	min := func(a, b int) int {
+		if a < b {
+			return a
+		}
+		return b
+	}
+
+	for i := range dp {
 		dp[i][0] = i
 	}
-	for i := 1; i <= size2; i++ {
+	for i := range dp[0] {
 		dp[0][i] = i
 	}
 
-	for i := 1; i <= size1; i++ {
-		for j := 1; j <= size2; j++ {
-			if word1[i-1] != word2[j-1] {
-				dp[i][j] = dp[i-1][j-1] + 1
+	for i, ch1 := range word1 {
+		for j, ch2 := range word2 {
+			if ch1 == ch2 {
+				dp[i+1][j+1] = dp[i][j]
 			} else {
-				dp[i][j] = dp[i-1][j-1]
+				dp[i+1][j+1] = min(dp[i][j], min(dp[i+1][j], dp[i][j+1])) + 1
 			}
-			dp[i][j] = min(dp[i][j], dp[i-1][j]+1)
-			dp[i][j] = min(dp[i][j], dp[i][j-1]+1)
+
 		}
 	}
 
-	return dp[size1][size2]
-}
-
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
+	return dp[m][n]
 }
