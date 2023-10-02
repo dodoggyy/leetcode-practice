@@ -958,6 +958,9 @@ Data Structure
         707. Design Linked List (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/DesignLinkedList_707.java)
 
+        714. Best Time to Buy and Sell Stock with Transaction Fee (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/bestTimeToBuyAndSellStockWithTransactionFee_714.go)      [ref](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)
+
         724. Find Pivot Index (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findPivotIndex_724.go)      [ref](https://leetcode.com/problems/find-pivot-index/description/)
      
