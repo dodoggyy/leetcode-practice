@@ -1255,6 +1255,9 @@ Data Structure
         2011. Final Value of Variable After Performing Operations (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/finalValueOfVariableAfterPerformingOperations_2011.go)      [ref](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
 
+        2038. Remove Colored Pieces if Both Neighbors are the Same Color (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/removeColoredPiecesIfBothNeighborsAreTheSameColor_2038.go)      [ref](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color)
+
         2095. Delete The Middle Node of a LinkedList (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/deleteTheMiddleNodeOfALinkedList_2095.go)      [ref](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)
 
