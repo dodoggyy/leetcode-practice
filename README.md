@@ -1279,6 +1279,9 @@ Data Structure
         2300. Successful Pairs of Spells and Potions (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findTheDifferenceOfTwoArrays_2215.go)      [ref](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/)
 
+        2336. Smallest Number in Infinite Set (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/smallestNumberInInfiniteSet_2336.go)      [ref](https://leetcode.com/problems/smallest-number-in-infinite-set)
+
         2337. Move Pieces to Obtain a String (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/movePiecesToObtainAString_2337.go)      [ref](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)
 
