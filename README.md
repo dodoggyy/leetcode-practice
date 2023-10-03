@@ -795,6 +795,9 @@ Data Structure
      
         543. Diameter of Binary Tree (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/DiameterofBinaryTree_543.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/diameterOfBinaryTree_543.go)      [ref](https://leetcode.com/problems/diameter-of-binary-tree/)
+
+        547. Number of Provinces (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/numberOfProvinces_547.go)      [ref](https://leetcode.com/problems/number-of-provinces)
      
         551. Student Attendance Record I (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/StudentAttendanceRecordI_551.java)
