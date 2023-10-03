@@ -1198,6 +1198,9 @@ Data Structure
         1456. Maximum Number of Vowels in a Substring of Given Length (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumNumberOfVowelsInASubstringOfGivenLength_1456.go)      [ref](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)
 
+        1466. Reorder Routes to Make all Paths Lead to the City Zero (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/reorderRoutesToMakeAllPathsLeadToTheCityZero_1466.go)      [ref](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)
+
         1480. Running Sum of 1d Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/runningSumOf1dArray_1480.go)      [ref](https://leetcode.com/problems/running-sum-of-1d-array/description/)
 
