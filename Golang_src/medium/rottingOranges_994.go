@@ -2,6 +2,61 @@ package medium
 
 import "math"
 
+// Use BFS 2:
+// Time Complexity: O(m*n)
+// Space Complexity:O(m*n)
+// Runtime: 4 ms, faster than 62.40%
+// Memory Usage: 3.0 MB, less than 22.56%
+func orangesRotting2(grid [][]int) int {
+	m, n := len(grid), len(grid[0])
+	cnt := 0
+	step := 0
+	queue := [][]int{}
+
+	for i := range grid {
+		for j := range grid[i] {
+			if grid[i][j] > 0 {
+				cnt++
+				if grid[i][j] == 2 {
+					queue = append(queue, []int{i, j})
+				}
+			}
+		}
+	}
+	for len(queue) > 0 {
+		size := len(queue)
+		cnt -= size
+		for i := 0; i < size; i++ {
+			node := queue[0]
+			queue = queue[1:]
+			if node[0] > 0 && grid[node[0]-1][node[1]] == 1 {
+				grid[node[0]-1][node[1]] = 2
+				queue = append(queue, []int{node[0] - 1, node[1]})
+			}
+			if node[0] < m-1 && grid[node[0]+1][node[1]] == 1 {
+				grid[node[0]+1][node[1]] = 2
+				queue = append(queue, []int{node[0] + 1, node[1]})
+			}
+			if node[1] > 0 && grid[node[0]][node[1]-1] == 1 {
+				grid[node[0]][node[1]-1] = 2
+				queue = append(queue, []int{node[0], node[1] - 1})
+			}
+			if node[1] < n-1 && grid[node[0]][node[1]+1] == 1 {
+				grid[node[0]][node[1]+1] = 2
+				queue = append(queue, []int{node[0], node[1] + 1})
+			}
+		}
+		if len(queue) > 0 {
+			step++
+		}
+	}
+
+	if cnt > 0 {
+		return -1
+	}
+	return step
+}
+
 // Use BFS:
 // Time Complexity: O(n^2)
 // Space Complexity:O(n)
