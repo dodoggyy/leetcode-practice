@@ -621,6 +621,9 @@ Data Structure
 
         394. Decode String (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/decodeString_394.go)      [ref](https://leetcode.com/problems/decode-string/)
+
+        399. Evaluate Division (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/evaluateDivision_399.go)      [ref](https://leetcode.com/problems/evaluate-division/description/)
      
         400. Nth Digit (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NthDigit_400.java)
