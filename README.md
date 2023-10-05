@@ -453,6 +453,9 @@ Data Structure
 
         228. Furthest Point From Origin (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/summaryRanges_228.go)      [ref](https://leetcode.com/problems/summary-ranges/)
+
+        229. Majority Element II (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/majorityElementII_229.go)      [ref](https://leetcode.com/problems/majority-element-ii/description)
      
         230. Kth Smallest Element in a BST (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/KthSmallestElementInABST_230.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/kthSmallestElementInABST_230.go)      [ref](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
