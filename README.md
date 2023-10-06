@@ -72,6 +72,9 @@ Data Structure
      
         26. Remove Duplicates from Sorted Array (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/RemoveDuplicatesFromSortedArray_26.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/removeDuplicatesFromSortedArray_26.go)      [ref](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
+        27. Remove Element (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/removeElement_27.go)      [ref](https://leetcode.com/problems/remove-element)
      
         29. Divide Two Integers (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/DivideTwoIntegers_29.java)
