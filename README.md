@@ -187,6 +187,9 @@ Data Structure
         79. Word Search (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/WordSearch_79.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/wordSearch_79.go)      [ref](https://leetcode.com/problems/word-search/)
 
+        80. Remove Duplicates from Sorted Array II (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/removeDuplicatesFromSortedArrayII_80.go)      [ref](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
+
         81. Search in Rotated Sorted Array II (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/searchInRotatedSortedArrayII_81.go)      [ref](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 
