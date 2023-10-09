@@ -108,6 +108,9 @@ Data Structure
 
         43. Multiply Strings (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/multiplyStrings_43.go)      [ref](https://leetcode.com/problems/multiply-strings/)
+
+        45. Jump Game II (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/jumpGameII_45.go)      [ref](https://leetcode.com/problems/jump-game-ii)
      
         46. Permutations (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/Permutations_46.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/permutation_46.go)      [ref](https://leetcode.com/problems/permutations/)
