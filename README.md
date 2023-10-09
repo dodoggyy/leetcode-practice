@@ -522,6 +522,9 @@ Data Structure
 
         268. Missing Number (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/MissingNumber_268.java)      [C](https://github.com/dodoggyy/leetcode-practice/blob/master/C_src/Easy/268_Missing_Number/MissingNumber_268.c)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/missing_number_268.cc)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/missingNumber_268.go)      [ref](https://leetcode.com/problems/missing-number/)
+
+        274. H Index  (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/hIndex_274.go)      [ref](https://leetcode.com/problems/h-index)
      
         278. First Bad Version (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/FirstBadVersion_278.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/firstBadVersion_278.go)      [ref](https://leetcode.com/problems/first-bad-version/)
