@@ -615,6 +615,9 @@ Data Structure
      
         378. Kth Smallest Element in a Sorted Matrix (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/KthSmallestElementinaSortedMatrix_378.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/kthSmallestElementInASortedMatrix_378.go)      [ref](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+
+        380. Insert Delete GetRandom O(1) (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/insertDeleteGetRandomO1_380.go)      [ref](https://leetcode.com/problems/insert-delete-getrandom-o1)
      
         383. Ransom Note (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/RansomNote_383.java)
