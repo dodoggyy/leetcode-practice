@@ -22,6 +22,9 @@ Data Structure
         5. Longest Palindromic Substring (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/LongestPalindromicSubstring_5.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/longestPalindromicSubstring_5.go)      [ref](https://leetcode.com/problems/longest-palindromic-substring/)
 
+        6. Zigzag Conversion (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/zigzagConversion_6.go)      [ref](https://leetcode.com/problems/zigzag-conversion)
+
         7. Reverse Integer (Easy)
      [java](https://github.com/dodoggyy/AlgorithmPractice/blob/master/src/com/practice/ReverseInteger.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/reverse_integer_7.cc)      [ref](https://leetcode.com/problems/reverse-integer/)
 
