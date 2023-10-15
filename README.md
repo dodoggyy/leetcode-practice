@@ -459,6 +459,9 @@ Data Structure
 
         221. Maximal Square (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximalSquare_221.go)      [ref](https://leetcode.com/problems/maximal-square/)
+
+        222. Count Complete TreeNodes (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/containsDuplicate_217.go)      [ref](https://leetcode.com/problems/count-complete-tree-nodes/)
      
         225. Implement Stack using Queues (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ImplementStackUsingQueues_225.java)
