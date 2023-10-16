@@ -275,7 +275,7 @@ Data Structure
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/PascalsTriangle_118.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/pascalsTriangle_118.go)      [ref](https://leetcode.com/problems/pascals-triangle/)
      
         119. Pascal's Triangle II (Easy)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/PascalsTriangleII_119.java)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/PascalsTriangleII_119.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/pascalsTriangleII_119.go)      [ref](https://leetcode.com/problems/pascals-triangle-ii)
 
         120. Triangle (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/triangle_120.go)      [ref](https://leetcode.com/problems/triangle/)
