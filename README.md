@@ -94,6 +94,9 @@ Data Structure
         35. Search Insert Position (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/addBsearchInsertPosition_35.go)      [ref](https://leetcode.com/problems/search-insert-position/)
 
+        36. Valid Sudoku (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/validSudoku_36.go)      [ref](https://leetcode.com/problems/valid-sudoku)
+
         38. Count and Say (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/combinationSum_39.go)      [ref](https://leetcode.com/problems/count-and-say/)
      
