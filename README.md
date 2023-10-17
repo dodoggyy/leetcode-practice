@@ -78,6 +78,9 @@ Data Structure
 
         27. Remove Element (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/removeElement_27.go)      [ref](https://leetcode.com/problems/remove-element)
+
+        28. Find The Index of the First Occurrence in a String (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findTheIndexOfTheFirstOccurrenceInAString_28.go)      [ref](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
      
         29. Divide Two Integers (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/DivideTwoIntegers_29.java)
