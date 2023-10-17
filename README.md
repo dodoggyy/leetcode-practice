@@ -148,6 +148,9 @@ Data Structure
         57. Insert Interval (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/insertInterval_57.go)      [ref](https://leetcode.com/problems/insert-interval/)
 
+        58. Length of Last Word (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/lengthOfLastWord_58.go)      [ref](https://leetcode.com/problems/length-of-last-word)
+
         59. Spiral Matrix II (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/spiralMatrixII_59.go)      [ref](https://leetcode.com/problems/spiral-matrix-ii/)
      
