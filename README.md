@@ -153,6 +153,9 @@ Data Structure
 
         59. Spiral Matrix II (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/spiralMatrixII_59.go)      [ref](https://leetcode.com/problems/spiral-matrix-ii/)
+
+        61. Rotate List (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/rotateList_61.go)      [ref](https://leetcode.com/problems/rotate-list)
      
         62. Unique Paths (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/UniquePaths_62.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/unique_paths_62.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/uniquePaths_62.go)      [ref](https://leetcode.com/problems/unique-paths/)
