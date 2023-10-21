@@ -88,3 +88,45 @@ func canFinish2(numCourses int, prerequisites [][]int) bool {
 
 	return true
 }
+
+// Use Topological Sort via BFS:
+// Time Complexity: O(n+m)
+// Space Complexity:O(n+m)
+// Runtime: 12 ms, faster than 68.60%
+// Memory Usage: 6.05 MB, less than 97.11%
+func canFinish3(numCourses int, prerequisites [][]int) bool {
+	// take indegree = 0 to queue
+	// then minus other point indegree
+	// in the same time if indegree = 0 then append to queue
+	// finally check topologic path equal total points or not
+
+	edges := make([][]int, numCourses)
+	indeg := make([]int, numCourses)
+	result := []int{}
+
+	for _, v := range prerequisites {
+		edges[v[1]] = append(edges[v[1]], v[0])
+		indeg[v[0]]++
+	}
+
+	queue := []int{}
+	for i := 0; i < numCourses; i++ {
+		if indeg[i] == 0 {
+			queue = append(queue, i)
+		}
+	}
+
+	for len(queue) > 0 {
+		node := queue[0]
+		queue = queue[1:]
+		result = append(result, node)
+		for _, v := range edges[node] {
+			indeg[v]--
+			if indeg[v] == 0 {
+				queue = append(queue, v)
+			}
+		}
+	}
+
+	return len(result) == numCourses
+}
