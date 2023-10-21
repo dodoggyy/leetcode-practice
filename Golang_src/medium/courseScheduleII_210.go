@@ -1,6 +1,6 @@
 package medium
 
-// Use Topological Sort:
+// Use Topological Sort vis DFS:
 // Time Complexity: O(V+E)
 // Space Complexity:O(V+E)
 // Runtime: 4 ms, faster than 100.00%
@@ -48,4 +48,44 @@ func hasCycle(cur int, graph *[][]int, visit *[]int, result *[]int) bool {
 	*result = append(*result, cur)
 
 	return false
+}
+
+// Use Topological Sort via BFS:
+// Time Complexity: O(V+E)
+// Space Complexity:O(V+E)
+// Runtime: 11 ms, faster than 73.00%
+// Memory Usage: 6.28 MB, less than 90.38%
+func findOrder2(numCourses int, prerequisites [][]int) []int {
+	edges := make([][]int, numCourses)
+	indeg := make([]int, numCourses)
+	result := []int{}
+	for _, v := range prerequisites {
+		edges[v[1]] = append(edges[v[1]], v[0])
+		indeg[v[0]]++
+	}
+
+	queue := []int{}
+	for i := 0; i < numCourses; i++ {
+		if indeg[i] == 0 {
+			queue = append(queue, i)
+		}
+	}
+
+	for len(queue) > 0 {
+		node := queue[0]
+		queue = queue[1:]
+		result = append(result, node)
+		for _, v := range edges[node] {
+			indeg[v]--
+			if indeg[v] == 0 {
+				queue = append(queue, v)
+			}
+		}
+	}
+
+	if len(result) != numCourses {
+		return []int{}
+	}
+
+	return result
 }
