@@ -18,3 +18,23 @@ func containsNearbyDuplicate(nums []int, k int) bool {
 
 	return false
 }
+
+// Use sliding window + hashset:
+// Time Complexity: O(n)
+// Space Complexity:O(k)
+// Runtime: 112 ms, faster than 48.02%
+// Memory Usage: 7.73 MB, less than 99.04%
+func containsNearbyDuplicate2(nums []int, k int) bool {
+	hashset := map[int]bool{}
+	for i, v := range nums {
+		if i > k {
+			delete(hashset, nums[i-k-1])
+		}
+		if hashset[v] {
+			return true
+		}
+
+		hashset[v] = true
+	}
+	return false
+}
