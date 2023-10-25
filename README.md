@@ -1045,6 +1045,9 @@ Data Structure
         763. Partition Labels (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/partitionLabels_763.go)      [ref](https://leetcode.com/problems/partition-labels/)
 
+        779. K-th Symbol in Grammar (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/kThSymbolInGrammar_779.go)      [ref](https://leetcode.com/problems/k-th-symbol-in-grammar)
+
         785. Is Graph Bipartite? (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/isGraphBipartite_785.go)      [ref](https://leetcode.com/problems/is-graph-bipartite/)
 
