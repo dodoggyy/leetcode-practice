@@ -30,3 +30,35 @@ func insert(intervals [][]int, newInterval []int) [][]int {
 
 	return result
 }
+
+// Use simulation 2:
+// Time Complexity: O(n)
+// Space Complexity:O(1)
+// Runtime: 7 ms, faster than 65.15%
+// Memory Usage: 4.39 MB, less than 100.00%
+func insert2(intervals [][]int, newInterval []int) [][]int {
+	result := [][]int{}
+
+	cur := 0
+	for cur < len(intervals) && intervals[cur][1] < newInterval[0] {
+		result = append(result, intervals[cur])
+		cur++
+	}
+
+	for cur < len(intervals) && intervals[cur][0] <= newInterval[1] {
+		if newInterval[0] > intervals[cur][0] {
+			newInterval[0] = intervals[cur][0]
+		}
+		if newInterval[1] < intervals[cur][1] {
+			newInterval[1] = intervals[cur][1]
+		}
+		cur++
+	}
+	result = append(result, newInterval)
+	for cur < len(intervals) {
+		result = append(result, intervals[cur])
+		cur++
+	}
+
+	return result
+}
