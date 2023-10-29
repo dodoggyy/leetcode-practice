@@ -219,6 +219,9 @@ Data Structure
         
         83. Remove Duplicates from Sorted List (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/RemoveDuplicatesfromSortedList_83.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/remove_duplicates_from_sorted_list_83.cc)      [ref](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+
+        86. Partition List (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/partitionList_86.go)      [ref](https://leetcode.com/problems/partition-list/description)
      
         88. Merge Sorted Array (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/MergeSortedArray_88.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/merge_sorted_array_88.cc)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/mergeSortedArray_88.go)      [ref](https://leetcode.com/problems/merge-sorted-array/)
