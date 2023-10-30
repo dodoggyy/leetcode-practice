@@ -1245,6 +1245,9 @@ Data Structure
      
         1351. Count Negative Numbers in a Sorted Matrix (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/CountNegativeNumbersInASortedMatrix_1351.java)      [ref](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/m/problems/find-smallest-letter-greater-than-target/)
+
+        1356. Sort Integers by the Number of 1 Bits (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/sortIntegersByTheNumberOf1Bits_1356.go)      [ref](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits)
      
         1365. How Many Numbers Are Smaller Than the Current Number (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/HowManyNumbersAreSmallerThanTheCurrentNumber_1365.java)      [ref](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
