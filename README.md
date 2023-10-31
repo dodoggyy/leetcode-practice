@@ -1381,6 +1381,9 @@ Data Structure
         2441. Largest Positive Integer That Exists With Its Negative (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/largestPositiveIntegerThatExistsWithItsNegative_2441.go)      [ref](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/)
 
+        2433. Find the Original Array of Prefix XOR (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findTheOriginalArrayOfPrefixXor_2433.go)      [ref](https://leetcode.com/problems/find-the-original-array-of-prefix-xor)
+
         2515. Shortest Distance to Target String in a Circular Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/shortestDistanceToTargetStringInACircularArray_2515.go)      [ref](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/description/)
 
