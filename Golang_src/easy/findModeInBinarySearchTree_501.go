@@ -93,3 +93,44 @@ func inorder2(root *TreeNode, hashmap map[int]int, maxCount *int) {
 	inorder2(root.Right, hashmap, maxCount)
 
 }
+
+// Use dfs:
+// Time Complexity: O(n)
+// Space Complexity:O(n)
+// Runtime: 8 ms, faster than 86.36%
+// Memory Usage: 6.02 MB, less than 100.00%
+func findMode3(root *TreeNode) []int {
+	base, cnt, maxCnt := 0, 0, 0
+
+	result := []int{}
+
+	update := func(x int) {
+		if x == base {
+			cnt++
+		} else {
+			base = x
+			cnt = 1
+		}
+
+		if cnt == maxCnt {
+			result = append(result, base)
+		} else if cnt > maxCnt {
+			maxCnt = cnt
+			result = []int{base}
+		}
+	}
+
+	var inorder func(node *TreeNode)
+	inorder = func(node *TreeNode) {
+		if node == nil {
+			return
+		}
+		inorder(node.Left)
+		update(node.Val)
+		inorder(node.Right)
+	}
+
+	inorder(root)
+
+	return result
+}
