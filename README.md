@@ -1354,6 +1354,9 @@ Data Structure
         2215. Find the Difference of Two Arrays (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/finalValueOfVariableAfterPerformingOperations_2011.go)      [ref](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
 
+        2265. Count Nodes Equal to Average of Subtree (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/countNodesEqualToAverageOfSubtree_2265.go)      [ref](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree)
+
         2300. Successful Pairs of Spells and Potions (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findTheDifferenceOfTwoArrays_2215.go)      [ref](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/)
 
