@@ -324,6 +324,9 @@ Data Structure
 
         134. Gas Station (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/gasStation_134.go)      [ref](https://leetcode.com/problems/gas-station/description)
+
+        135. Candy (hard)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/hard/candy_135.go)      [ref](https://leetcode.com/problems/candy)
      
         136. Single Number (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/SingleNumber_136.java)      [C](https://github.com/dodoggyy/leetcode-practice/blob/master/C_src/Easy/136.%20Single%20Number/SingleNumber_136.c)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/single_number_136.cc)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/singleNumber_136.go)      [ref](https://leetcode.com/problems/single-number/)
