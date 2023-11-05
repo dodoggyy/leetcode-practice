@@ -1285,6 +1285,9 @@ Data Structure
         1512. Number of Good Pairs (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/numberOfGoodPairs_1512.go)      [ref](https://leetcode.com/problems/number-of-good-pairs/description)
 
+        1535. Find the Winner of an Array Game (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findTheWinnerOfAnArrayGame_1535.go)      [ref](https://leetcode.com/problems/find-the-winner-of-an-array-game)
+
         1544. Make The String Great (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/makeTheStringGreat_1544.go)      [ref](https://leetcode.com/problems/make-the-string-great/description/)
 
