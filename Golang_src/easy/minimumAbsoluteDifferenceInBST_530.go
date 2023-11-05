@@ -33,26 +33,28 @@ func inorder(root *TreeNode) []int {
 // Use dfs compare current one with previous one to reduce space:
 // Time Complexity: O(n)
 // Space Complexity:O(h)
-// Runtime: 12 ms, faster than 70.00%
-// Memory Usage: 6 MB, less than 38.00%
+// Runtime: 10 ms, faster than 67.52%
+// Memory Usage: 6.54 MB, less than 79.30%
 func getMinimumDifference2(root *TreeNode) int {
+	result := math.MaxInt32
 	pre := -1
-	result := math.MaxInt16
 
-	dfs(root, &pre, &result)
-
-	return result
-}
-
-func dfs(root *TreeNode, pre, min *int) {
-	if root != nil {
-		dfs(root.Left, pre, min)
-		if *pre != -1 {
-			if root.Val-*pre < *min {
-				*min = root.Val - *pre
+	var dfs func(node *TreeNode)
+	dfs = func(node *TreeNode) {
+		if node == nil {
+			return
+		}
+		dfs(node.Left)
+		if pre != -1 {
+			if node.Val-pre < result {
+				result = node.Val - pre
 			}
 		}
-		*pre = root.Val
-		dfs(root.Right, pre, min)
+		pre = node.Val
+		dfs(node.Right)
 	}
+
+	dfs(root)
+
+	return result
 }
