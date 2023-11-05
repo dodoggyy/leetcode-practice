@@ -332,7 +332,7 @@ Data Structure
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/SingleNumber_136.java)      [C](https://github.com/dodoggyy/leetcode-practice/blob/master/C_src/Easy/136.%20Single%20Number/SingleNumber_136.c)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/single_number_136.cc)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/singleNumber_136.go)      [ref](https://leetcode.com/problems/single-number/)
      
         137. Single Number II (Medium)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/SingleNumberII_137.java)      [ref](https://leetcode.com/problems/single-number-ii/)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/SingleNumberII_137.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/singleNumberII_137.go)      [ref](https://leetcode.com/problems/single-number-ii/)
 
         138. Copy List with Random Pointer (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/copyListWithRandomPointer_138.go)      [ref](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
