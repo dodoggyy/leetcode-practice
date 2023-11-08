@@ -1470,6 +1470,9 @@ Data Structure
 
         2843. Count Symmetric Integers (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/countSymmetricIntegers_2843.go)      [ref](https://leetcode.com/problems/count-symmetric-integers/description/)
+
+        2849. Determine if a Cell is Reachable at a Given Time (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/determineIfACellIsReachableAtAGivenTime_2849.go)      [ref](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time)
     
     
 *   **Design Pattern :**
