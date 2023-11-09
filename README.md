@@ -288,6 +288,9 @@ Data Structure
 
         114. Flatten Binary Tree to Linked List (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/flattenBinaryTreeToLinkedList_114.go)      [ref](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+
+        117. Populating Next Right Pointers in Each Node II (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/populatingNextRightPointersInEachNodeII_117.go)      [ref](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)
      
         118. Pascal's Triangle (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/PascalsTriangle_118.java)     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/pascalsTriangle_118.go)      [ref](https://leetcode.com/problems/pascals-triangle/)
