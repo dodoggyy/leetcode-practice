@@ -1330,6 +1330,9 @@ Data Structure
         1732. Find the Highest Altitude (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findTheHighestAltitude_1732.go)      [ref](https://leetcode.com/problems/find-the-highest-altitude/description)
 
+        1743. Restore the Array from Adjacent Pairs (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/restoreTheArrayFromAdjacentPairs_1743.go)      [ref](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description)
+
         1759. Count Number of Homogenous Substrings (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/countNumberOfHomogenousSubstrings_1759.go)      [ref](https://leetcode.com/problems/count-number-of-homogenous-substrings)
 
