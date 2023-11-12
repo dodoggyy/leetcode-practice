@@ -361,6 +361,9 @@ Data Structure
         146. LRU Cache (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/LRUCache_146.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/LRUCache_146.go)      [ref](https://leetcode.com/problems/lru-cache/)
 
+        148. Sort List (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/sortList_148.go)      [ref](https://leetcode.com/problems/sort-list/description)
+
         151. Reverse Words in a String (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/reverseWordsInAString_151.go)      [ref](https://leetcode.com/problems/reverse-words-in-a-string/?envType=study-plan-v2&envId=leetcode-75)
 
