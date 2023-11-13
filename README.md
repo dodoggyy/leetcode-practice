@@ -1453,6 +1453,9 @@ Data Structure
         2784. Check if Array is Good (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/checkIfArrayIsGood_2784.go)      [ref](https://leetcode.com/problems/check-if-array-is-good/description/)
 
+        2785. Sort Vowels in s String (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/sortVowelsInAString_2785.go)      [ref](https://leetcode.com/problems/sort-vowels-in-a-string)
+
         2788. Split Strings by Separator (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/splitStringsBySeparator_2788.go)      [ref](https://leetcode.com/problems/split-strings-by-separator/description/)
 
