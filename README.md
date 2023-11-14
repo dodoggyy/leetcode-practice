@@ -1351,7 +1351,10 @@ Data Structure
         1921. Eliminate Maximum Number of Monsters (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/eliminateMaximumNumberOfMonsters_1921.go)      [ref](https://leetcode.com/problems/count-sub-islands/)
 
-        1926. Nearest Exit from Entrance in Maze (Medium)
+        1926. Unique Length 3 Palindromic Subsequences (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/uniqueLength3PalindromicSubsequences_1930.go)      [ref](https://leetcode.com/problems/unique-length-3-palindromic-subsequences)
+
+        1930. Nearest Exit from Entrance in Maze (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/nearestExitFromEntranceInMaze_1926.go)      [ref](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze)
 
         2007. Find Original Array From Doubled Array (Medium)
