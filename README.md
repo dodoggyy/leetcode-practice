@@ -1363,6 +1363,9 @@ Data Structure
         1930. Nearest Exit from Entrance in Maze (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/nearestExitFromEntranceInMaze_1926.go)      [ref](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze)
 
+        1980. Find Unique Binary String (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findUniqueBinaryString_1980.go)      [ref](https://leetcode.com/problems/find-unique-binary-string)
+
         2007. Find Original Array From Doubled Array (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findOriginalArrayFromDoubledArray_2007.go)      [ref](https://leetcode.com/problems/find-original-array-from-doubled-array/)
 
