@@ -717,6 +717,9 @@ Data Structure
      
         429. N-ary Tree Level Order Traversal (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NaryTreeLevelOrderTraversal_429.java)    [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/naryTreeLevelOrderTraversal_429.go)      [ref](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
+
+        433. Minimum Genetic Mutation (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumGeneticMutation_433.go)      [ref](https://leetcode.com/problems/minimum-genetic-mutation)
      
         434. Number of Segments in a String (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NumberOfSegmentsInAString_434.java)
