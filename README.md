@@ -1354,6 +1354,9 @@ Data Structure
         1846. Maximum Element After Decreasing and Rearranging (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumElementAfterDecreasingAndRearranging_1846.go)      [ref](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging)
 
+        1877. Minimize Maximum Pair Sum in Array (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimizeMaximumPairSumInArray_1877.go)      [ref](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array)
+
         1905. Count Sub Islands (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/countSubIslands_1905.go)      [ref](https://leetcode.com/problems/count-sub-islands/)
 
