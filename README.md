@@ -1351,6 +1351,9 @@ Data Structure
         1832. Check if the Sentence Is Pangram (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/maximumUnitsOnATruck_1710.go)      [ref](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)
 
+        1838. Frequency of the Most Frequent Element (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/frequencyOfTheMostFrequentElement_1838.go)      [ref](https://leetcode.com/problems/frequency-of-the-most-frequent-element)
+
         1846. Maximum Element After Decreasing and Rearranging (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumElementAfterDecreasingAndRearranging_1846.go)      [ref](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging)
 
