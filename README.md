@@ -18,6 +18,9 @@ Data Structure
      
         3. Longest Substring Without Repeating Characters (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/LongestSubstringWithoutRepeatingCharacters_3.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/medium/longest_substring_without_repeating_characters_3.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/longestSubstringWithoutRepeatingCharacters_3.go)      [ref](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+        4. Median of Two Sorted Arrays (Hard)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/hard/medianOfTwoSortedArrays_4.go)      [ref](https://leetcode.com/problems/median-of-two-sorted-arrays)
      
         5. Longest Palindromic Substring (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/medium/LongestPalindromicSubstring_5.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/longestPalindromicSubstring_5.go)      [ref](https://leetcode.com/problems/longest-palindromic-substring/)
