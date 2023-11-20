@@ -1435,6 +1435,9 @@ Data Structure
         2390. Removing Stars From a String (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/removingStarsFromAString_2390.go)      [ref](https://leetcode.com/problems/removing-stars-from-a-string/description/)
 
+        2391. Minimum Amount of Time to Collect Garbage (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumAmountOfTimeToCollectGarbage_2391.go)      [ref](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage)
+
         2405. Optimal Partition of String (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/optimalPartitionOfString_2405.go)      [ref](https://leetcode.com/problems/optimal-partition-of-string/description/)
 
