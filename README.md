@@ -723,6 +723,9 @@ Data Structure
 
         416. Partition Equal Subset Sum (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/partitionEqualSubsetSum_416.go)      [ref](https://leetcode.com/problems/partition-equal-subset-sum/)
+
+        427. Construct Quad Tree (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/constructQuadTree_427.go)      [ref](https://leetcode.com/problems/construct-quad-tree)
      
         429. N-ary Tree Level Order Traversal (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/NaryTreeLevelOrderTraversal_429.java)    [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/naryTreeLevelOrderTraversal_429.go)      [ref](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
