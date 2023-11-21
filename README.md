@@ -654,6 +654,9 @@ Data Structure
      
         371. Sum of Two Integers (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/SumofTwoIntegers_371.java)      [C++](https://github.com/dodoggyy/leetcode-practice/blob/master/Cpp_src/easy/sum_of_two_integers_371.cc)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/sumOfTwoIntegers_371.go)      [ref](https://leetcode.com/problems/sum-of-two-integers/)
+
+        373. Find k Pairs with Smallest Sums (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findKPairsWithSmallestSums_373.go)      [ref](https://leetcode.com/problems/find-k-pairs-with-smallest-sums)
      
         374. Guess Number Higher or Lower (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/GuessNumberHigherOrLower_374.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/guessNumberHigherOrLower_374.go)      [ref](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
