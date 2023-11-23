@@ -1324,6 +1324,9 @@ Data Structure
         1578. Minimum Time to Make Rope Colorful (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumTimeToMakeRopeColorful_1578.go)      [ref](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/)
 
+        1630. Arithmetic Subarrays (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/arithmeticSubarrays_1630.go)      [ref](https://leetcode.com/problems/arithmetic-subarrays)
+
         1646. Get Maximum in Generated Array (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/getMaximumInGeneratedArray_1646.go)      [ref](https://leetcode.com/problems/get-maximum-in-generated-array/)
 
