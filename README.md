@@ -745,8 +745,8 @@ Data Structure
         437. Path Sum III (Medium)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/PathSumIII_437.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/pathSumIII_437.go)      [ref](https://leetcode.com/problems/path-sum-iii/)
      
-        438. Find All Anagrams in a String (Easy)
-     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/FindAllAnagramsInAString_438.java)
+        438. Find All Anagrams in a String (Medium)
+     [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/FindAllAnagramsInAString_438.java)      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/findAllAnagramsInAString_438.go)      [ref](https://leetcode.com/problems/find-all-anagrams-in-a-string)
      
         441. Arranging Coins (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/ArrangingCoins_441.java)
