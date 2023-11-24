@@ -1318,6 +1318,9 @@ Data Structure
         1544. Make The String Great (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/makeTheStringGreat_1544.go)      [ref](https://leetcode.com/problems/make-the-string-great/description/)
 
+        1561. Maximum Number of Coins You Can Get (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumNumberOfCoinsYouCanGet_1561.go)      [ref](https://leetcode.com/problems/maximum-number-of-coins-you-can-ge)
+
         1572. Matrix Diagonal Sum (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/matrixDiagonalSum_1572.go)      [ref](https://leetcode.com/problems/matrix-diagonal-sum/description/)
 
