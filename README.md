@@ -1542,6 +1542,9 @@ Data Structure
 
         2849. Determine if a Cell is Reachable at a Given Time (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/determineIfACellIsReachableAtAGivenTime_2849.go)      [ref](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time)
+
+        2942. Find Words Containing Character (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findWordsContainingCharacter_2942.go)      [ref](https://leetcode.com/problems/find-words-containing-character)
     
     
 *   **Design Pattern :**
