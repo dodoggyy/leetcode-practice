@@ -1255,6 +1255,9 @@ Data Structure
         1260. Shift 2D Grid (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/shift2DGrid_1260.go)      [ref](https://leetcode.com/problems/shift-2d-grid/)
 
+        1266. Minimum Time Visiting All Points (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/minimumTimeVisitingAllPoints_1266.go)      [ref](https://leetcode.com/problems/minimum-time-visiting-all-points)
+
         1268. Search Suggestions System (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/searchSuggestionsSystem_1268.go)      [ref](https://leetcode.com/problems/search-suggestions-system)
 
