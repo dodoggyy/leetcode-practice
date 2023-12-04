@@ -1435,6 +1435,9 @@ Data Structure
         2215. Find the Difference of Two Arrays (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/finalValueOfVariableAfterPerformingOperations_2011.go)      [ref](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
 
+        2264. Largest 3 Same Digit Number in String (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/largest3SameDigitNumberInString_2264.go)      [ref](https://leetcode.com/problems/largest-3-same-digit-number-in-string)
+
         2265. Count Nodes Equal to Average of Subtree (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/countNodesEqualToAverageOfSubtree_2265.go)      [ref](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree)
 
