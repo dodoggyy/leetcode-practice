@@ -1354,6 +1354,9 @@ Data Structure
         1685. Sum of Absolute Differences in a Sorted Array (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/sumOfAbsoluteDifferencesInASortedArray_1685.go)      [ref](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array)
 
+        1688. Count of Matches in Tournament (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/countOfMatchesInTournament_1688.go)      [ref](https://leetcode.com/problems/count-of-matches-in-tournament)
+
         1695. Maximum Erasure Value (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumErasureValue_1695.go)      [ref](https://leetcode.com/problems/maximum-erasure-value/)
 
