@@ -1399,6 +1399,9 @@ Data Structure
         1887. Reduction Operations to Make the Array Elements Equal (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/reductionOperationsToMakeTheArrayElementsEqual_1887.go)      [ref](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal)
 
+        1903. Largest Odd Number in String (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/largestOddNumberInString_1903.go)      [ref](https://leetcode.com/problems/largest-odd-number-in-string)
+
         1905. Count Sub Islands (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/countSubIslands_1905.go)      [ref](https://leetcode.com/problems/count-sub-islands/)
 
