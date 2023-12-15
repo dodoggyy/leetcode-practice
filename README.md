@@ -1294,6 +1294,9 @@ Data Structure
         1431. Kids With the Greatest Number of Candies (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/kidsWithTheGreatestNumberOfCandies_1431.go)      [ref](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description)
 
+        1436. Destination City (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/destinationCity_1436.go)      [ref](https://leetcode.com/problems/destination-city)
+
         1441. Build an Array with Stack Operations (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/buildAnArrayWithStackOperations_1441.go)      [ref](https://leetcode.com/problems/build-an-array-with-stack-operations)
 
