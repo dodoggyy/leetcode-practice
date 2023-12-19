@@ -985,6 +985,9 @@ Data Structure
         653. Two Sum IV - Input is a BST (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/twoSumIV_653.go)      [ref](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 
+        661. Image Smoother (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/imageSmoother_661.go)      [ref](https://leetcode.com/problems/image-smoother)
+
         662. Maximum Width of Binary Tree (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumWidthOfBinaryTree_662.go)      [ref](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 
