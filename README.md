@@ -1519,6 +1519,9 @@ Data Structure
         2605. Form Smallest Number From Two Digit Arrays (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/formSmallestNumberFromTwoDigitArrays_2605.go)      [ref](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/description/)
 
+        2706. Buy Two Chocolates (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/buyTwoChocolates_2706.go)      [ref](https://leetcode.com/problems/buy-two-chocolates)
+
         2744. Find Maximum Number of String Pairs (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findMaximumNumberOfStringPairs_2744.go)      [ref](https://leetcode.com/problems/find-maximum-number-of-string-pairs/description/)
 
