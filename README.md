@@ -1390,6 +1390,9 @@ Data Structure
         1743. Restore the Array from Adjacent Pairs (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/restoreTheArrayFromAdjacentPairs_1743.go)      [ref](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description)
 
+        1758. Minimum Changes to Make Alternating Binary String (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/minimumChangesToMakeAlternatingBinaryString_1758.go)      [ref](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string)
+
         1759. Count Number of Homogenous Substrings (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/countNumberOfHomogenousSubstrings_1759.go)      [ref](https://leetcode.com/problems/count-number-of-homogenous-substrings)
 
