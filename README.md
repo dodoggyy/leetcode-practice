@@ -1582,6 +1582,9 @@ Data Structure
         2849. Determine if a Cell is Reachable at a Given Time (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/determineIfACellIsReachableAtAGivenTime_2849.go)      [ref](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time)
 
+        2870. Minimum Number of Operations to Make Array Empty (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumNumberOfOperationsToMakeArrayEmpty_2870.go)      [ref](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty)
+
         2937. Make Three Strings Equal (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/makeThreeStringsEqual_2937.go)      [ref](https://leetcode.com/problems/make-three-strings-equal/description/)
 
