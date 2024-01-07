@@ -1591,7 +1591,10 @@ Data Structure
          2942. Find Words Containing Character (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/findWordsContainingCharacter_2942.go)      [ref](https://leetcode.com/problems/find-words-containing-character)
 
-          2980. Check if Bitwise or Has Trailing Zeros (Easy)
+         2974. Minimum Number Game (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/minimumNumberGame_2974.go)      [ref](https://leetcode.com/problems/minimum-number-game)
+
+         2980. Check if Bitwise or Has Trailing Zeros (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/checkIfBitwiseOrHasTrailingZeros_2980.go)      [ref](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros)
     
     
