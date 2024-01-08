@@ -1168,6 +1168,9 @@ Data Structure
         933. Number of Recent Calls (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/numberOfRecentCalls_933.go)      [ref](https://leetcode.com/problems/number-of-recent-calls/description)
 
+        938. Range Sum of BST (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/rangeSumOfBst_938.go)      [ref](https://leetcode.com/problems/range-sum-of-bst)
+
         946. Validate Stack Sequences (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/validateStackSequences_946.go)      [ref](https://leetcode.com/problems/validate-stack-sequences/description/)
 
