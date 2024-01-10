@@ -1486,6 +1486,9 @@ Data Structure
         2352. Equal Row And Column Pairs (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/equalRowAndColumnPairs_2352.go)      [ref](https://leetcode.com/problems/equal-row-and-column-pairs/description)
 
+        2385. Amount of Time for Binary Tree to Be Infected (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/amountOfTimeForBinaryTreeToBeInfected_2385.go)      [ref](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected)
+
         2390. Removing Stars From a String (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/removingStarsFromAString_2390.go)      [ref](https://leetcode.com/problems/removing-stars-from-a-string/description/)
 
