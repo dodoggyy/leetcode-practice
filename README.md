@@ -1378,6 +1378,9 @@ Data Structure
         1695. Maximum Erasure Value (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/maximumErasureValue_1695.go)      [ref](https://leetcode.com/problems/maximum-erasure-value/)
 
+        1704. Determine if String Halves Are Alike (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/determineIfStringHalvesAreAlike_1704.go)      [ref](https://leetcode.com/problems/determine-if-string-halves-are-alike)
+
         1710. Maximum Units on a Truck (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/maximumUnitsOnATruck_1710.go)      [ref](https://leetcode.com/problems/maximum-units-on-a-truck/)
 
