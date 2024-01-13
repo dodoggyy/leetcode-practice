@@ -1284,6 +1284,9 @@ Data Structure
 
         1338. Reduce Array Size to The Half (Medium)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/reduceArraySizeToTheHalf_1338.go)      [ref](https://leetcode.com/problems/reduce-array-size-to-the-half/)
+
+        1347. Minimum Number of Steps to Make Two Strings Anagram (Medium)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/medium/minimumNumberOfStepsToMakeTwoStringsAnagram_1347.go)      [ref](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram)
      
         1351. Count Negative Numbers in a Sorted Matrix (Easy)
      [java](https://github.com/dodoggyy/leetcode-practice/blob/master/src/com/easy/CountNegativeNumbersInASortedMatrix_1351.java)      [ref](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/m/problems/find-smallest-letter-greater-than-target/)
