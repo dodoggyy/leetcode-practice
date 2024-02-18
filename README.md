@@ -1608,6 +1608,9 @@ Data Structure
 
          2980. Check if Bitwise or Has Trailing Zeros (Easy)
      [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/checkIfBitwiseOrHasTrailingZeros_2980.go)      [ref](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros)
+
+         3042. Count Prefix and Suffix Pairs I (Easy)
+     [Go](https://github.com/dodoggyy/leetcode-practice/blob/master/Golang_src/easy/countPrefixAndSuffixPairsI_3042.go)      [ref](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/)
     
     
 *   **Design Pattern :**
